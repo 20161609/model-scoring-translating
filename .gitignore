@@ -1,0 +1,5 @@
+ignore/
+__pycache__/
+.venv/
+qe-model/
+qe-test/
