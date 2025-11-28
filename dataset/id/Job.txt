@@ -1,0 +1,1665 @@
+Siapkan otentikasi dua faktor.
+Mohon minta persetujuan kedua.
+Data apa yang diminta tim audit?
+Apakah tim pengembangan menyediakan perkiraan waktu?
+Apakah tim pengembang memahami persyaratan ini?
+Tim pengembang akan merilisnya minggu ini.
+Akankah tim pengembang dapat menyebarkannya minggu ini?
+Dapatkah tim pengembang bekerja pada akhir pekan?
+Apakah tim pengembang memerlukan data tambahan?
+Setelah peninjauan selesai, mohon kirimkan pembayarannya.
+Tolong kirimkan perkiraannya lagi.
+Tolong kirimkan kami sebuah kutipan.
+Tolong laporkan hasilnya.
+Silakan periksa kembali baris persetujuan.
+Jangan lupa untuk menyertakan file terlampir ketika mengirimkan persetujuan Anda.
+Harap konsolidasi file yang perlu Anda unggah untuk persetujuan ke dalam satu file.
+Tolong setujui pembayarannya.
+Tolong setujui ini.
+Tolong berikan persetujuanmu.
+Silakan periksa tanggal kedaluwarsa kontrak.
+Tolong kirimkan saya persyaratan kontrak melalui email.
+Silakan berbagi kontrak asli dengan memindai itu.
+Silakan meninjau kontrak lagi.
+Tolong cetak kontraknya.
+Tolong cetak kontraknya dan bawa bersamamu.
+Silakan kembalikan akses akun Anda.
+Buat akun.
+Tolong cetak jadwalnya dan bawa ke pertemuan.
+Segera tanggapi email pelanggan.
+Jangan lewatkan pertanyaan pelanggan.
+Harap memproses permintaan pelanggan secepat mungkin.
+Harap simpan umpan balik pelanggan.
+Harap atur umpan balik pelanggan.
+Silahkan hubungi perwakilan pelanggan lagi.
+Perusahaan pelanggan menyatakan keinginan untuk meninjau kembali persyaratan SLA.
+Silakan kirim email permintaan maaf ke pelanggan.
+Tolong hubungi pelanggan.
+Pelanggan ingin menegosiasikan ulang harganya.
+Harap segera mengirimkan tanggapan kepada pelanggan.
+Silakan tinggalkan catatan panggilan untuk pelanggan.
+Jangan lupa untuk mengunggahnya ke drive bersama juga.
+Pastikan untuk mengatur tautan bersama agar kedaluwarsa.
+Silakan lihat pemberitahuannya.
+Akankah tim manajemen menyetujui anggaran itu?
+Apakah tim pendidikan melakukan survei kepuasan?
+Silakan lengkapi aplikasi pendidikan Anda.
+Silakan kirimkan catatan pelatihan lengkap Anda.
+Silakan periksa peraturannya.
+Apakah tim tahu tentang perubahan kita?
+Apakah tim berencana untuk mendukung fitur ini?
+Dapatkah tim melanjutkan dengan jadwal ini?
+Bisakah tim mengirim datanya hari ini?
+Apakah tim terbuka untuk menyesuaikan waktu pertemuan?
+Tim dukungan teknis telah sepakat untuk memberikan jawaban pada akhir hari ini.
+Tim teknis menyarankan untuk memperpendek periode retensi log.
+Tim teknis mengumumkan bahwa mereka akan me-restart server pagi ini.
+Harap kirimkan draft dokumen.
+Jika ini darurat, tolong beritahu saya melalui telepon.
+Apakah Manajer Kim mendapat respon dari pelanggan?
+Bisakah Kepala Bagian Kim mengurangi anggaran?
+Bisakah Manajer Kim membantu tim kita?
+Apakah Manajer Kim memberikan penjelasan singkat kepada para eksekutif tentang proposal ini?
+Apa Tn. Kim sudah mengubah jadwal tesnya?
+Apa Ketua Tim Kim punya pemikiran atau pendapat lain?
+Apakah Ketua Tim Kim akan menghadiri pertemuan hari ini?
+Apakah Anda akan mengirimkan proposal kami kepada pelanggan, Mr Kim?
+Apakah Ketua Tim Kim tahu tentang agenda ini?
+Apakah Ketua Tim Kim setuju dengan jadwal ini?
+Apa Tn. Kim sudah menyelesaikan teleponnya dengan pelanggan?
+Apakah Kim Dae-ri kembali berhubungan dengan pelanggan?
+Aku akan menyentuh dasar dengan departemen terkait pertama.
+Kim Dae-ri akan segera mengirim balasan ke email.
+Kim Dae-ri mereplikasi kesalahan dari kemarin.
+Apa Kim Dae-ri ingat rincian pertemuan kemarin?
+Kim Dae-ri menyelesaikan pertemuan beberapa menit dari kemarin.
+Kim Dae-ri akan menyelesaikan estimasi pada akhir hari ini.
+Kim Dae-ri akan lembur malam ini.
+Kim Dae-ri akan memasukkan biaya ini dalam anggaran.
+Apakah Tuan Kim sudah meninjau agenda ini?
+Saya akan berbagi masalah ini dengan tim pengembangan.
+Dimana kau menyimpan data ini, Tuan Kim?
+Mr Kim dijadwalkan untuk melakukan perjalanan bisnis minggu ini.
+Manajer Kim akan melengkapi dokumen penyerahan pada akhir hari ini.
+Manajer Kim mengumpulkan dan mengunggah data.
+Bisakah Manajer Kim masuk ke ruang rapat sekarang?
+Akan kusampaikan laporannya sore ini.
+Aku punya segalanya direncanakan untuk minggu ini.
+Dapatkah saya menuliskan kunci API saya di sini?
+Aku memberi penjelasan pada ketua tim tentang hasil QA pagi ini.
+Aku akan berbagi hasil QA dengan tim produk.
+Saya percaya bahwa kerja sama dari masing-masing departemen sangat penting.
+Aku akan meninjau panduan pengembangan dan meninggalkan pikiran saya di atasnya.
+Aku akan merevisi estimasi dan mengirimkannya kembali kepada Anda.
+Aku benci perkiraan revisi.
+Saya juga telah menyiapkan kutipan dalam bahasa Inggris.
+Aku akan memberitahumu segera setelah aku mendapatkan hasilnya.
+Aku akan melaporkan hasilnya langsung ke ketua tim.
+Aku menyerahkan surat absenku pagi ini.
+Aku sudah menyerahkan dokumen untuk persetujuan.
+Aku akan bergerak maju segera setelah saya mendapatkan persetujuan.
+Dapatkah saya hanya menambahkan satu baris persetujuan?
+Aku akan menyiapkan bahan pengarahan eksekutif.
+Aku akan mencetak kontraknya dan menandatanganinya.
+Aku akan mengumpulkan data CS pelanggan.
+Saya telah merangkum semua pertanyaan yang muncul selama pertemuan pelanggan.
+Aku akan meringkas kekhawatiran pelanggan dan mengirimkannya.
+Aku sudah menyusun tanggapan atas keluhan pelanggan.
+Saya akan mengembangkan rencana untuk meminimalkan keluhan pelanggan.
+Saya telah mengidentifikasi penyebab mendasar dari keluhan pelanggan.
+Aku akan meringkas permintaan pelanggan dan menyampaikannya.
+Dapatkah saya hanya menerima permintaan pelanggan sebagian?
+Aku akan membuat ulang manual layanan pelanggan.
+Aku akan menyiapkan presentasi untuk klien kita.
+Aku akan mengumpulkan umpan balik pelanggan dan menyampaikannya kepada tim pengembang.
+Saya telah mengkonfirmasi bahwa perwakilan pelanggan telah diganti.
+Aku sudah menghubungi semua klien pagi ini.
+Saya telah memposting umpan balik pelanggan pada Gagasan.
+Aku mengirim email permintaan maaf ke pelanggan.
+Aku berjanji kepada pelanggan bahwa aku akan kembali kepada mereka pada akhir hari.
+Aku akan meringkas poin kunci yang dicari pelanggan dan mengirimkannya.
+Saya telah melihat bahwa pelanggan terus menanyakan pertanyaan yang sama berulang-ulang.
+Aku akan memverifikasi lisensi yang relevan dan membuat Anda informasi.
+Aku sudah mengaturnya ke mode administrator.
+Aku akan meng-upload video pelatihan ke jaringan internal perusahaan kami.
+Saya tidak tersedia di sore hari karena jadwal pelatihan saya.
+Aku akan mengkoordinasikan jadwal pelatihan dengan tim HR.
+Aku akan mencetak materi pendidikan untukmu.
+Saya ingin belajar lebih banyak tentang sistem pendukung pendidikan.
+Saya hanya tersedia untuk pertemuan pada hari Jumat sore.
+Aku akan mengurus tugas penting pertama.
+Saya telah menyisihkan tiket mendesak yang perlu ditangani segera.
+Aku akan menyelaraskan tujuan pribadiku dengan tujuan tim.
+Saya ingin mengambil peran yang lebih signifikan.
+Aku akan syuting video demonstrasi besok pagi.
+Aku ada pertemuan dengan tim keuangan yang dijadwalkan besok.
+Aku takut aku akan sedikit terlambat untuk bekerja besok.
+Saya akan membuat dua konsep desain lagi besok.
+Aku akan menyerahkan formulir evaluasi wawancara besok.
+Aku akan terus mengabarimu tentang situasi ini secara real-time.
+Saya ingin melihat pada bagian Anda bertanggung jawab untuk pertama.
+Aku akan membuat beberapa penyesuaian kecil untuk laporan Anda.
+Aku sudah menyelesaikan tinjauan kode yang kau tulis.
+Setelah mendengar pendapat dari departemen lain, aku akan membuat keputusan.
+Dapatkah saya bergabung dengan tim lain?
+Aku akan menyusun anggaran untuk bulan depan.
+Aku akan mulai menyiapkan agenda untuk pertemuan berikutnya.
+Saat ini aku sedang mengerjakan materi presentasi berikutnya.
+Aku akan menulis catatan rilis untuk versi berikutnya.
+Aku akan mendokumentasikan tujuanku untuk kuartal berikutnya.
+Saya ingin menetapkan tujuan saya untuk kuartal berikutnya di muka.
+Aku sudah merencanakan staf untuk kuartal berikutnya.
+Saya ingin menambahkan fitur ini ke sprint berikutnya.
+Aku akan memperbarui jadwal untuk minggu depan.
+Saya ingin mengambil wawancara lain minggu depan.
+Saya ingin mengambil hari libur minggu depan.
+Bolehkah saya mengambil cuti tahunan saya minggu depan?
+Saya ingin meninjau kembali masalah ini pada pertemuan berikutnya.
+Dapatkah saya melakukan demo di pagi hari?
+Saya akan meninjau konsep desain setelah saya menerimanya.
+Aku sudah upload file desain ke drive bersama.
+Haruskah aku memeriksa dengan tim desain pertama?
+Dapatkah saya berbagi file log dengan Anda?
+Aku memeriksa log dan mengidentifikasi penyebabnya.
+Dapatkah saya kepala keluar sedikit lebih awal?
+Dapatkah saya mengirimkannya langsung melalui messenger?
+Bolehkah saya menambahkan CEO sebagai referensi di email?
+Aku akan meninjau latar belakang wawancara.
+Aku pasti akan menyoroti pengalaman proyekku selama wawancara.
+Aku akan standarisasi kuesioner wawancara.
+Aku akan memberikan rincian numerik kinerja kami terhadap target kami.
+Aku akan menyederhanakan struktur dokumen.
+Aku akan menstandarisasi templat dokumen dan membuatnya tersedia untuk berbagi.
+Aku sudah standarisasi template dokumen untuk mencocokkan format seragam perusahaan kami.
+Aku sudah memutar kembali bagian kode yang bermasalah.
+Haruskah aku mengirim email permintaan maaf ke pelanggan segera?
+Aku baru saja menerima telepon keluhan dari pelanggan.
+Aku baru saja memeriksa log sistem.
+Aku akan mendorong jadwal penyebaran ke pagi hari.
+Aku akan meninjau daftar tes pra-deployment.
+Aku akan memastikan untuk membackup file saya sebelum saya menyebarkannya.
+Aku akan mengawasi masalah yang muncul setelah penyebaran.
+Aku akan menyimpan file cadangan di lokasi penyimpanan eksternal.
+Aku sudah memposting daftar bug pada pelacak masalah.
+Saya juga menyertakan konten wawancara dalam laporan.
+Aku akan mencocokkan jadwal di papan tulis dengan jadwal yang sebenarnya.
+Aku akan pergi ke pedoman keamanan lagi.
+Aku sudah membaca ulang peraturan keamanan dan menyerahkan tanda tanganku.
+Aku akan memastikan untuk singkat tim saya pada pedoman keamanan.
+Aku akan menengahi masalah antar departemen.
+Aku akan memeriksa ulang situasi anggaran departemen.
+Aku akan memecahkan alasan di balik kenaikan biaya.
+Dapatkah saya mengatur biaya pada tingkat ini?
+Dapatkah saya mengulang membangun sekarang?
+Saya juga ingin membuat materi pelatihan dalam bahasa Inggris.
+Aku memeriksa papan pesan internal perusahaan.
+Dengan senang hati saya akan memberikan penjelasan singkat tentang jadwal acara perusahaan.
+Saya telah mengidentifikasi beberapa area yang mungkin membingungkan bagi pengguna.
+Dapatkah saya membuat akun lain?
+Aku mulai bekerja dengan rekan asing yang baru.
+Aku akan singkat magang baru pada tugas ini.
+Aku akan menyerahkan tanggung jawab kepada karyawan baru.
+Saya telah menginstal versi terbaru dari aplikasi.
+Dapatkah saya mengirimkan tanda tangan di sore hari?
+Aku sudah memposting jadwal pemeliharaan server.
+Aku akan mengumumkan kembali jadwal pemeliharaan server.
+Aku akan memperbarui dasbor dengan metrik kinerja.
+Saya menjelaskan kriteria penilaian kinerja kepada anggota tim.
+Aku membuat akun tes dan membaginya.
+Saya juga akan menulis manual fitur baru dalam bahasa Inggris.
+Saya telah menulis deskripsi fitur baru di wiki.
+Aku akan memperbarui materi pelatihan untuk karyawan baru.
+Aku akan membuat daftar karyawan baru.
+Aku akan menjelaskan sistem untuk karyawan baru.
+Aku akan meninjau proposal untuk proyek baru.
+Saya akan meringkas pertanyaan yang saya siapkan untuk wawancara pengembang baru.
+Aku tidak akan pernah membuat kesalahan yang sama lagi.
+Aku belum menerima balasan email yang kukirim pagi ini.
+Aku merevisi file Excel yang kau minta kemarin.
+Aku sudah meletakkan permintaan kemarin di backburner.
+Aku masih belum membuka file yang kuterima kemarin.
+Aku sudah memberikan hak istimewa sistem kemarin.
+Aku menerima pemberitahuan pemeriksaan sistem kemarin.
+Aku akan memperbaiki bug yang ditanyakan kemarin.
+Aku sudah menyelesaikan tanda tangan yang kau minta kemarin.
+Aku sudah memasukkan perubahan yang kau minta kemarin.
+Aku memasukkan perubahan yang kau minta kemarin.
+Aku masih belum menerima berkas yang kuminta kemarin.
+Aku sudah menerapkan fitur yang kita bahas kemarin.
+Aku sudah mengurus semua permintaan yang muncul di pertemuan kemarin.
+Aku telah mendokumentasikan sejarah pembaruan di GitHub.
+Saya akan membuat manual kerja dwibahasa, baik dalam bahasa Korea maupun Inggris.
+Aku akan tetap di sini sampai aku menyelesaikan penyerahan tanggung jawabku.
+Dapatkah saya membuka file di sini?
+Aku sedang mempersiapkan negosiasi gaji.
+Aku memindai tanda terima dan mengunggahnya.
+Aku sudah memeriksa semua permintaan yang datang dari tim penjualan.
+Aku perlu meninjau rencana anggaran lagi.
+Aku akan menghitung ulang anggarannya.
+Saya merujuk pada proposal yang telah saya tulis sebelumnya.
+Aku akan meninjau materi pendidikan lagi hari ini.
+Aku sudah memproses semua permintaan yang datang hari ini.
+Dapatkah saya mendorong kembali tenggat waktu untuk hari ini?
+Bolehkah saya meminta pertemuan dengan Anda hari ini?
+Aku akan mengejar ketinggalan pada pekerjaan yang belum selesai besok pagi.
+Aku harus menyerahkan laporannya hari ini.
+Saya telah memperbarui dokumen onboarding untuk anggota tim baru kita hari ini.
+Aku sudah meninjau semua agenda untuk hari ini.
+Aku akan mengurus agenda untuk hari ini.
+Dapatkah saya mempersingkat agenda untuk hari ini?
+Aku mengirim dua email pengingat hari ini.
+Aku akan mengajukan permintaan persetujuan akhir hari ini.
+Aku akan posting baris persetujuan pada akhir hari ini.
+Aku akan mengirim ulang kontraknya pada akhir hari ini.
+Apa aku harus menyelesaikan ini hari ini?
+I'll submit the results report by the end of today.
+Aku akan menyelesaikan ini, tidak peduli seberapa terlambat aku harus bekerja malam ini.
+Aku ada dua wawancara yang dijadwalkan sore ini.
+I'll be distributing it this afternoon.
+Saya telah diurutkan melalui semua email yang saya terima hari ini.
+Aku menghadiri sesi pelatihan onboarding hari ini.
+Aku akan menyelesaikan daftar periksa onboarding hari ini.
+Aku akan mendokumentasikan rincian penyerahan hari ini.
+Aku melamar pekerjaan jarak jauh hari ini.
+Dapatkah saya bekerja dari rumah hari ini?
+Aku akan mengirim draft SLA pada akhir hari ini.
+Aku akan menyelesaikan tinjauan kode pada akhir hari ini.
+Aku mengirim laporan harianku melalui email hari ini.
+Aku akan mengurus dokumennya sebelum berangkat hari ini.
+Dapatkah saya meringkas pertemuan hari ini dan berbagi dengan Anda?
+Aku sudah meninjau agenda pertemuan hari ini.
+Aku akan menjelaskan agenda ini pada pertemuan hari ini.
+Aku akan mengadakan pertemuan satu lawan satu dengan anggota timku lagi hari ini.
+Aku bebas hari ini.
+Aku akan memesan ruang konferensi untuk pagi ini.
+Aku sudah mengurus semua permintaan yang kuterima pagi ini.
+Aku akan bersiap-siap untuk pertemuan di pagi hari.
+Aku tidak akan berada di mejaku setelah jam 2 siang.
+Can I just cancel the afternoon schedule?
+Aku sudah menjadwalkan rencana kerja soreku di kalender.
+Aku akan menelepon pelanggan sore ini.
+Akan kuperiksa lagi nanti sore.
+Aku ada latihan untuk demo sore sebelumnya.
+Dapatkah saya menjadwalkan panggilan dengan klien untuk sore ini?
+Saya juga telah membuat versi bahasa Inggris dari daftar periksa onboarding.
+Aku akan meninjau daftar periksa onboarding.
+Aku sudah mengunggah data yang lengkap ke drive.
+Aku akan kembali setelah perjalanan bisnis saya dan melaporkan kembali kepada Anda.
+Saya tidak yakin apakah layanan kami akan dapat memenuhi jadwal ini.
+Saya akan dengan senang hati menyoroti manfaat layanan kami kepada pelanggan kami.
+Dapatkah saya berbagi ini dengan tim kami saja?
+Aku akan mendokumentasikan risiko tim kita.
+Saya ingin menunjukkan prestasi tim kami dalam jumlah.
+Aku akan memprioritaskan dan membaginya denganmu.
+Dapatkah saya menyesuaikan prioritas saya?
+Aku akan memprioritaskan masalah ini.
+Saya juga akan memastikan untuk menginformasikan tim akuntansi tentang hal ini.
+Dapatkah saya memperpanjang kontrak ini?
+Haruskah aku mengirimkan kontrak ini hari ini?
+Dapatkah saya mengurus pelanggan ini?
+Dapatkah saya menunda fitur ini sampai versi berikutnya?
+Dapatkah saya menghapus fitur ini?
+Dari sudut pandang pengguna, saya merasa fitur ini cukup merepotkan.
+Saya ingin tahu lebih banyak tentang mengapa fitur ini diperlukan.
+Dapatkah saya mengkonfirmasi desain ini?
+Dapatkah saya menghapus dokumen ini?
+Saya juga ingin memasukkan kalimat ini dalam bahasa Inggris.
+Haruskah saya menerjemahkan kalimat ini ke dalam bahasa Inggris juga?
+Dapatkah saya menyampaikan masalah ini kepada tim pengembangan?
+Aku meningkatkan masalah ini ke departemen terkait.
+Aku akan menyampaikan masalah ini ke tim dukungan teknis.
+Aku akan mendiskusikan masalah ini dengan tim teknis.
+Saya akan membahas masalah ini dengan departemen lain.
+Saya akan melihat lagi masalah ini dari sudut pandang sistem.
+Aku akan memberikan prioritas utama untuk masalah ini.
+Saya ingin mengatasi masalah ini sebagai sebuah tim.
+Aku akan menyampaikan masalah ini kepada ketua tim.
+Saya akan menjelaskan perubahan ini kepada pelanggan terlebih dahulu.
+Dapatkah saya posting perubahan ini di papan pengumuman?
+Saya juga akan menerjemahkan laporan ini ke dalam bahasa Inggris.
+Dapatkah saya menulis laporan ini seperti ini?
+Aku akan melihat lagi bagian ini.
+Aku akan singkat pemimpin tim ini terlebih dahulu.
+Dapatkah saya menyederhanakan penjelasan ini sedikit?
+Haruskah saya mengatur ulang pengaturan ini ke defaultnya?
+Aku akan memeriksa ulang jika nomor ini benar.
+Dapatkah saya mengumpulkan nomor ini?
+Aku akan singkat dewan tentang hal ini besok.
+Dapatkah saya menempatkan ini pada agenda untuk pertemuan berikutnya?
+Aku akan berbagi agenda ini di pertemuan sore kita.
+Saya ingin tahu apakah tugas ini sejalan dengan tanggung jawab saya.
+Saya merasa bahwa tugas ini di luar jangkauan saya.
+Saya ingin berbagi tugas ini dengan Anda.
+Aku akan melihat apakah kita dapat mengotomatisasi tugas ini.
+Aku akan menugaskan kembali orang yang bertanggung jawab atas tugas ini.
+Aku akan menyesuaikan prioritas untuk tugas ini.
+Aku akan pastikan untuk mencegah kesalahan ini terjadi lagi.
+Aku akan mendokumentasikan langkah-langkah untuk mereproduksi kesalahan ini.
+Saya ingin menyelesaikan masalah ini pada akhir hari ini.
+Haruskah saya melaporkan masalah ini kepada pemimpin tim segera?
+Dapatkah saya mendelegasikan tugas ini ke karyawan baru?
+Aku ingin menikmati pekerjaanku saat melakukan ini.
+Saya ingin mengkonfirmasi apakah jadwal ini layak.
+Saya akan memposting informasi ini di wiki internal perusahaan kami.
+Dapatkah saya berbagi informasi ini dengan seluruh tim?
+Dapatkah saya menghapus halaman ini?
+Aku akan membuat kebijakan ini diketahui oleh semua anggota staf.
+Aku akan mengajukan proposal ini untuk persetujuan besok.
+Aku akan meng-upload file ini ke drive tim.
+Apakah saya dapat mengikuti format ini seperti ini?
+Saya ingin menyelesaikan proyek ini bulan depan.
+Saya pikir risiko yang terkait dengan proyek ini lebih besar dari yang saya perkirakan.
+Saya ingin bekerja di sini untuk waktu yang lama.
+Aku bertanya-tanya apakah tidak apa-apa untuk merekam pertemuan ini.
+Aku ingin tahu apakah kandidat ini cocok untuk tim kita.
+Haruskah saya mengirimkan ini melalui email bukan Slack?
+Saya perlu memberikan penjelasan langsung kepada CEO mengenai hal ini.
+Aku akan memprioritaskan yang satu ini.
+Saya juga akan berbagi ini dengan tim akuntansi.
+Saya ingin menguji fitur ini terlebih dahulu melalui tes A/B.
+Saya ingin menggulirkan fitur ini hanya untuk satu pelanggan pertama.
+Aku sudah memeriksa kehadiranku selama sebulan penuh.
+Aku akan meringkas penjualan bulan ini dan melaporkan hal itu.
+Aku akan melihat pengeluaran untuk bulan ini dan meringkasnya.
+Aku sudah menyerahkan laporan pengeluaran bulan ini ke tim dukungan manajemen.
+Aku akan mendapatkan keuangan saya dalam rangka untuk bulan ini.
+Saya akan merangkum agenda ini dalam sebuah email.
+Aku telah mengubah proposal ini menjadi presentasi.
+Aku sudah membawa masalah ini ke perhatian administrator.
+Aku akan pastikan untuk mendaftarkan masalah ini sebagai tindakan pencegahan untuk menghindari hal itu terjadi lagi.
+Aku mendokumentasikan penyebab masalah ini.
+Aku butuh hasilnya Jumat ini.
+Saya telah disematkan tujuan minggu ini ke atas papan Slack saya.
+Saya ingin menjadwalkan wawancara untuk beberapa waktu minggu ini.
+Aku akan mengirim draft akhir untuk klien minggu ini.
+Aku akan mengambil hari libur minggu ini.
+Saya ingin bekerja jarak jauh hanya minggu ini.
+Aku akan fokus pada tugas ini khusus untuk minggu ini.
+Saya juga ingin memasukkan pelamar asing dalam proses perekrutan ini.
+Saya akan menghargai beberapa umpan balik positif pada evaluasi ini.
+Saya akan mendokumentasikan pengalaman saya dari proyek ini untuk referensi di masa depan.
+Saya sedikit khawatir tentang proyek timeline, apakah mungkin untuk membuat beberapa penyesuaian?
+Aku terus melacak waktu saya telah berinvestasi dalam proyek ini.
+Saya telah mendokumentasikan apa yang saya pelajari kali ini di wiki.
+Dapatkah saya membuat nomor masalah terpisah?
+Aku akan mendaftarkan masalah ini sebagai tiket.
+Dapatkah saya kembali ke versi sebelumnya?
+Aku akan memastikan untuk mendokumentasikan proses penyerahan dalam detail sebanyak mungkin.
+Aku juga akan mendokumentasikan proses penyerahan dengan video.
+Aku menyerahkan kuesioner wawancara ke tim HR.
+Aku akan menjelaskan prioritas kerja untuk magang.
+Saya membantu magang dengan tugas mereka dari samping.
+Aku akan menetapkan tugas untuk magang.
+Aku sudah menyiapkan kalender bersama untuk jadwal kita.
+Dapatkah saya membuat kalender bersama dengan jadwal?
+Haruskah aku mengirimkan pemberitahuan jadwal sekarang?
+Aku akan minta maaf kepada pelanggan untuk perubahan jadwal.
+Aku akan mengirimkan email yang menjelaskan alasan perubahannya.
+Aku sudah memperbarui perubahan jadwal di Idea tim.
+Saya akan memposting alasan mengapa saya perlu mengubah jadwal.
+Sayangnya, jadwalku bertentangan, jadi orang lain harus ikut campur.
+Saya telah membuat semua penyesuaian yang diperlukan untuk jadwal yang bertentangan.
+Sayangnya, jadwalku padat, jadi aku tidak yakin apakah aku bisa datang ke pertemuan sore.
+Aku akan menjelaskan alasan di balik penundaan secara rinci.
+Aku ingin memperjelas bahwa jadwal kita cukup padat.
+Dapatkah saya memecah jadwal seperti ini?
+Bolehkah saya menunjukkan jadwal untuk pemimpin tim pertama?
+Saya telah berbagi data dengan Anda, jadi silakan lihat.
+Dapatkah saya mengirim data ke luar?
+Saya telah memisahkan data ke dalam versi Korea dan Inggris.
+Aku akan log tugas ke dalam sistem.
+Dapatkah saya mengubah urutan tugas seperti ini?
+Dapatkah saya memperpanjang jam kerja saya?
+Aku akan keluar sebentar, tapi aku akan mengawasi si pembawa pesan.
+Aku ingin tumbuh menjadi manajer dalam jangka panjang.
+Aku akan meminta tim keuangan yang menangani biayanya.
+Aku akan mengirimkan email lengkap.
+Aku akan menjelaskannya lagi setelah makan siang.
+Aku akan memeriksanya setelah makan siang.
+Dapatkah saya mengirim proposal hari ini?
+Aku akan mengirim laporan mingguan pada akhir hari ini.
+Aku menunggu tanggapan dari pelanggan sekarang.
+Bolehkah saya menghubungi pelanggan sekarang?
+Aku sedang rapat, jadi aku tak bisa menerima teleponmu sekarang.
+Aku sedikit terlambat karena aku ada panggilan lain sekarang.
+Aku akan mengunggah dokumen yang baru saja kuterima melalui pembayaran elektronik.
+Aku sedang mengerjakan laporan.
+Aku sedang melacak catatan server.
+Dapatkah saya menyerahkannya kembali setelah membuat beberapa perubahan?
+Aku sudah penuh saat ini, jadi aku akan senang untuk mengejar ketinggalan dengan Anda di sore hari.
+Saat ini aku sedang menyiapkan lingkungan tes.
+Saya baru saja berbagi file dengan Anda.
+Aku akan memperbarui status proyek sekarang.
+Saat ini aku sedang mengatur menit pertemuan.
+Aku sudah memesan ruang konferensi.
+Dapatkah saya bergabung dengan pertemuan online sekarang?
+Aku akan melakukan survei kepuasan staf.
+Saya juga akan menerjemahkan posting pekerjaan ke dalam bahasa Inggris.
+Saya juga memposting pengumuman lowongan kerja dalam bahasa Inggris.
+Aku akan memeriksa catatan kehadiran.
+Dapatkah saya mencetaknya dalam hitam dan putih?
+Dapatkah saya mendorong kembali perjalanan bisnis saya sehari?
+Aku akan menyerahkan laporan perjalanan bisnis besok.
+Aku akan mempertimbangkan umpan balik dari tinjauan kode.
+Aku akan meng-upload ulang setelah memasukkan umpan balik klien.
+Aku telah memecah biaya oleh klien ke dalam tabel terpisah.
+Aku mengirim email ke klien.
+Aku akan membuat tabel perbandingan hasil tes.
+Aku sudah mengatur hasil tes di Excel.
+Setelah memverifikasi hasil tes, aku akan melanjutkan penyebaran.
+Aku sudah menyiapkan rekening tes.
+Aku akan mengumpulkan dan berbagi data tes.
+Dapatkah saya mencatat server tes sekarang?
+Aku baru saja me-restart server tes.
+Aku akan memastikan untuk membersihkan kotak persetujuan sebelum aku kepala keluar.
+Aku akan melakukan satu cadangan lagi sebelum aku kepala keluar.
+Aku akan menyelesaikan penyerahan dengan karyawan yang keluar.
+Saya telah ditugaskan memimpin tim untuk pendidikan.
+Saya akan berbagi rencana kerja saya untuk hari ini di saluran tim.
+Aku akan meringkas dan melaporkan kinerja tim pada akhir bulan.
+Saya ingin mendengar pikiran tim pertama.
+Saya ingin menyatakan dengan jelas kontribusi saya kepada pemimpin tim.
+Saya telah mengatur ulang struktur folder untuk membuatnya lebih mudah untuk menavigasi.
+Dapatkah saya mengajukan proposal sekarang?
+Dapatkah saya menyesuaikan urutan presentasi?
+Aku sudah mengkode warna status proyeknya.
+Aku sudah menjaga jadwal proyek up to date.
+Aku sedang mengerjakan laporan penyelesaian proyek.
+Aku akan meminta peralatan yang diperlukan untuk dibeli.
+Saya ingin mengkonfirmasi kandidat yang sukses pada akhir hari ini.
+Aku akan menjadwal ulang pertemuan dengan kantor luar negeri kami.
+Aku akan memeriksa ulang persyaratan perjanjian kemitraan kita.
+Aku akan memperbarui kontak informasi untuk mitra kami dan berbagi dengan Anda.
+Aku akan meninjau kembali persyaratannya dengan rekan kita.
+Aku sudah merujuk pertanyaan terkait akuntansi ke tim keuangan.
+Saya ingin mendapatkan keterampilan yang perusahaan cari.
+Aku akan berbagi rincian pertemuan melalui email.
+Aku akan menyelesaikan jadwal pertemuan di muka.
+Bisakah aku mempersingkat waktu pertemuan dengan 30 menit?
+Aku akan menambahkan jadwal pertemuan ke kalenderku.
+Aku akan berbagi menit pertemuan.
+Dapatkah saya hanya menulis menit dalam bahasa Inggris?
+Aku akan meringkas menit pertemuan dan mengirimkannya ke semua orang.
+Aku sudah memposting menit pertemuan di saluran tim.
+Aku sudah memesan ruang rapat untuk jam 4 sore.
+Aku akan mengirimkan email pemberitahuan kepada para kandidat.
+Aku akan menjelaskan kisaran gaji untuk kandidat.
+Aku akan melihat dari dekat portofolio kandidat.
+Harap simpan dokumen sesuai dengan kebijakan internal kami.
+Bisa kau beritahu nomor ekstensi-mu.
+Silakan tinjau isinya.
+Maukah Anda membuat FAQ untuk saya?
+Bisa kau sampaikan ini ke tim UX?
+Apa proyek yang paling menonjol bagi Anda?
+Bagaimana Anda menyelesaikan konflik?
+Apa yang Anda lakukan ketika Anda memiliki konflik?
+Maukah kau ikut denganku?
+Apakah Anda pikir lebih baik untuk menanganinya secara pribadi?
+Maukah kau memeriksanya sekarang?
+Apakah Anda hanya memberikan metrik hasil?
+Apakah Anda memiliki akses ke sistem pembayaran?
+Apakah Anda melakukan penelitian pada pesaing Anda?
+Apakah Anda melihat ke pesaing Anda?
+Apa kau sudah melihat kontraknya lagi?
+Dapatkah Anda berbagi informasi kontak pelanggan dengan saya?
+Apakah Anda mencatat semua permintaan pelanggan?
+Di mana Anda merekam umpan balik pelanggan?
+Berapa nilai yang kau berikan pada pelanggan?
+Apa kau mengerti apa yang diminta pelanggan?
+Apakah Anda menyertakan semua fitur yang dicari pelanggan?
+Dapatkah Anda memenuhi tanggal pengiriman yang diinginkan pelanggan?
+Apakah Anda sudah menyerahkan sertifikat penyelesaian Anda?
+Apakah Anda sudah memeriksa jadwal pelatihan?
+Apa pendapatmu tentang rencana itu?
+Dapatkah Anda menutupi pekerjaan saya selama waktu itu?
+Apakah Anda membaca semuanya?
+Apakah Anda akan mengirimkan data kepada orang yang bertanggung jawab?
+Apakah Anda mendapatkan email itu?
+Bisa kau perbarui daftar itu untukku?
+Maukah Anda memposting dokumen itu di saluran bersama?
+Di mana kau menyimpan dokumen itu?
+Apakah Anda sudah mendaftarkan masalah itu sebagai tiket?
+Apakah Anda tahu apa di balik masalah itu?
+Bisakah kau menghubunginya lagi?
+Apa kau mengerti penjelasan itu?
+Bisakah kau masuk pada saat itu?
+Apakah akan baik-baik saja jika server jatuh pada saat itu?
+Dapatkah Anda mencetak pemberitahuan itu untuk saya?
+Apa kau sudah melihat jadwal itu?
+Di mana kau menyimpan data itu?
+Apakah Anda menyampaikan data kepada pemimpin tim?
+Bisakah kau menandatanganinya sebelum itu?
+Kenapa kau menghapus file itu?
+Bisa kau taruh tiket itu di dasbor untukku?
+Pernahkah Anda melihat resume kandidat?
+Menurutmu itu benar?
+Bukankah itu yang terjadi?
+Maukah kau memilih yang paling mendesak dari daftar itu?
+Dapatkah Anda mengurus tugas yang mendesak terlebih dahulu?
+Apakah Anda ingin memperpanjang tenggat waktu?
+Apakah Anda pikir teknologi baik-baik saja?
+Dapatkah Anda membantu aspek teknisnya?
+Dapatkah Anda juga menguji fitur yang ada?
+Apa kau punya pertanyaan untukku?
+Tidakkah kau merasa sulit bekerja denganku?
+Apakah Anda memiliki email yang tersisa?
+Bisakah kau menyelesaikan pekerjaan yang tersisa besok?
+Dapatkah Anda juga melihat PR saya?
+Dapatkah Anda melihat dokumen yang saya buat?
+Apakah Anda menuliskan semua persyaratan yang saya sebutkan?
+Apakah Anda dapat menghadiri wawancara besok?
+Dapatkah Anda memberi saya draft besok?
+Apakah Anda hanya mengisi bagian Anda?
+Bisakah Anda mendapatkan bantuan dari tim lain?
+Dapatkah Anda meninjau lagi?
+Apakah Anda mencoba log in lagi?
+Bisa kau periksa lagi?
+Apakah Anda tahu jadwal untuk penyebaran berikutnya?
+Apa kau bisa melakukan perjalanan bisnis minggu depan?
+Apakah Anda sudah berbicara dengan orang yang bertanggung jawab?
+Bisa kau isi jawabannya?
+Bisakah kau beritahu aku saat kau mendapat respon?
+Dapatkah Anda membuat beberapa penyesuaian kecil untuk desain?
+Apa kau sudah menyiapkan rencana cadangan?
+Apakah Anda hanya posting link dalam saluran tim?
+Apakah Anda ingin menambahkan lebih banyak ekspresi terkait wawancara?
+Proyek apa yang akan Anda diskusikan selama wawancara?
+Pertanyaan macam apa yang ingin Anda ajukan dalam sebuah wawancara?
+Bagaimana Anda berencana untuk mendiskusikan gaji Anda selama wawancara?
+Bagaimana kabarmu pada Kamis pagi?
+Dapatkah Anda mengurusnya segera?
+Apakah Anda ingin mengubah urutan presentasi?
+Apakah Anda hanya membaca pengumuman?
+Kapan kau butuh data yang baru saja kau minta?
+Dapatkah Anda mengirim ulang email yang baru saja Anda kirim?
+Apakah Anda hanya mencatat apa yang Anda katakan?
+Apa kau sudah memeriksa berkas cadangan?
+Maukah Anda melihat hasil terjemahannya?
+Dapatkah Anda membantu saya dengan terjemahan?
+Apakah Anda ingin meminta tinjauan hukum terlebih dahulu?
+Apakah Anda memperbarui sistem dengan harga baru?
+Apa yang membuatmu mengganti sampul laporannya?
+Apa yang akan Anda katakan adalah kekuatan terbesar Anda?
+Bagaimana Anda memanfaatkan keuntungan perusahaan?
+Sudahkah Anda mengidentifikasi masalah yang dialami pengguna?
+Apakah Anda sudah menyiapkan pertanyaan terlebih dahulu?
+Apakah Anda mengirim email selamat datang kepada orang baru yang bertanggung jawab?
+Maukah kau mendistribusikan ini ke karyawan baru?
+Apakah Anda tahu nama karyawan baru yang baru saja bergabung?
+Dapatkah Anda menjelaskan karyawan baru kepada saya?
+Apakah Anda tahu tentang kebijakan baru?
+Dapatkah Anda mengukur pencapaian Anda?
+Apakah Anda mengirim permintaan koreksi kepada pelanggan?
+Bisakah Anda membuat akun baru?
+Apa kau sudah meninjau rencana pelatihan karyawan baru?
+Kapan kau berencana untuk menghadiri pelatihan karyawan baru?
+Karir seperti apa yang Anda bayangkan untuk diri sendiri di masa depan?
+Apakah tidak apa-apa jika Anda sering bekerja lembur?
+Apa tugas pertama yang harus kau selesaikan?
+Dukungan macam apa yang Anda butuhkan?
+Apakah Anda meringkas isi pelatihan dari kemarin?
+Apa kau sudah memeriksa email yang kukirim kemarin?
+Apa kau sudah memeriksa email yang kukirim kemarin?
+Apakah Anda mendapatkan semua bahan yang Anda minta kemarin siap?
+Kapan kau bisa mulai bekerja?
+Dapatkah Anda mengatur ulang prioritas pekerjaan Anda?
+Apa pendekatan Anda untuk memprioritaskan tugas?
+Can you explain the situation where the error occurs?
+Dapatkah Anda menyesuaikan peran untuk saya?
+Bisakah kau jelaskan kisaran gajiku?
+Dapatkah saya bertanya tentang gaji Anda sekarang?
+Apakah Anda melampirkan tanda terima?
+Dapatkah Anda melakukan wawancara bahasa Inggris?
+Bisa kau lihat versi bahasa Inggrisnya?
+Dapatkah Anda juga mempersiapkan dokumen dalam bahasa Inggris?
+Apakah Anda berencana untuk mengajukan permohonan kenaikan anggaran?
+Apakah Anda membandingkannya dengan versi lama?
+Apakah Anda menghadiri pelatihan hari ini?
+Apakah Anda mempersiapkan diri untuk wawancara hari ini?
+Bisakah kau menyerahkan laporannya hari ini?
+Dapatkah Anda memberi saya hasil pada akhir hari ini?
+Dapatkah Anda memberi saya jawaban hari ini?
+Apakah Anda bebas untuk pertemuan hari ini?
+Apakah Anda punya waktu sore ini?
+Apakah Anda dapat menyelesaikan jadwal Anda untuk hari ini?
+Apakah Anda sudah memeriksa semua perubahan jadwal Anda untuk hari ini?
+Dapatkah Anda menyesuaikan jadwal Anda untuk hari ini?
+Apakah Anda akan bekerja dari rumah hari ini?
+Apa kau sudah melihat agenda pertemuan hari ini?
+Apakah Anda akan presentasi di pertemuan hari ini?
+Dapatkah Anda melihat waktu ketika kesalahan terjadi?
+Kau tahu kapan kesalahan itu terjadi?
+Apakah Anda harus menghadiri pertemuan pagi?
+Apakah Anda dapat menghadiri pertemuan pagi?
+Apakah Anda ingin melakukannya secara online?
+Apa yang membuatmu berpikir kau cocok untuk peran ini?
+Apa yang membuatmu melamar di perusahaan ini?
+Apa kau sudah meninjau persyaratannya?
+Bisakah kau merangkumnya untukku?
+Apakah Anda pikir harga kami kompetitif?
+Apakah Anda benar-benar menggunakan layanan kami?
+Apakah Anda memahami struktur organisasi kami?
+Apakah Anda pikir Anda cocok dengan budaya perusahaan kami?
+Apa kau sudah memasang alat yang kita gunakan di tim kita?
+Kau mengerti apa yang tim kita rencanakan?
+Berapa banyak yang kau tahu tentang perusahaan kami?
+Bisa kau ceritakan apa yang membuatmu melamar di perusahaan kami?
+Apa kau punya pertanyaan lagi untuk kami?
+Dapatkah Anda beradaptasi dengan bekerja jarak jauh?
+Apakah Anda juga memerlukan laporan bulanan?
+Apakah Anda terbuka untuk negosiasi harga?
+Dari mana kau mendapatkan perkiraan ini?
+Apakah Anda pikir perkiraan ini masuk akal?
+Apakah Anda memahami persyaratan kontrak ini?
+Bisakah kau mengurus pelanggan ini untukku?
+Dapatkah Anda menghubungi pelanggan ini secara langsung?
+Apakah Anda ingin bertemu langsung dengan pelanggan ini?
+Sudahkah Anda mencoba fitur ini?
+Apakah Anda pikir fitur ini benar-benar membantu pengguna?
+Apakah Anda pikir desain ini sesuai dengan kebutuhan pelanggan?
+Dapatkah Anda memperbarui metrik ini setiap hari?
+Dapatkah Anda juga menulis dokumen ini dalam bahasa Inggris?
+Apa yang membuatmu mengubah dokumen ini?
+Apakah Anda membaca dokumen ini?
+Kepada siapa kau akan melaporkan ini?
+Dapatkah Anda menguji ulang pertanyaan ini untuk saya?
+Bagaimana Anda ingin mengatasi masalah ini?
+Menurutmu apa akar penyebab masalah ini?
+Dapatkah Anda memberitahu saya versi mana dari perangkat lunak bug ini terjadi?
+Apakah Anda pikir tidak apa-apa untuk mendistribusikan versi ini?
+Apakah Anda tahu format laporan ini?
+Bisa kau sampaikan laporan ini pada Manajer Kim?
+Menurutmu siapa yang harus meninjau laporan ini?
+Dapatkah Anda juga menerjemahkan laporan ini ke dalam bahasa Inggris?
+Dapatkah Anda menutupi biaya ini dalam anggaran Anda?
+Apakah Anda pikir biaya ini masuk akal?
+Dapatkah Anda mengembangkannya sesuai dengan spesifikasi ini?
+Bagaimana kau bisa sampai pada angka ini?
+Dapatkah Anda mengelola sistem ini sendiri?
+How would you explain this agenda to the management team?
+Kapan kau berencana untuk menyelesaikan agenda ini?
+Dapatkah Anda mengurus masalah ini sekarang?
+Apakah Anda ingin menunda tugas ini sampai minggu depan?
+Kapan Anda berencana untuk menyelesaikan tugas ini?
+Dapatkah Anda menyelesaikan tugas ini pada akhir hari ini?
+Dapatkah Anda membantu saya dengan tugas ini?
+Dapatkah Anda menangani tugas ini sendiri?
+Menurutmu apa keahlian yang paling penting untuk peran ini?
+Menurutmu apa kunci dari peran ini?
+Kepada siapa kau menyampaikan masalah ini?
+Dapatkah Anda menyelesaikan masalah ini sekarang?
+Apakah Anda setuju dengan jadwal ini?
+Apakah Anda setuju dengan jadwal ini?
+Apakah Anda setuju dengan jadwal ini?
+Dapatkah Anda menjadwal ulang ini untuk besok?
+Bisakah kau mencetak dokumen ini untukku?
+Dapatkah Anda membuka file ini?
+Apakah Anda membuka file ini?
+Apa yang membuatmu berpikir posisi ini cocok untukmu?
+Apakah Anda memiliki pemahaman yang jelas tentang tujuan proyek?
+Apakah Anda tertarik untuk terus terlibat dalam proyek ini?
+Apakah Anda akan terus terlibat dalam proyek ini?
+Apakah Anda akan terus terlibat dalam proyek ini?
+Apakah Anda dapat terus berpartisipasi dalam proyek ini?
+Apakah tata letak layar ini mudah dimengerti?
+Apakah Anda pikir Anda akan dapat menyesuaikan diri dengan baik dengan budaya perusahaan?
+Bisa kau ceritakan kenapa kau terlambat dengan ini?
+Dapatkah Anda membungkus ini pada akhir hari?
+Apakah Anda berpikir untuk berbagi ini dengan tim lain?
+Apakah Anda ingin mencoba log in dengan ini?
+Apakah Anda memberitahu kepala departemen tentang transfer?
+Apakah Anda mengajukan permohonan pengeluaran untuk bulan ini?
+Apakah Anda tahu target untuk kuartal ini?
+Apakah Anda pikir klien akan menerima proposal ini?
+Bagaimana jadwal kerjamu minggu ini?
+Apa kau bisa melakukan perjalanan bisnis minggu ini?
+Di mana Anda menyimpan versi sebelumnya?
+Apa prestasi paling signifikan yang kau buat pada pekerjaanmu sebelumnya?
+Apa yang kau capai dalam pekerjaanmu sebelumnya?
+Apa prestasi Anda pada pekerjaan sebelumnya?
+Alat apa yang Anda gunakan di perusahaan sebelumnya?
+Apa kau pernah memimpin tim di perusahaanmu sebelumnya?
+Apa alasan di balik perubahan pekerjaanmu?
+Apakah Anda membiarkan mereka tahu tentang perubahan jadwal?
+Apakah Anda berbagi perubahan jadwal dengan tim?
+Apakah Anda pikir Anda perlu menyesuaikan jadwal Anda?
+Can you reschedule for tomorrow?
+Apakah Anda menjaga jadwal Anda up to date?
+Dapatkah Anda memperkenalkan diri dalam bahasa Inggris?
+Apakah Anda dapat mempersiapkan lebih banyak bahan?
+Kau sudah backup datamu?
+Karir macam apa yang ingin kau miliki dalam jangka panjang?
+Apakah Anda log kembali peralatan?
+Apakah Anda memeriksa peralatan sebelumnya?
+Bisakah kau datang ke kantor bukannya bekerja dari rumah?
+Apakah Anda pikir rilis penuh lebih baik?
+Apakah Anda pikir tidak apa-apa untuk mendistribusikannya secara global pada saat yang sama?
+Apakah Anda pikir itu ide yang baik untuk memiliki mediator di tengah?
+Apa kau di kantor sekarang?
+Apakah Anda masih tertarik untuk mendengar lebih banyak tentang hal itu?
+Apa kau ada waktu sekarang?
+Apakah Anda bebas sekarang?
+Dapatkah Anda membantu saya dengan ini sekarang?
+Bisakah kau istirahat sebentar?
+Bisa kita bicara sebentar?
+Dapatkah Anda berbagi layar dengan saya sekarang?
+Kau bisa ikut rapat sekarang?
+Kau bisa ikut rapat sekarang?
+Apa kau masih bisa mengubah prioritasmu sekarang?
+Dapatkah Saudara menguraikan alasan Saudara untuk melamar?
+Dapatkah Anda membuatnya?
+Bisakah kau bergabung?
+Dapatkah Anda menceritakan pengalaman baru - baru ini tentang berkolaborasi dengan orang lain?
+Dapatkah Anda juga menemukan gaya terbaru?
+Apakah Anda mempertimbangkan risiko tambahan?
+Apakah Anda memiliki pikiran atau komentar tambahan?
+Bisakah kau membawa bantuan tambahan?
+Apakah Anda memerlukan informasi tambahan?
+Apakah Anda memiliki item tambahan yang ingin ditambahkan?
+Apakah Anda ingin menyesuaikan jadwal kerja Anda?
+Dapatkah Anda menyesuaikan jadwal kerja Anda?
+Apa kau sudah memberitahu ketua tim tentang waktu perjalananmu?
+Kapan Anda berencana untuk mengirimkan laporan perjalanan bisnis Anda?
+Apakah Anda siap untuk perjalanan Anda?
+Apakah Anda siap untuk perjalanan Anda?
+Apa kau sudah memposting hasil tesnya?
+Apakah Anda membuat semua kasus tes?
+Dapatkah Anda memeriksanya sebelum Anda meninggalkan pekerjaan?
+Dapatkah Anda menginstal alat sekarang?
+Bisakah Anda hanya berbagi nomor tiket Anda dengan saya?
+Apakah Anda pikir kolaborasi antar tim diperlukan?
+Apakah Anda memiliki banyak pengalaman bekerja dalam sebuah tim?
+Apakah Anda akan melaporkan kepada pemimpin tim pertama?
+Apakah Anda bertanya kepada pemimpin tim tentang hal itu terlebih dahulu?
+Bisakah Anda mengganti nama file untuk mengikuti aturan?
+Apakah Anda memiliki masalah dengan hasil evaluasi?
+Apakah Anda membawa portofolio Anda dengan Anda?
+Apa kau sudah menyiapkan berkas presentasinya?
+Dapatkah Anda berbicara langsung dengan pemimpin tim jika Anda perlu?
+Dapatkah Anda membantu saya mengatur set keterampilan yang diperlukan?
+Dapatkah Anda menambahkan filter lagi ke dalamnya?
+Apakah Anda juga mengunggah versi Korea?
+Apakah Anda hanya perlu versi Korea?
+Apakah Anda dapat mendokumentasikan solusi untuk saya?
+Bisa kau lihat lagi peraturan perusahaan?
+Apakah Anda terbiasa dengan aturan dan peraturan perusahaan?
+Bagaimana kau memahami visi perusahaan?
+Apakah Anda punya ide untuk meningkatkan kebijakan perusahaan kami?
+Peran apa yang ingin Anda mainkan dalam membantu perusahaan berkembang?
+Dapatkah Anda menyampaikan tanggapan kepada saya ketika Anda menerimanya?
+Apa kau bisa datang ke pertemuan tepat waktu?
+Apa yang membuat Anda terlambat untuk pertemuan?
+Dapatkah Anda menghadiri pertemuan itu?
+Dapatkah Anda menulis menit pertemuan sekarang?
+Apakah Anda pikir lebih baik untuk mengadakan pertemuan online?
+Apakah Anda harus menghadiri pertemuan itu?
+Apakah Anda hanya mengurus pengaturan tindak lanjut?
+Harap unggah ulang tanda terima yang hilang.
+Bisakah Anda berbagi jadwal Anda untuk minggu depan.
+Tolong tunjuk orang yang bertanggung jawab.
+Tolong tag orang yang bertanggung jawab dan beritahu mereka.
+Tolong sampaikan kepada penanggung jawab segera.
+Silakan berbagi jawaban Anda setelah Anda menerimanya.
+Bagaimana Anda ingin menerapkan kebijakan harga Anda?
+Maukah Anda menunjuk seorang pemimpin untuk setiap kelompok?
+Kau sudah periksa jalur persetujuannya?
+Dapatkah Anda mengakomodasi jadwal pelanggan?
+Apakah Anda sudah memberitahu pelanggan tentang persetujuannya?
+Apakah Anda akan menelepon pelanggan secara langsung?
+Bisakah Anda melihat email pengumuman?
+Kau sudah periksa pemberitahuannya?
+Apakah Anda juga memerlukan ringkasan yang dapat ditinjau oleh administrator?
+Apakah Anda bersedia untuk memberikan saya izin?
+Dapatkah Anda menanggapi atas nama kami selama waktu itu?
+Apakah Anda menunjuk pengganti untuk periode itu?
+Dapatkah Anda menutupi pekerjaan saya selama waktu itu?
+Apakah Anda dapat mempersingkat jadwal pertemuan selama waktu itu?
+Apa kau sudah meninjau isinya?
+Apakah Anda perlu laptop berikutnya?
+Silakan lihat daftarnya dan beritahu aku prioritas utamamu.
+Apa kau punya rencana untuk mencapai tujuan itu?
+Apakah Anda setuju dengan tujuan itu?
+Dapatkah Anda menjadwalkan pertemuan pada saat itu?
+Apakah Anda tersedia pada saat itu?
+Apakah Anda tersedia pada saat itu?
+Apakah Anda pikir Anda benar-benar dapat menempatkan ide itu ke dalam praktek?
+Apakah Anda akan menyetujui permintaan itu?
+Apakah semuanya baik-baik saja dengan jadwal itu?
+Apakah Anda bersedia untuk bergabung dengan jadwal tersebut?
+Dapatkah Anda menyajikan data itu?
+Apakah Anda pikir itu cukup untuk data?
+Apakah Anda ingin melihat ringkasannya?
+Apa kau sudah melihat file itu?
+Apakah Anda membutuhkan lebih banyak orang untuk proyek itu?
+Apakah Anda dapat meninjau data saat itu?
+Bisakah Anda menunjukkan hanya bagian-bagian yang secara teknis layak?
+Harap hanya menyoroti bagian-bagian yang secara teknis mustahil.
+Apakah Anda ingin tetap dengan format saat ini?
+Dapatkah Anda mengkonfirmasi apakah tenggat waktunya benar?
+Apakah Anda ingin membuat jadwal yang optimis?
+Apakah Anda mengurus bug yang tersisa pertama?
+Apa kau ada waktu untuk rapat besok pagi?
+Apakah Anda akan tersedia untuk panggilan besok pagi?
+Dapatkah Anda memberikan umpan balik besok?
+Dapatkah Anda memberikan umpan balik besok?
+Apakah Anda pikir itu benar bagi seseorang untuk membuat keputusan akhir?
+Apakah Anda pikir ada risiko kehilangan?
+Apakah Anda mempertimbangkan pilihan lain?
+Apakah Anda memiliki informasi kontak lainnya?
+Apakah Anda mempertimbangkan pilihan lain?
+Kau lebih suka wawancara langsung?
+Dapatkah Anda mengakomodasi jadwal CEO?
+Ada hal lain yang ingin kau bicarakan?
+Kau setuju dengan itu?
+Apakah Anda pikir itu yang terbaik untuk menangani hanya dua dari mereka?
+Apakah Anda melakukan pemeriksaan referensi?
+Anda hanya dapat meninggalkan ulasan.
+Apakah Anda membaca update manual?
+Apakah Anda ingin memilih apa yang perlu Anda urus terlebih dahulu?
+Apakah Anda ingin menjadwalkan ulang wawancara untuk tanggal yang berbeda?
+Apakah Anda ingin mengatur ulang nomor target Anda?
+Apakah Anda bersedia untuk melakukan wawancara cocok budaya?
+Bisakah Anda melihat bahan presentasi dan meninjau mereka untuk saya?
+Dapatkah Anda mendokumentasikan apa yang baru saja Anda jelaskan?
+Apa kau bisa mencetak bahan distribusi untukku?
+Sudah kau periksa struktur terbarunya?
+Apakah Anda tahu format laporannya?
+Apa kau pernah mengikuti pelatihan keamanan?
+Apakah Anda mengikuti semua aturan keamanan?
+Apakah Anda juga ingin melihatnya secara triwulanan?
+Apakah Anda akan menghapus akun yang tidak perlu?
+Apa kau pernah melihat kasus yang sama?
+Bisa kau periksa apa ada yang hilang?
+Apakah Anda hanya akan diberitahu secara terpisah oleh orang-orang yang memiliki alasan untuk tahu?
+Apakah Anda singkat tim pada aturan baru?
+Apakah Anda dapat memperkenalkan saya untuk memimpin tim baru Anda?
+Apakah Anda menerima kontrak ditandatangani?
+Bisakah Anda berbagi rencana penggunaan server Anda dengan saya?
+Apakah Anda pikir itu akan berdampak pada kinerja?
+Apakah Anda ingin menambahkan rincian lebih lanjut?
+Apa kau menerimanya?
+Bisa kau periksa ulang penerimanya untukku?
+Apakah Anda ingin menyesuaikan pesanan?
+Apa kau punya waktu?
+Bisakah kau meluangkan waktu untukku?
+Jam berapa menurutmu demonstrasi akan berlangsung?
+Apakah Anda menerima pemberitahuan?
+Menurutmu perusahaan mana yang terbaik?
+Bagaimana Anda ingin menerapkannya?
+Tugas seperti apa yang ingin Anda ambil?
+Format apa yang menurutmu paling nyaman untuk ditonton?
+Apakah Anda meninjau pertemuan menit dari kemarin?
+Apakah Anda ingin mempersempit tanggung jawab pekerjaan Anda?
+Berapa kisaran gajimu?
+Dapatkah Anda mengatasinya dalam anggaran Anda?
+Apakah Anda tahu batas anggaran?
+Bisakah Anda menjelaskan alasan di balik perubahan proposal anggaran?
+Apakah Anda memerlukan versi sebelumnya?
+Apakah Anda pikir kita perlu mendiskusikan sesuatu hari ini?
+Bisakah kau mengirimkan kontraknya hari ini?
+Apakah Anda punya waktu sore ini?
+Bisakah kita menjadwalkan pertemuan singkat untuk sore ini?
+Apakah Anda setuju untuk meningkatkan pertemuan daring?
+Apa yang membuatmu melamar di perusahaan kami?
+Maukah Anda mulai dengan beberapa tugas yang lebih ringan?
+Apakah Anda ingin mengambil prioritas wawancara pertama?
+Apakah Anda setuju untuk menyesuaikan prioritas?
+Apakah Anda ingin mengujinya di lingkungan produksi?
+Kau sudah bertemu langsung dengan pelanggan ini?
+Apakah Anda pikir pelatihan ini akan membantu tim kami?
+Apakah Anda ingin memasukkan fitur ini dalam kuartal ini?
+Apakah Anda singkat supervisor Anda tentang hal ini?
+Apakah Anda setuju untuk memperkenalkan alat ini?
+Apakah Anda bertanya kepada tim IT tentang masalah ini?
+Apakah Anda akan menyetujui perubahan ini?
+Bisa kau jelaskan bagian ini lagi?
+Apakah Anda memahami desain ini?
+Apakah Anda pikir nomor ini realistis?
+Apakah Anda pikir perintah ini baik-baik saja?
+Apakah Anda setuju dengan proposal ini?
+Apakah Anda setuju dengan proposal ini?
+Apakah Anda pikir ada sesuatu yang salah dengan ini?
+Bagaimana Anda ingin mengatasi masalah ini?
+Bisa kau urus ini dulu?
+Apakah Anda setuju dengan jadwal ini?
+Apakah Anda juga akan mengirimkan informasi ini ke tim penjualan?
+Apakah Anda setuju dengan proposal ini?
+Apakah Anda pikir Anda dapat mempekerjakan kandidat ini?
+Apa kekuatanmu dalam peran ini?
+Apakah Anda ingin melanjutkan proses perekrutan ini?
+Apakah Anda ingin menyimpan format ini?
+Apakah Anda harus berada di sini untuk pertemuan ini?
+Kapan saya bisa berharap untuk mendengar hasil wawancara ini?
+Apakah Anda harus menghadiri wawancara ini?
+Apa kau bekerja dari rumah minggu ini?
+Apakah Anda memeriksa email Anda sebelumnya?
+Apakah Anda menerima dokumen penyerahan?
+Apakah Anda meninjau materi penyerahan?
+Apa kau sudah memeriksa perkembangan pemagang?
+Apakah Anda pikir Anda dapat menyesuaikan jadwal?
+Bisakah kau menghubungiku lagi lewat telepon?
+Apakah Anda ingin lebih banyak akses?
+Apakah Anda menerima informasi koneksi?
+Apa kau punya dokumen yang harus kupersiapkan?
+Apakah Anda pikir ada fitur yang harus dikecualikan?
+Apakah Anda memiliki versi terbaru dari sistem organisasi?
+Apakah Anda pikir Anda bisa sedikit lebih agresif?
+Apakah Anda melihat sistem yang sama seperti saya sekarang?
+Apakah Anda akan membiarkan staf tahu tentang hal ini?
+Bisakah Anda ceritakan tentang situasi saat ini?
+Dapatkah Anda memberikan referensi orang?
+Dapatkah Anda memberikan saya beberapa bahan referensi?
+Apakah Anda akan memasukkan bahwa ke dalam posting pekerjaan?
+Apa kau sudah selesai memeriksa daftarnya?
+Apakah Anda hanya perlu file terbaru?
+Bisakah kau katakan padaku siapa yang memiliki keputusan akhir dalam hal ini?
+Apakah Anda akan menetapkan tugas tambahan?
+Apakah Anda pikir Anda membutuhkan bantuan ekstra?
+Apakah Anda pikir kita membutuhkan staf tambahan?
+Apakah Anda membutuhkan staf tambahan?
+Apa ada grafik lain yang ingin kau lihat?
+Apa kau punya pertanyaan lain?
+Apakah Anda memiliki pertanyaan tambahan yang ingin Anda tambahkan?
+Apa kau punya seseorang yang ingin kau tambahkan?
+Apakah Anda menyerahkan laporan harian Anda?
+Apakah Anda mempersiapkan dokumen yang diperlukan untuk perjalanan Anda?
+Kau sudah periksa kalendermu?
+Kau hanya perlu meninjau kasus ini.
+Dapatkah Anda menambahkan portofolio lain untuk pengajuan Anda?
+Anda hanya dapat menambahkan filter dan menggunakannya.
+Apakah Anda dapat memutuskan prioritas solusi?
+Apakah Anda bersedia untuk berbagi dengan tim humas juga?
+Can you also do a video interview?
+Apakah Anda dapat mengambil menit untuk pertemuan?
+Harap perbarui dasbor Anda.
+CEO menempatkan nilai tinggi pada membangun hubungan yang kuat dengan pelanggan kami.
+Umpan balik apa yang Anda terima atas pencapaian itu?
+Perwakilan memerintahkan kita untuk menstandarisasi format dokumen.
+CEO telah setuju untuk menerima laporan kinerja setiap bulan.
+CEO saat ini sedang meninjau mempekerjakan staf baru.
+CEO menandatangani kontrak kemarin.
+CEO ingin memangkas anggaran sedikit.
+CEO akan mengunjungi kantor sore ini.
+CEO menyarankan kita untuk mengidentifikasi potensi risiko sebelumnya.
+Bagaimana Anda melihat hal ini, Bapak Presiden?
+CEO ingin meninjau kembali arah proyek ini.
+CEO menekankan pentingnya mencapai target kuartal ini.
+CEO memuji pencapaian ini.
+CEO akan mengunjungi kantor pusat minggu ini.
+Siapkan lingkungan demo Anda.
+Silakan tinjau kembali panduan desain.
+Apakah tim desain juga sudah menyiapkan versi mobile?
+Dapatkah tim desain memberi kita konsep desain baru hari ini?
+Apakah tim desain menggabungkan semua revisi?
+Tim desain mengirim tiga rancangan yang berbeda.
+Tim desain mengirimkan gambar preview hari ini.
+Apakah tim desain berkonsultasi dengan agen eksternal?
+Dapatkah tim desain mematuhi panduan warna?
+Silakan coba log masuk.
+Simpan laporan sebagai PDF dan unggah.
+Tim pemasaran meminta pengenalan singkat untuk media sosial.
+Tim pemasaran secara khusus meminta kami mematuhi pedoman desain.
+Tim pemasaran meminta untuk segera melihat hasil kampanyenya.
+Tim pemasaran ingin memajukan jadwal kampanye.
+Silakan tulis subjek email Anda dengan cara yang jelas dan ringkas.
+Silakan tulis subjek email dengan cara yang jelas dan ringkas.
+Kirim email.
+Kirim email segera.
+Silakan periksa email Anda.
+Mohon berikan penjelasan terperinci tentang pendapat Anda tentang wawancara tersebut.
+Bisakah kita menjadwal ulang wawancaranya?
+Mohon informasikan jadwal wawancara kepada pemohon.
+Silakan isi formulir evaluasi wawancara.
+Bisa beritahu aku kapan langkah selanjutnya?
+Apakah Anda pikir resume saya perlu beberapa pekerjaan?
+Bisakah kau jelaskan tugas-tugas yang akan aku tanggung?
+Apakah Anda pikir saya cocok untuk posisi saya melamar?
+Bisakah Anda memberi kami gambaran singkat tentang suasana tim?
+Sebelum wawancara, pastikan untuk meninjau kembali resume Anda dengan hati-hati.
+Apakah Anda pernah menggunakan produk kami sebelumnya?
+Harap mengganti nama dokumen agar sesuai dengan aturan.
+Harap catat orang yang meninjau dokumen.
+Mohon setujui dokumen tersebut.
+Simpan dokumen dalam bahasa Inggris juga.
+Harap juga menulis dokumen dalam bahasa Inggris.
+Harap perbaiki semua jenis yang ada dalam dokumen.
+Jika kau menemukan masalah, tolong laporkan padaku segera.
+Jika Anda pikir Anda akan terlambat untuk pertemuan, tolong beritahu saya terlebih dahulu.
+Apa Tn. Park sudah login ke sistem baru?
+Apakah Mr Park berbagi hasil pertemuan kemarin dengan Anda?
+Bisakah Mr Park menangani ini sendiri?
+Apakah Mr Park memeriksa file ini?
+Apa Tn. Park sudah menyampaikan laporan perjalanan bisnisnya?
+Manajer Park akan senang untuk menunjukkan orang baru di sekitar.
+Manajer Park mengawasi proyek ini.
+Manajer Park mengkoordinasikan jadwal dengan tim HR.
+Apa Manager Park ada di ruang rapat saat ini?
+Manajer Park memindahkan pertemuannya ke sore hari.
+Mr Park masih belum mengirim data yang kita minta kemarin.
+Manajer menyerahkan kontrak kepada tim hukum.
+Bisa tolong kirimkan bahan presentasinya terlebih dahulu.
+Silakan periksa jadwal Anda.
+Harap konfirmasi tanggal penyebaran.
+Pastikan untuk mencadangkan file Anda sebelum menyebarkan.
+Harap pastikan untuk mengujinya secara menyeluruh sebelum penyebaran.
+Jalankan tes sebelum penerapan.
+Silakan daftarkan informasi versi dalam tabel.
+Tim hukum menanyakan waktu perpanjangan kontrak.
+Tim hukum telah meminta dokumen kontrak asli lagi.
+Tim hukum meminta Anda menandatangani kontrak.
+Tim hukum mengatakan tanda tangannya hilang.
+Apakah tim hukum mengatakan mereka akan mengirim versi revisi hari ini?
+Harap perbarui jadwal Anda di kalender.
+Harap beritahu anggota tim tentang jadwal yang diperbarui.
+Silakan kirim laporan sebagai PDF.
+Silakan ringkas laporan secara singkat.
+Tolong bagikan laporannya.
+Tolong kirimkan laporannya akhir hari ini.
+Tolong tulis laporannya.
+Silakan tulis laporan Anda dalam format standar.
+Harap ikuti peraturan keamanan.
+Harap ikuti peraturan keamanan.
+Jika Anda telah kehilangan token keamanan Anda, silakan melaporkannya segera.
+Harap ubah kata sandi Anda untuk tujuan keamanan.
+Tolong bawa kartu keamananmu.
+Tim keamanan menyarankan kami untuk mengubah kata sandi kami secara teratur.
+Tim keamanan berencana memblokir berbagi tautan eksternal.
+Tim keamanan telah membatasi penggunaan perangkat penyimpanan eksternal.
+Manajer memerintahkan kami untuk mengakomodasi permintaan pelanggan sebanyak mungkin.
+Apakah manajer juga meminta Anda untuk berdiskusi dengan tim lain?
+Manajer menginstruksikan kami untuk menerapkannya sebagai proyek percontohan terlebih dahulu.
+Manajer memerintahkan kita untuk menyederhanakan sistem pelaporan.
+Apakah manajer meminta Anda untuk mengubah format laporan?
+Manajer mengatakan kepada saya untuk menimbang biaya terhadap manfaat.
+Manajer sedang memeriksa ulang anggaran.
+Berapa banyak anggaran yang diminta manajer untuk Anda potong?
+Kenapa kau menunda rapatnya?
+Apakah manajer memberi Anda izin untuk menggunakan perusahaan eksternal?
+Apakah Anda puas dengan kinerja kami?
+Apakah manajer mendengar pendapat tim kami?
+Kapan manajer menyuruh kita menyelesaikannya?
+Apakah manajer mengatakan tidak apa-apa dengan arah ini?
+Apakah manajer meminta Anda untuk menyerahkan masalah ini besok?
+Apakah manajer mengatakan dia akan memutuskan masalah ini hari ini?
+Dengan siapa manajer meminta untuk berbagi rencana ini?
+Manajer menyebutkan bahwa jadwalnya cukup padat.
+Manajer saat ini sedang meninjau kemungkinan untuk mendatangkan staf tambahan.
+Harap hapus berkas yang tidak diperlukan.
+Harap mengganti kata sandi Anda.
+Harap mengganti kata sandi Anda secara teratur.
+Harap perbarui informasi kontak darurat Anda.
+Tolong hitung ulang biayanya.
+Silakan atur dan kirimkan tanda terima pengeluaran Anda.
+Menangani pengeluaran.
+Tolong perbarui kode biayanya.
+Silakan mengajukan permohonan untuk persediaan yang diperlukan.
+Tolong sampaikan laporan kejadiannya.
+Kirim pemberitahuan di papan buletin perusahaan.
+Harap merespon melalui sistem pesan internal kami.
+Harap pastikan untuk mengunci pintu kantor.
+Tolong kirimkan rincian penggunaannya.
+Tolong kembalikan kartu identitas karyawanmu.
+Mohon berikan penjelasan terperinci.
+Harap juga melampirkan foto.
+Silakan kirim laporan post-mortem.
+Please provide the new employee with the necessary equipment.
+Coba template baru.
+Lihatlah alat manual yang baru.
+Lihatlah proses baru.
+Silakan gunakan format baru.
+Tolong beritahu saya hasil pemeriksaan dokumen pada akhir hari ini.
+Tolong periksa kembali dokumennya.
+Tolong periksa dokumennya.
+Silakan pindai tanda tangan Anda dan unggah.
+Harap tambahkan tanda tangan Anda.
+Silakan tanda tangan dan mengembalikannya.
+Silakan periksa status server.
+Harap laporkan hasil pemeriksaan server.
+Silakan tulis dan kirim surat sampul.
+Harap merefleksikan perubahan sesegera mungkin.
+Silakan kirim versi revisi lagi.
+Harap kirimkan bahan slide sebelum pertemuan dimulai.
+Setelah disetujui, silakan lanjutkan dengan tindakan segera.
+Silakan kirim catatan waktu Anda.
+Siapa yang memantau sistemnya?
+Apakah sistemnya juga sama di ponsel?
+Mengapa sistem selalu tampak lambat di pagi hari?
+Bisakah sistemnya diakses dari luar?
+Sistem akan dimatikan sementara selama pemeliharaan.
+Sistem ini dijadwalkan akan ditingkatkan selama akhir pekan.
+Sistem saat ini berfungsi normal.
+Apa sistemnya masih rusak?
+Silakan kirimkan draft Anda.
+Bisakah Anda membuat video demo untuk saya terlebih dahulu?
+Bisakah Anda menunjukkan video demonstrasi kepada tim.
+Tolong buat akun baru dan beritahu aku.
+Para karyawan baru menghadiri sesi perkenalan perusahaan hari ini.
+Desain mana yang paling Anda sukai?
+Harap tetap memberikan informasi kepada tim tentang detail pembaruan.
+Harap simpan catatan kerja.
+Silakan cetak instruksi kerja.
+Bisakah Anda menjadwalkan waktu yang cocok untuk Anda.
+Apa kau sudah melihat panduan layanan pelanggan kami?
+Menurutmu apa cara terbaik untuk menangani perubahan shift?
+Apakah Anda memeriksa apakah itu memenuhi syarat untuk penggantian?
+Apa pendapat Anda tentang keputusan itu?
+Apakah Anda dapat mempersiapkan diri tepat waktu?
+Silakan tulis tujuan yang ingin Anda capai.
+Menurutmu siapa yang akan menjadi mentor yang baik?
+Tolong perbarui kami setiap pagi.
+Anda benar-benar harus berada di sana.
+Apa kau sudah mempersiapkan presentasimu?
+Apakah Anda memeriksa baris diperbarui?
+Sudahkah Anda memeriksa konten yang diperbarui?
+Apa kau sudah memeriksa tabel gaji terbaru?
+Menurutmu pasar mana yang lebih dulu?
+Menurutmu berapa jumlah yang masuk akal?
+Menurutmu tugas apa yang cocok untukmu?
+Kriteria apa yang menurutmu terbaik untuk membagi sesuatu?
+Tugas macam apa yang ingin Anda tugaskan?
+Otomatisasi seperti apa yang menurut Anda dibutuhkan?
+Alat apa yang Anda suka gunakan?
+Apa yang bisa kau potong?
+Apakah Anda meninggalkan catatan pekerjaan Anda di wiki?
+Apakah Anda dapat membuatnya bekerja tepat waktu?
+Apa kau puas dengan frekuensi pertemuan kita?
+Harap konfirmasi tanggal yang dapat diperpanjang.
+Harap lampirkan tanda terima Anda.
+Tim penjualan meminta saya untuk menunjukkan kepada mereka demo di pertemuan pelanggan.
+Tim penjualan meminta kami untuk menyediakan materi acara terlebih dahulu untuk acara bulan depan.
+Tim penjualan mengatakan bahwa target bulan ini agak ambisius.
+Tim penjualan juga meminta untuk memposting pekerjaan.
+Harap merespon pada akhir hari ini.
+Harap merespon pada akhir hari ini.
+Harap kirim ulang versi yang dikoreksi.
+Tolong persiapkan pertemuan sore ini.
+Tolong beritahu aku jika sudah selesai.
+Tolong berhenti berbagi secara eksternal.
+Perwakilan kami hanya tersedia sore ini.
+Departemen kami perlu mengurangi biaya bulan depan.
+Apakah departemen kami akan mempekerjakan lebih banyak staf bulan depan?
+Departemen kami akan pindah bulan depan.
+Kepala departemen kami ingin menyelesaikan semua pertemuan untuk minggu ini.
+Kepala departemen kami ingin menerima update harian tentang tugas-tugas yang berjalan di belakang jadwal.
+Manajer kami ingin menerima laporan kunjungan pelanggan.
+Manajer kami telah menyarankan agar kita mulai mengurangi pekerjaan jarak jauh dari kuartal berikutnya.
+Kami akan memastikan untuk mengirimkan pengumuman kepada semua orang di tim.
+Tim kami akan mengirimkan umpan balik kami besok.
+Tim kami akan memasuki tahap pengujian mulai besok.
+Siapa yang akan menangani layanan pelanggan untuk tim kami?
+Bisakah kita mendapatkan bantuan dari departemen lain?
+Tim kami akan mengunjungi klien minggu depan.
+Apakah tim kita bisa memenuhi tenggat waktu?
+Tim kami akan standarisasi konvensi penamaan untuk dokumen.
+Jika kita menemukan masalah, kita akan posting mereka dalam obrolan grup segera.
+Apa lingkup kita atau apa yang ada dalam bidang tanggung jawab kita?
+Kami akan mengatur ulang tugas tim kami.
+Apakah kita harus memasukkan beberapa jam ekstra malam ini?
+Akankah tim kita bisa memberikan hasilnya hari ini?
+Tim kami hanya akan menerima panggilan konsultasi di pagi hari.
+Tim kami hanya akan menerima email eksternal melalui akun ini.
+Bisakah kita menggunakan perusahaan eksternal untuk tim kita?
+Apakah Anda pikir itu ide yang baik bagi tim kami untuk outsource?
+Haruskah tim kami memprioritaskan pengembangan fitur ini?
+Bagaimana kita memecah dan mengatasi masalah ini sebagai sebuah tim?
+Tim kami akan memberikan prioritas utama untuk mengatasi masalah ini.
+Apakah lebih baik bagi tim kami untuk memiliki dua orang bekerja pada ini bersama-sama?
+Bisakah tim kami mempersiapkan demo pada akhir bulan ini?
+Tim kami telah melampaui target triwulanan.
+Kami mengadakan makan malam tim Jumat ini.
+Apakah kita akan bekerja lembur lagi minggu ini?
+Tim kami telah memutuskan untuk mengadakan presentasi kinerja kali ini.
+Tim kami akan menyimpan catatan harian kemajuan kami.
+Haruskah kita juga membuat laporan?
+Tim kami akan mendokumentasikan hasil tes.
+Bisakah kita mengamankan personil pengujian tambahan untuk tim kita?
+Apakah lebih baik bagi tim kami untuk mengadakan pertemuan kami secara online?
+Pemimpin tim kami menyarankan agar kami sedikit mengurangi respon pelanggan kami.
+Pemimpin tim kami menyarankan agar kami menetapkan anggota tim yang berdedikasi untuk setiap pelanggan.
+Pemimpin tim kami menyarankan agar kami menstandarisasi judul dokumen.
+Pemimpin tim kami menekankan pentingnya mendokumentasikan semuanya.
+Pemimpin tim kami menyarankan agar kami memasangkan pengembang baru dengan mentor.
+Ketua tim kami menyarankan agar kami menyewa lebih banyak pekerja magang untuk paruh kedua tahun ini.
+Pemimpin tim kami menyarankan agar kami meninjau kembali dan menetapkan tujuan baru untuk tahun ini.
+Ketua tim kami meminta kami untuk mengirimkan video demo pada akhir minggu ini.
+Pemimpin tim kami menyarankan agar kami mengadakan pertemuan seminggu sekali, bukannya lebih sering.
+Pemimpin tim kami menyarankan agar kami beralih ke alat kolaborasi baru.
+Apakah perusahaan kami menutupi biaya pendidikan?
+Perusahaan kami bersiap-siap untuk ekspansi besar ke pasar internasional tahun depan.
+Mulai besok, perusahaan kami akan mulai bekerja 30 menit sebelumnya.
+Perusahaan kami telah memperpendek siklus penggantian laptop.
+Perusahaan kami akan melakukan sesi pelatihan untuk pewawancara bulan depan.
+Perusahaan kami akan melakukan reorganisasi bulan depan.
+Perusahaan kami telah memutuskan untuk memberikan tugas praktek selama wawancara.
+Apakah perusahaan kami berencana untuk mengungkapkan standar gajinya berdasarkan kinerja?
+Apakah perusahaan kami membayar lembur?
+Tahun ini, perusahaan kami telah menetapkan KPI baru.
+Apakah perusahaan kami akan mempekerjakan magang lagi tahun ini?
+Apakah perusahaan kami akan merevisi kebijakan kerja jarak jauh?
+Apakah kita mempertimbangkan untuk menerapkan proyek ini ke pasar internasional juga?
+Perusahaan kami dijadwalkan untuk menjalani audit eksternal bulan ini.
+Perusahaan kami baru saja mengubah sistem kesejahteraannya.
+Apakah perusahaan kami memiliki kebijakan tentang pekerjaan jarak jauh?
+Kita perlu menjalankan proses QA lagi.
+Apakah kita perlu menyelesaikan keluhan pelanggan dalam sehari?
+Haruskah kita menjaga informasi pelanggan tetap aman?
+Kami akan mengadakan pertemuan pelanggan secara online.
+Kita perlu mempersempit ruang lingkup yang klien kita cari.
+Bisakah kita memenuhi tenggat waktu untuk pembangunan?
+Bisakah kita membuat penyesuaian dengan kondisi itu?
+Apa kita perlu menyerahkan draftnya hari Jumat?
+Apakah kita perlu mengirimkan video demo besok?
+Bisakah kita merilis versi berikutnya lebih cepat dari jadwal?
+Apakah kita bersiap-siap untuk proses perekrutan kuartal berikutnya?
+Haruskah kita mengantisipasi risiko sebelumnya?
+Kita perlu melatih kembali protokol keamanan.
+Kita perlu mendapatkan persetujuan untuk biaya pertama.
+Haruskah kita mengumpulkan umpan balik pengguna?
+Kita harus mengikuti aturan baru.
+Kami akan melakukan peninjauan kinerja minggu depan.
+Apakah kita berencana untuk memperkenalkan alat baru?
+Berapa banyak kita bisa menyesuaikannya?
+Haruskah kita menstandarisasi proses kerja kita?
+Kita perlu memangkas anggaran kita sedikit.
+Kami akan menyelesaikan wawancara untuk rekrutan baru kami hari ini.
+Apakah kita perlu membuat keputusan hari ini?
+Kita perlu mengumpulkan pendapat kita pada akhir hari ini.
+Kita akan membahasnya setelah pertemuan eksternal selesai.
+Haruskah kita memberikan tanggapan resmi tentang hal ini?
+Kita perlu meninjau kembali dan menyesuaikan tujuan kita untuk kuartal ini.
+Kami akan melakukan peninjauan kode minggu ini.
+Haruskah kita dengan jelas menentukan peran kita dalam proyek ini?
+Haruskah kita menyelidiki penyebab keterlambatan?
+Apakah kita perlu menyerahkan laporan keuangan kita kepada publik?
+Apakah kita mengadakan pertemuan penuh setiap bulan?
+Kami akan menulis ulang deskripsi pekerjaan.
+Kami akan mengumumkan kandidat terakhir yang sukses minggu depan.
+Apakah kita akan check-in pada tim tujuan secara triwulanan?
+Kami akan berbagi hasil evaluasi dengan semua anggota staf.
+Apa kita kekurangan staf?
+Kami memiliki sangat sedikit ruang untuk negosiasi.
+Bisakah kita beralih ke alat kolaborasi yang berbeda?
+Tim operasi berencana untuk menerapkan proses login dua langkah.
+Tim operasi berencana memperkenalkan alat pemantauan baru.
+Tim operasi menginstruksikan kami untuk membuat akun karyawan baru sehari sebelumnya.
+Tim operasi sedang mencari untuk mengubah proses respon insiden mereka.
+Tim operasi telah memperbarui format laporan insiden.
+Tolong jangan hapus file aslinya.
+Harap kirimkan dokumen asli.
+Tolong kirimkan dokumen aslinya.
+Tolong periksa kembali perkiraan ini.
+Apakah kontrak ini memerlukan persetujuan Anda?
+Bisakah kita memperpanjang tenggat waktu ini?
+Siapa yang bertanggung jawab atas persetujuan akhir pada dokumen ini?
+Kepada siapa aku harus menunjukkan dokumen ini terlebih dahulu?
+Dokumen ini harus disimpan dalam folder yang aman.
+Apakah Anda juga memerlukan dokumen ini dalam bahasa Inggris?
+Dapatkah Anda selesai membaca dokumen ini pada akhir hari ini?
+Dokumen ini tidak diperbolehkan dibawa ke luar negeri.
+Haruskah aku juga berbagi dokumen ini dengan tim HR?
+Dokumen ini hanya boleh digunakan dengan versi terbaru.
+Lihatlah dokumen ini.
+Laporan ini akan disampaikan langsung ke tim manajemen.
+Laporannya akan dibagikan besok pagi.
+Haruskah aku menyerahkan laporan ini langsung ke kepala departemen?
+Laporan harus akurat dalam jumlah.
+Apakah laporan ini hanya perlu nomor?
+Haruskah laporan ini diperbarui dengan nomor terbaru?
+Dapatkah saya melampirkan banyak file ke laporan ini?
+Haruskah aku mengirim laporan ini sebelum pertemuan?
+Dapatkah saya menangani hal ini sendiri?
+Jadwal diubah atas permintaan pelanggan.
+Apakah jadwal ini sudah disepakati dengan pelanggan?
+Jadwal ini dikoordinasikan dengan jadwal departemen lainnya.
+Apakah tim lain tahu tentang jadwal ini?
+Setiap perubahan jadwal ini harus diumumkan terlebih dahulu.
+Bisakah kita memindahkan jadwal ini ke pagi hari?
+Dapatkah saya mengubah jadwal ini ke sore hari?
+Dapatkah jadwal ini dilakukan secara online sepenuhnya?
+Apakah jadwal ini ditujukan untuk jumlah peserta yang lebih banyak?
+Bisakah kita melanjutkan proyek ini tanpa persetujuan pelanggan?
+Siapa yang bertugas mengawasi proyek ini dari awal hingga akhir?
+Apakah proyek ini memerlukan presentasi?
+Departemen mana yang akhirnya bertanggung jawab untuk membuat keputusan akhir pada proyek ini?
+Apakah proyek ini akan sesuai dengan anggaran kita?
+Di mana saya bisa mendapatkan dana untuk proyek ini?
+Proyek ini memakan waktu lebih lama dari yang diharapkan.
+Pengujian untuk proyek ini akan selesai pada akhir hari ini.
+Kenapa lama sekali agar proyek ini disetujui?
+Bisakah kita outsource proyek ini?
+Haruskah kita bertanggung jawab bersama untuk proyek ini?
+Apa potensi risiko atau bahaya yang terkait dengan proyek ini?
+Proyek ini harus dijalankan pada akhir bulan ini.
+Apakah akan ada perubahan lebih lanjut pada jadwal proyek?
+Proyek ini memerlukan personel uji tambahan.
+Kirim email segera.
+Lihatlah gambar-gambar setelah mengunduhnya.
+Mari kita atur ulang prioritas kita untuk minggu ini.
+Apakah tim relokasi sudah menyelesaikan pengaturan tempat duduk?
+Segera daftarkan masalahmu dengan pelacak.
+Apa tim HR sudah berbagi rencana latihan denganmu?
+Apa tim HR sudah menyelesaikan jadwal wawancaranya?
+Tim HR telah membuat templat baru untuk umpan balik pewawancara.
+Tim HR telah memperbarui tabel gaji.
+Bisakah tim HR mengirimkan surat penawaran?
+Tim HR meminta status penyelesaian pelatihan tahun ini.
+Dapatkah tim HR menyesuaikan tanggal mulai karyawan baru?
+Apakah tim HR menyebutkan bahwa mereka membutuhkan informasi tambahan terkait proses perekrutan?
+Apakah jadwal perekrutan telah diselesaikan?
+Tim HR telah memperpanjang tawaran untuk kandidat terakhir.
+Apakah tim HR menerima semua informasi kandidat?
+Tim HR meminta saya untuk memberikan evaluasi rinci dari para kandidat.
+Harap perbarui jadwal Anda.
+Harap tambahkan jadwal ke kalender Anda.
+Bagaimana tim manajemen mengevaluasi indikator tersebut?
+Silakan kirimkan dokumen lamaran kerja Anda.
+Tolong kirimkan datanya hari ini.
+Kumpulkan data Anda ke dalam satu folder.
+Anda bebas untuk bangun dari kursi Anda.
+Harap catat jam kerja Anda.
+Silakan log out setelah Anda selesai dengan pekerjaan Anda.
+Untuk menyewa peralatan, silakan membuat reservasi terlebih dahulu.
+Tolong periksa peralatannya.
+Silakan periksa jumlah inventaris.
+Tim keuangan meminta saya untuk mendapatkan persetujuan sampai tingkat kedua.
+Tim keuangan mengklaim bahwa kode pengeluaran salah.
+Tim keuangan meminta tanda terima asli.
+Tim keuangan secara khusus menginstruksikan saya untuk mencatat alasan untuk anggaran overrun.
+Tim keuangan meminta dokumentasi lebih lanjut untuk mendukung transaksi kartu.
+Silakan periksa pemberitahuan restart.
+Saya berencana untuk melakukan putaran pertama wawancara online.
+Aku akan membuat kasus tambahan yang diminta QA.
+Aku sudah memasukkan semua umpan balik dari tim QA.
+Aku sudah mengatur izin akses untuk server pengembangan.
+Saya pikir jadwal pembangunan berjalan di belakang jadwal.
+Saya telah meninjau perkiraan lagi.
+Aku meninggalkan respon untuk penyelidikan pelanggan.
+Aku akan menanggapi pertanyaan pelanggan segera.
+Aku akan singkat tim pada hasil pertemuan pelanggan kami.
+Aku akan meninjau dan menyelesaikan agenda pertemuan pelanggan kami.
+Saya akan meringkas kekhawatiran pelanggan dan berbagi dengan Anda.
+Aku sudah mengumpulkan dan memposting keluhan pelanggan.
+Aku akan mencoba menghubungi pelanggan lagi.
+Saya ingin mendiskusikan kontrak jangka panjang dengan klien kami.
+Aku akan menghubungi pelanggan segera.
+Aku sudah mengumpulkan barang-barang keamanan yang diminta pelanggan.
+Aku akan berbagi draft dengan tim segera.
+Saya dapat memberikan Anda dengan tingkat kehadiran dalam bentuk numerik.
+Aku sudah mengumpulkan semua permintaan mendesak di satu tempat.
+Aku sudah memeriksa anggaran yang tersisa.
+Jadwal kerjaku fleksibel besok.
+Aku akan menyiapkan estimasi besok.
+Aku akan memperbarui kasus tes besok.
+Aku akan sering keluar kantor mulai besok.
+Saya telah memilih fitur yang akan disertakan dalam versi berikutnya.
+Saya ingin mengisi posisi di kuartal berikutnya.
+Aku akan melakukan wawancara teknis dengan kandidat Rabu depan.
+Aku akan mulai membuat persiapan untuk perjalanan saya minggu depan.
+Aku sudah mengambil cuti untuk minggu depan.
+Saya berencana untuk mengambil cuti tahunan saya minggu depan.
+Aku sudah memasukkan semua rencanaku sampai bulan depan.
+Aku akan mengganti orang yang bertanggung jawab pada akhir hari ini.
+Aku memeriksa dengan orang yang bertanggung jawab untuk mengkonfirmasi.
+Saya berencana untuk membuat beberapa penyesuaian untuk struktur database.
+Aku sudah menyelesaikan jadwalnya dengan tim desain.
+Aku sudah memecahkan faktor risiko ke dalam tabel.
+Sayangnya, karena konflik penjadwalan, hanya satu orang yang dapat menghadiri wawancara.
+Aku sudah memilah jadwal wawancara yang bertentangan satu sama lain.
+Aku sudah membuat daftar pertanyaan untuk wawancara.
+Aku sudah memformat dokumennya agar sesuai dengan standar perusahaan kita.
+Saya juga menulis dokumen dalam bahasa Inggris.
+Saya membuat video untuk mereproduksi masalah dan mengirimkannya kepada Anda.
+Saya telah mengidentifikasi masalah ini dan saya mengambil langkah-langkah untuk mengatasinya.
+Aku sudah mengirimkan link pertemuan ke semua orang.
+Aku mengatur ulang perintah presentasi.
+Saya telah menyertakan logo perusahaan dalam bahan presentasi.
+Saya telah mengatur bahan presentasi dengan cara yang mudah untuk diikuti.
+Aku baru saja memeriksa log server.
+Aku baru saja memposting versi terbarunya.
+Aku baru saja meng-upload file yang direvisi.
+Aku berbagi daftar periksa pra-deployment dengan semua orang.
+Saya ingin menstandarisasi format laporan.
+Akan kusampaikan laporannya sore ini.
+Saya juga telah menyiapkan email pemberitahuan bagi mereka yang tidak lulus.
+Aku membaca ulang peraturan internal perusahaan.
+Aku mengumumkannya melalui sistem pesan internal perusahaan.
+Aku meminta akses ke sistem internal perusahaan.
+Saya akan memposting kebijakan baru dalam bahasa Korea dan Inggris.
+Saya menjelaskan pekerjaan kepada magang baru.
+Aku akan menjelaskan struktur tim kepada anggota tim baru.
+Aku berbagi jadwal terbaru dengan departemen.
+Saya dapat menunjukkan hasil tes kinerja dengan membandingkannya.
+Aku sudah memasukkan semua perubahan.
+Aku akan menguji fitur baru pertama.
+Saat ini aku sedang mempersiapkan presentasi tentang layanan baru kita.
+Saya telah menulis panduan selamat datang untuk karyawan baru.
+Aku membuat akun untuk karyawan baru.
+Saya ingin bergabung dengan proyek baru.
+Aku telah mengidentifikasi kekuatan anggota tim baru kita.
+Saya akan menciptakannya kembali dalam versi yang lebih user-friendly untuk praktisi.
+Aku mengirim email permintaan maaf ke pelanggan kemarin.
+Aku bekerja sampai larut malam kemarin.
+Aku memeriksa semua bahan yang kau minta kemarin.
+Saya diberitahu bahwa pekerjaan yang saya minta kemarin masih belum selesai.
+Aku mendukung pekerjaan yang kulakukan kemarin.
+Aku mendokumentasikan ide-ide yang keluar dari pertemuan kemarin.
+Aku sudah mengambil alih pekerjaan baru sejak kemarin.
+Aku akan mengirimkan laporan penjualan mingguan.
+Aku sudah menyusun persyaratan penjualan.
+Saya bekerja dengan tim penjualan untuk menyesuaikan harga.
+Aku sudah memperbarui rencana anggaran.
+Aku sudah mencadangkan data lamaku.
+Aku telah memperbarui manual respon pelanggan hari ini.
+Aku akan menangani presentasi tentang pendidikan hari ini.
+Aku harus menyerahkan laporanku hari ini.
+Saya ingin menyelesaikan agenda untuk hari ini.
+Aku akan mengirimkan pembayarannya pada akhir hari ini.
+Akan kuberitahu hasilnya akhir hari ini.
+Aku akan menyerahkan persetujuan pada akhir hari ini.
+Saya mengajukan permintaan anggaran saya hari ini.
+Aku agak terlambat untuk bekerja pagi ini.
+Aku akan fokus meneliti data hari ini.
+Aku bekerja dari rumah hari ini.
+Aku mengirim kontrak ke klien hari ini.
+Aku sudah memesan makan siang tim untuk hari ini.
+Aku akan memimpin rapat tim hari ini.
+Aku akan menyelesaikan penyerahan pekerjaanku pada akhir hari ini.
+Aku sudah selesai menanggapi semua emailku pagi ini.
+Saya memiliki dua pertemuan dijadwalkan untuk pagi hari.
+Aku sudah mengoreksi semua kesalahan ketik.
+Aku akan menghubungi tim pengembang sore ini.
+Saya ingin berlatih presentasi yang dijadwalkan sore ini.
+Aku melanggar jadwal onboarding pada hari.
+Saya telah berbagi jadwal pertemuan dengan Anda sebelumnya.
+Saya membandingkan kutipan dari perusahaan eksternal.
+Saya telah menyusun laporan yang meringkas kinerja departemen kami.
+Aku sudah merangkum pro dan kontra dari produk kita.
+Aku akan mengatur ulang tujuan tim kita.
+Aku sudah menyusun daftar keterampilan yang dibutuhkan tim kita.
+Aku terhubung dari jarak jauh ke sistem.
+Saya ingin menjelaskan dengan jelas otoritas pengambilan keputusan saya.
+Akhirnya aku menyetujui kontrak ini.
+Saya pikir yang terbaik adalah untuk menerapkan fitur ini terlebih dahulu.
+Aku akan menyampaikan masalah ini ke departemen lain.
+Saya pikir kita perlu mengatasi masalah ini terlebih dahulu.
+Saya merasa sulit untuk menangani tugas ini sendiri.
+Aku akan mengevaluasi kembali prioritas untuk tugas ini.
+Aku akan memprioritaskan masalah ini.
+Aku akan mengirimkan data ini ke CEO.
+Aku akan berbagi informasi ini dengan tim.
+Aku benar-benar melihat ke depan untuk menghadiri pelatihan ini.
+Aku tahu target penjualan bulan ini.
+Aku mendaftar untuk pelatihan bulan ini.
+Aku sudah memproyeksikan penjualan kita untuk kuartal ini.
+Aku sudah memasukkan tabel dan grafik dalam hasil analisis.
+Aku akan menjelaskan agenda ini pada pertemuan besok.
+Aku akan memindahkan agenda ini ke pertemuan minggu depan.
+Aku akan menyelesaikan semuanya pada akhir minggu ini.
+Aku dijadwalkan mengunjungi perusahaan pelanggan minggu ini.
+Saya ingin melakukan kegiatan membangun tim minggu ini.
+Aku mengirim email penyelidikan ke tim HR.
+Aku sudah menyusun daftar tugas untuk magang.
+Aku akan menyebarkannya dengan pengaturan default untuk saat ini.
+Aku sudah konservatif dengan anggaran saya dari awal.
+Aku membuat jadwal yang realistis untuk memulainya.
+Aku baru saja mengirimkan jadwal bersama melalui email.
+Aku akan memberitahu semua staf perubahan jadwal.
+Aku sudah mengirimimu email dengan jadwal yang diperbarui.
+Aku punya banyak di piring saya, jadi saya benar-benar perlu memprioritaskan.
+Aku bisa menjelaskan alasan keterlambatan jadwal kita.
+Aku akan memeriksanya segera setelah aku kembali ke tempat dudukku.
+Aku akan ke ruang konferensi sebentar lagi.
+Aku sudah mengatur tugas jangka panjangku ke dalam daftar.
+Aku meminta tim keuangan yang menangani biayanya.
+Aku sudah mengurus permintaan yang diwariskan padaku.
+Aku tahu bahwa tenggat waktunya adalah besok.
+Saya mengelompokkan kesalahan utama ke dalam beberapa kategori.
+Aku sedang memilah-milah permintaan pelanggan.
+Saya dapat membuat demo dengan versi saat ini.
+Aku telah menetapkan masalah ini untuk orang yang bersangkutan.
+Aku sedang berdiri di luar.
+Aku sedang memeriksa server tes.
+Aku menghadiri sesi pelatihan minggu lalu dan merangkum poin-poin pentingnya.
+Saya telah membuat dasbor indikator lebih user-friendly.
+Aku akan mengelola dokumen terakhir dengan nama versinya.
+Aku sudah menjadwalkan pertemuan klien untuk jam 3 sore.
+Aku sudah menyusun persyaratan klien.
+Aku sudah mengumpulkan catatan sejarah komunikasi untuk setiap klien.
+Saya berbagi hasil tes dalam lembar kerja.
+Saya telah membuat hasil tes di Excel.
+Aku baru saja menyiapkan server tes baru.
+Aku akan memeriksanya dulu di lingkungan tes.
+Aku akan meng-upload hasilnya sebelum aku pergi.
+Aku akan mengembalikan peralatannya sebelum aku pulang.
+Aku sudah melacak kinerja tim kami setiap bulan.
+Aku akan menyusun laporan penggunaan anggaran tim.
+Saya telah memberikan deskripsi yang lebih rinci dari posisi.
+Aku akan meringkas faktor risiko proyek dan mempostingnya.
+Aku akan menulis laporan penyelesaian proyek.
+Aku sudah mengatur ulang struktur folder proyek.
+Aku harus menyinkronkan jadwalku dengan kantor di luar negeri.
+Aku meminta perpanjangan kontrak dari perusahaan mitra kami.
+Aku akan menghubungi perusahaan mitra lagi.
+Aku akan menggunakan laptop perusahaan sampai besok.
+Aku sudah membahas kebijakan perusahaan lagi.
+Aku sudah memperbarui profil perusahaan ke versi terbaru.
+Aku akan meringkas pengeluaran untuk makan malam perusahaan dan menyerahkannya kepada tim keuangan.
+Aku telah memecah agenda pertemuan menjadi tiga poin penting.
+Saya lebih suka tidak terlalu rumit topik pertemuan.
+Aku sudah memperbarui daftar peserta rapat.
+Aku mencoba untuk menjaga menit sesingkat mungkin.
+Aku sudah memesan ruang konferensi selama satu jam.
+Aku tahu kita kekurangan ruang rapat.
+Saya juga menyusun menit - menit pertemuan dalam bahasa Inggris.
+Aku sudah meninjau portofolio kandidat.
+Aku sudah memposting daftar orang yang sedang berlibur.
+Tolong jawab panggilan teleponnya.
+Mohon aksesnya.
+Harap jadwalkan pemeriksaan pemeliharaan rutin.
+Please check the title rules.
+Bersihkan file duplikat.
+Harap kirimkan pemberitahuan penting ke saluran tim.
+Mohon sorot titik kunci.
+Harap unggah dokumen pendukung.
+Tolong laporkan keterlambatan.
+Harap menangani pertanyaan saat ini terlebih dahulu.
+Tolong minta bantuan.
+Silakan upload portofolio Anda.
+Apakah Anda melakukan penelitian pada perusahaan kami?
+Peran apa yang kau pegang di perusahaan sebelumnya?
+Tim pendukung ingin memodifikasi protokol respon malam hari.
+Tim pendukung sedang bekerja untuk mempercepat pemrosesan tiket.
+Catat perkembanganmu.
+Silakan berbagi kemajuan Anda dengan saya setiap hari.
+Bisakah kau beritahu aku jika kau bisa hadir.
+Silakan kirim daftar peserta terakhir.
+Tolong beritahu saya hasil dari pemrosesan.
+Tolong kirimkan catatan kehadiran Anda.
+Silakan periksa catatan kehadiran Anda.
+Tolong buka kurirmu segera setelah kau tiba di tempat kerja.
+Silakan posting cetakan di papan buletin.
+Jika Anda membutuhkan bahan cetak, jangan ragu untuk mampir ke kantor.
+Tolong sampaikan laporan perjalanan Anda.
+Berlangganan kalender kami.
+Silakan kirim email penyelesaian ke klien.
+Harap catat hasil tesnya.
+Tambahkan lebih banyak kasus uji ke campuran.
+Tambahkan kasus tes.
+Harap verifikasi kasus tes.
+Silakan jalankan tes lagi.
+Apakah anggota tim memahami kebijakan ini?
+Apakah anggota tim menyetujui perubahan jadwal?
+Silakan juga berbagi informasi yang sama dengan anggota tim Anda.
+Ketua tim sedang menunggu hasil yang akan dilaporkan.
+Pemimpin tim menginstruksikan kami untuk memasukkan umpan balik pelanggan segera.
+Apakah ketua tim berbicara dengan pelanggan?
+Apakah Anda akan menghubungi pelanggan secara langsung?
+Apakah pemimpin tim akan hadir besok?
+Pimpinan tim akan berangkat besok.
+Pemimpin tim menyarankan agar kita menyederhanakan desain.
+Format apa yang Anda inginkan, Pak?
+Ketua tim memeriksa semua email kemarin.
+Ketua tim menyebutkan bahwa dia hanya tersedia untuk konsultasi sore ini.
+Dapatkah Anda memberitahu saya mengapa jadwal tertunda?
+Apakah Anda memiliki kesempatan untuk meninjau laporan kami?
+Apa kau sudah melihat jadwal kita?
+Apa ketua tim punya rencana untuk memperluas tim kita?
+Pemimpin tim sedang menunggu kita untuk membuat langkah pertama dan membuat proposal.
+Ketua tim akan menyerahkan laporan ini kepada CEO.
+Pemimpin tim mengharapkan hasil pada tingkat ini.
+Ketua tim telah menyetujui agenda ini.
+Kepada siapa kau akan mendelegasikan tugas ini?
+Apakah ketua tim bertanya apakah jadwal ini layak?
+Apakah ketua tim meminta data ini dalam bahasa Inggris juga?
+Apakah ketua tim akan melihat data ini hari ini?
+Ketua tim ingin aku untuk mengurus masalah ini.
+Pemimpin tim memerintahkan kita untuk menyelesaikan kasus ini secepat mungkin.
+Ketua tim telah menjadwalkan tiga pertemuan untuk minggu ini.
+Ketua tim sedang melihat dari dekat proyek ini.
+Pemimpin tim dapat menambahkan satu orang lagi ke dalam tim.
+Ketua tim tidak ingin mengubah jadwal.
+Ketua tim meminta saya untuk menyederhanakan data.
+Apakah pemimpin tim tersedia untuk berbicara sekarang?
+Harap mengganti nama file agar sesuai dengan aturan.
+Harap mengganti nama berkas untuk menyesuaikan ke konvensi penamaan.
+Harap unggah file ke folder bersama.
+Unggah file ke folder bersama.
+Silakan unduh ulang file dan periksa ulang.
+Silakan lampirkan file.
+Silakan periksa file.
+Tolong jangan berbagi kata sandi Anda dengan siapa pun di luar.
+Silakan buat berkas poster dan kirimkan.
+Bisakah Anda melihat presentasinya.
+Silakan dokumentasikan prosesnya di buku panduan.
+Harap perbarui rencana proyek ke versi terbaru.
+Harap perbarui rencana proyek.
+Harap perbarui jadwal proyek.
+Harap perbarui status projek setiap hari.
+Harap rapikan folder proyek Anda.
+Harap perbarui profil Anda ke versi terbaru.
+Tolong cetak dokumennya dan bawa ke pertemuan.
+Jangan ragu untuk menghubungi saya pada utusan jika Anda membutuhkan sesuatu.
+Jika dibutuhkan, sesuaikan prioritas terlebih dahulu.
+Harap buat dan distribusikan materi acara.
+Silakan posting laporan status.
+Tetap update status papan Anda.
+Jika Anda membutuhkan bantuan atau bantuan, jangan ragu untuk bertanya.
+Mari kita mulai dengan video konferensi.
+Silakan tinggalkan umpan balik Anda setelah meninjau.
+Tim akuntan memberitahu kami bahwa tanda terimanya hilang.
+Tolong kirimkan aku laporan biaya keanggotaan.
+Harap pastikan untuk memenuhi tenggat waktu untuk tanggapan Anda.
+Bisakah Anda mengirim ulang tautan rapat.
+Tolong kirimkan agenda pertemuannya terlebih dahulu.
+Bisakah kita menjadwal ulang pertemuannya?
+Harap tambahkan jadwal pertemuan ke kalender Anda.
+Silakan kirim item tindakan setelah pertemuan.
+Silakan meninjau menit pertemuan.
+Silakan berbagi menit pertemuan.
+Silakan mengambil menit.
+Berbagi menit pertemuan di saluran tim.
+Mari kita mulai dengan pertemuan.
+Silakan pesan ruang konferensi terlebih dahulu.
+Silakan pesan ruang konferensi terlebih dahulu.
+Silakan pesan ruang rapat.
+Apakah kandidat meminta pertemuan untuk membahas pengobatan?

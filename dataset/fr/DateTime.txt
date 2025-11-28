@@ -1,0 +1,1477 @@
+Est-ce que les bus roulent dimanche ?
+On le fait cet après-midi ?
+On recommence l'année prochaine ?
+On fait des vérifications hebdomadaires ?
+On part dans une heure ?
+On se voit à midi ?
+On se voit à l'heure habituelle ?
+On se voit tous les mardis à 18 h ?
+On se voit demain matin ou après-midi ?
+On se voit vendredi soir ?
+On se voit cet après-midi ?
+On se voit ce soir ?
+On se voit ce matin ?
+On part le 25 décembre ?
+On est en bonne voie pour finir aujourd'hui ?
+On commence au début de l'heure ?
+On commence à l'heure aujourd'hui ?
+On le fait toujours ce mois-ci ?
+On se voit toujours ce mois-ci ?
+C'est toujours d'accord pour 15h ?
+C'est toujours d'accord pour 18h ?
+C'est toujours d'accord pour 8 h précises ?
+C'est toujours d'accord pour vendredi soir ?
+C'est toujours d'accord pour ce soir ?
+On doit commencer à minuit ?
+Êtes-vous disponible à 7h du soir ?
+Êtes-vous disponible plus tard ce soir ?
+Êtes-vous disponible jeudi à 15h ?
+Êtes-vous disponible mardi à 10h ?
+Êtes-vous disponible en ce moment ?
+Êtes-vous disponible la première semaine de mai ?
+Êtes-vous disponible ce soir ?
+Êtes-vous occupé vers midi demain ?
+Êtes-vous occupé vendredi ?
+Tu reviens avant minuit ?
+Tu reviens la semaine prochaine ?
+Êtes-vous libre après 18 h ?
+Tu es libre à 14 h ?
+Tu es libre à 16 h ?
+Êtes-vous libre lundi à 9 h ?
+Êtes-vous libre à la fin du mois ?
+Tu es libre pour 30 minutes maintenant ?
+Tu es libre la semaine prochaine ?
+Êtes-vous libre le 20 mai 2026 ?
+Êtes-vous libre samedi matin ?
+Êtes-vous libre le 21 ?
+Êtes-vous libre juste après le déjeuner ?
+Êtes-vous libre en ce moment ?
+Êtes-vous libre cet après-midi ?
+Êtes-vous libre cette semaine ?
+Êtes-vous libre demain après-midi ?
+Tu es libre demain matin ?
+Tu es libre demain soir ?
+Tu vas encore être en retard ?
+Tu pars à 6 h du matin ?
+Tu es en vacances la semaine prochaine ?
+Tu restes ici toute la journée ?
+Tu travailles tard ce soir ?
+Tu travailles ce week-end ?
+Puis-je arriver cinq minutes plus tôt ?
+Je peux le réserver pour 16 h ?
+Puis-je le réserver pour le 10 juillet 2026?
+Je peux le réserver pour le 20 mai ?
+Je peux t'appeler après le déjeuner ?
+Je peux t'appeler avant le dîner ?
+Je peux t'appeler dans 10 minutes ?
+Je peux t'appeler dans une heure ?
+Je peux t'appeler plus tard aujourd'hui ?
+Je peux t'appeler demain ?
+Je peux t'appeler ce soir à 20 h ?
+Je peux t'appeler ce soir ?
+Je peux changer la date ?
+Je peux changer d'heure ?
+Je peux passer dans la soirée ?
+Je peux rentrer tard demain ?
+Puis-je prolonger le délai jusqu'à vendredi?
+Puis-je prolonger le délai ?
+Je peux partir tôt aujourd'hui ?
+Je peux payer à la fin de la semaine ?
+Je peux te voir ce soir ?
+Je peux l'envoyer avant 14 h ?
+Je peux raccourcir la réunion ?
+Puis-je le soumettre avant vendredi ?
+Puis-je le soumettre plus tard aujourd'hui ?
+Puis-je le soumettre demain matin ?
+Je peux le soumettre ce soir ?
+Je peux passer à vendredi ?
+Je peux prendre ma journée demain ?
+Je peux passer l'examen le mois prochain ?
+On peut revenir la semaine prochaine ?
+On peut s'enregistrer tous les lundis ?
+On peut se voir plus tard aujourd'hui ?
+Peut-on retarder de 15 minutes ?
+On peut reporter d'une heure ?
+Peut-on reporter ça à vendredi prochain ?
+On peut le faire 30 minutes plus tard ?
+On peut le faire à 16 h vendredi ?
+On peut le faire dans une heure ?
+On peut le faire demain matin ?
+On peut le faire plus tard cette semaine ?
+On peut le faire le week-end prochain à la place ?
+On peut le faire vendredi ?
+On peut le faire cet après-midi ?
+On peut le faire ce soir ?
+On peut le faire ce week-end ?
+On peut le faire aujourd'hui ?
+On peut le faire demain ?
+On peut le faire ce soir ?
+On peut prolonger d'une demi-heure ?
+On peut finir avant vendredi ?
+On peut finir avant 15 h ?
+On peut finir avant 16 h ?
+On peut finir avant le déjeuner ?
+On peut finir avant midi ?
+On peut finir avant 17 h ?
+On peut finir avant midi ?
+On peut finir d'ici vendredi ?
+On peut finir aujourd'hui ?
+On peut le finir d'ici demain ?
+On peut finir ce mois-ci ?
+On peut finir aujourd'hui ?
+On peut partir dans cinq minutes ?
+On peut partir maintenant ?
+On peut y aller tous les deux jours ?
+On peut se voir après le déjeuner ?
+On peut se voir après le déjeuner ?
+On peut se voir avant midi ?
+On peut se voir plus tôt demain ?
+On peut se voir dans 10 minutes ?
+On peut se voir dans 30 minutes ?
+On peut se voir dans une heure ?
+On peut se voir lundi prochain ?
+On peut se voir le mois prochain ?
+On peut se voir la semaine prochaine ?
+On peut se voir vendredi ?
+On peut se voir le 13 mai ?
+On peut se voir le 20 mai ?
+On peut se voir lundi ?
+On peut se voir samedi ?
+On peut se voir dimanche ?
+On peut se voir jeudi ?
+On peut se voir mardi ?
+On peut se voir mercredi ?
+On peut se voir le 15 ?
+On peut se voir le 30 ?
+On peut se voir une fois par mois ?
+On peut se voir cet après-midi ?
+On peut se voir ce soir ?
+On peut se voir ce matin ?
+On peut se voir demain après-midi ?
+On peut se voir demain soir ?
+On peut se voir demain matin ?
+On peut se voir demain soir ?
+On peut le déplacer à 10 h aujourd'hui ?
+On peut le déplacer à 15 h ?
+On peut le déplacer à 16 h ?
+Pouvons-nous le déplacer à plus tard aujourd'hui ?
+On peut la déplacer le mois prochain ?
+On peut la déplacer la semaine prochaine ?
+Peut-on la déplacer à la première semaine de juin ?
+Peut-on le déplacer à demain matin ?
+On peut la déplacer à demain ?
+On peut reporter l'échéance à vendredi ?
+On peut reporter à la semaine prochaine ?
+On peut y aller cette semaine ?
+On peut repousser de 15 minutes ?
+On peut repousser de 30 minutes ?
+On peut aller jusqu'à vendredi prochain ?
+On peut passer au mois prochain ?
+On peut passer à la semaine prochaine ?
+On peut reporter pour vendredi prochain ?
+On peut reporter pour lundi prochain ?
+On peut reporter pour mardi prochain ?
+On peut reporter pour la semaine prochaine ?
+On peut reporter à la semaine prochaine ?
+On peut reporter ?
+Peut-on le revoir avant 15 h ?
+On peut le programmer à 10 h demain ?
+On peut le programmer pour le mois prochain ?
+On peut le programmer pour la semaine prochaine ?
+On peut le programmer pour demain ?
+On peut fixer une heure maintenant ?
+Peut-on le fixer au 1er octobre 2025 ?
+On peut sauter cette semaine ?
+On peut commencer 30 minutes plus tôt ?
+On peut commencer 30 minutes plus tard ?
+On peut commencer un peu plus tôt ?
+On peut commencer un peu plus tard ?
+On peut commencer à la même heure demain ?
+Pouvons-nous commencer plus tôt que prévu ?
+On peut commencer plus tôt aujourd'hui ?
+On peut commencer avec cinq minutes de retard ?
+On peut commencer dans 30 minutes ?
+On peut commencer plus tard aujourd'hui ?
+On peut commencer maintenant ?
+On peut commencer demain à 9 h ?
+Peut-on le soumettre avant midi ?
+On peut faire une pause dans 15 minutes ?
+On peut parler après le dîner ?
+On peut parler vers 15 h ?
+On peut parler à 10 h ?
+On peut parler à 11 h demain ?
+On peut parler à 14 h aujourd'hui ?
+On peut parler à 17 h aujourd'hui ?
+On peut parler à 9 h demain ?
+On peut parler cinq minutes ?
+On peut parler plus tard ce soir ?
+On peut parler samedi ?
+On peut parler juste après le déjeuner ?
+On peut parler ce week-end ?
+Tu peux être là dans une heure ?
+Tu peux être là dans 12 heures ?
+Tu peux être là dans 2 heures ?
+Tu peux être là dans 3 heures ?
+Tu peux être là dans 4 heures ?
+Tu peux être là dans 5 heures ?
+Tu peux être là dans 6 heures ?
+Tu peux être là dans 8 heures ?
+Tu peux m'appeler à 15 h ?
+Tu peux m'appeler dans 10 minutes ?
+Tu peux m'appeler demain matin ?
+Tu peux m'appeler ce soir ?
+Peux-tu venir plus tôt aujourd'hui ?
+Tu peux le finir avant le déjeuner ?
+Tu peux le finir à 16 h ?
+Tu peux le finir à 18 h ?
+Tu peux le finir ce matin ?
+Tu peux le finir aujourd'hui ?
+Vous pouvez vous joindre à nous à 9 h ?
+Vous pouvez vous joindre à nous dans cinq minutes ?
+Pouvez-vous me le rappeler dans deux heures ?
+Pouvez-vous l'envoyer avant 15h ?
+Pouvez-vous l'envoyer avant 17h ?
+Pouvez-vous l'envoyer avant midi ?
+Pouvez-vous l'envoyer avant midi ?
+Pouvez-vous l'envoyer avant le 20 ?
+Pouvez-vous l'envoyer avant la fin de la journée ?
+Tu peux l'envoyer ce soir ?
+Tu peux l'envoyer la semaine prochaine ?
+Tu peux l'envoyer lundi ?
+Tu peux l'envoyer cette semaine ?
+Tu peux l'envoyer aujourd'hui ?
+Tu peux rester un peu plus longtemps ?
+Tu peux rester un peu plus longtemps ?
+Tu peux attendre 10 minutes ?
+Tu peux attendre 15 minutes ?
+Tu peux attendre 20 minutes ?
+Pouvez-vous attendre 25 minutes ?
+Tu peux attendre 30 minutes ?
+Pouvez-vous attendre 40 minutes ?
+Pouvez-vous attendre 45 minutes ?
+Tu peux attendre 5 minutes ?
+Pouvez-vous attendre 50 minutes ?
+Pouvez-vous attendre 60 minutes ?
+Pouvez-vous attendre quelques minutes ?
+Tu peux attendre 15 minutes ?
+Tu peux attendre jusqu'à 15 h ?
+Tu peux attendre jusqu'à 18 h ?
+Pouvons-nous l'avancer d'une heure ?
+On peut reporter d'une heure ?
+On peut se voir ce week-end ?
+On peut se voir ce soir ?
+Pouvez-vous arriver 15 minutes plus tôt ?
+Pouvez-vous arriver pile à l'heure ?
+Pouvez-vous m'appeler dans une heure ?
+Pouvez-vous vous joindre à nous une heure plus tard ?
+Pouvez-vous attendre 10 minutes ?
+Pouvez-vous attendre 30 minutes ?
+Pouvez-vous attendre cinq minutes ?
+Tu as eu mon message ce matin ?
+Tu as vu la mise à jour hier ?
+Le dîner est à 19 h.
+Dois-je y être à 8 h ?
+Dois-je venir aujourd'hui ?
+Dois-je venir demain ?
+Dois-je me joindre à l'appel à 19 h ?
+Dois-je rester tard ?
+Dois-je venir plus tôt ?
+Dois-je rester tard ?
+On a une pause à 15 h ?
+On a cours aujourd'hui ?
+On a cours demain ?
+On a une date limite aujourd'hui ?
+On a une date limite demain ?
+On a une réunion le mois prochain ?
+On a une réunion cette semaine ?
+On a une réunion aujourd'hui ?
+On a une réunion demain ?
+On a cours lundi prochain ?
+On a cours vendredi ?
+On a cours le 2 juin ?
+On a cours mercredi ?
+On a cours aujourd'hui ?
+On a cours demain ?
+On a le temps aujourd'hui ?
+Doit-on décider aujourd'hui ?
+Doit-on rester jusqu'à minuit ?
+Doit-on le soumettre d'ici vendredi ?
+Doit-on le soumettre aujourd'hui ?
+Doit-on le soumettre demain ?
+On se voit tous les mardis ?
+On se voit tous les mercredis ?
+On se voit le premier lundi du mois ?
+On se voit deux fois par semaine ?
+On a besoin de plus de temps pour ça ?
+On doit le faire avant le week-end ?
+Doit-on repousser le délai ?
+On doit le finir aujourd'hui ?
+On doit se voir toutes les semaines ?
+On commence à l'heure ?
+On a encore le temps aujourd'hui ?
+Fermes-tu à huit heures du soir ?
+Tu finis à 18 h ?
+Vous avez le temps après 17 h ?
+Tu as le temps à 16 h ?
+Tu as le temps à 19 h ?
+Tu as le temps à midi ?
+Avez-vous du temps plus tard aujourd'hui ?
+Tu as le temps maintenant ?
+Vous avez le temps le 10 juin ?
+Tu as le temps dimanche ?
+Tu as le temps mercredi ?
+Tu as le temps ?
+Tu as le temps ce jeudi ?
+Tu as le temps cet après-midi ?
+Tu as le temps ce soir ?
+Tu connais la date d'aujourd'hui ?
+Tu sais quel jour on est aujourd'hui ?
+Tu en as besoin pour la fin de la journée ?
+Tu as besoin de plus de temps ?
+Tu ouvres à 8 h du matin ?
+Vous commencez à 9 h ?
+Tu veux qu'on se voit plus tard ce soir ?
+Vous travaillez le samedi ?
+Vous travaillez le dimanche ?
+Vous travaillez en vacances ?
+Vous travaillez le week-end ?
+Jeudi soir, ça te va ?
+Est-ce que ça finit après le déjeuner ?
+Est-ce que ça finit avant midi ?
+Ça commence à midi ?
+Lundi prochain, ça te va ?
+Est-ce que le bus roule le dimanche ?
+Est-ce que la date limite reste le 30 ?
+Est-ce que le magasin ouvre à 10h du matin ?
+Le magasin ouvre-t-il pendant les vacances ?
+Le train arrive à midi ?
+Le train part à 18 h ?
+Demain à 11 h, ça marche ?
+Tout est prêt pour aujourd'hui.
+L'automne commence en septembre.
+La date de l'événement a-t-elle changé?
+L'heure a-t-elle changé pour aujourd'hui ?
+Que dirais-tu de 19h ce soir ?
+Que dirais-tu de 8 h demain matin ?
+Et cet après-midi ?
+Quand pouvez-vous venir ?
+Combien de temps peut-on rester aujourd'hui ?
+Combien de temps pouvez-vous rester ?
+Combien de temps vous faut-il aujourd'hui ?
+Combien de temps penses-tu que ça va prendre ?
+Combien de temps ça va prendre ?
+Combien de jours reste-t-il ?
+Combien d'heures nous reste-t-il ?
+Combien d'heures avons-nous ?
+Combien de minutes avons-nous ?
+Combien de temps avons-nous ?
+Quand peut-on se voir ?
+Quand pouvez-vous vous joindre à nous ?
+Je suis disponible toute la matinée.
+Je suis occupé tout l'après-midi aujourd'hui.
+Je suis occupé cet après-midi.
+Je suis libre toute la matinée aujourd'hui.
+Je suis libre lundi à 9 h.
+Je suis libre pour 30 minutes maintenant.
+Je suis libre vendredi après-midi.
+Je suis libre vendredi soir.
+Je suis libre vendredi matin.
+Je suis libre lundi après-midi.
+Je suis libre lundi soir.
+Je suis libre lundi matin.
+Je suis libre samedi après-midi.
+Je suis libre samedi soir.
+Je suis libre samedi matin.
+Je suis libre dimanche après-midi.
+Je suis libre dimanche soir.
+Je suis libre dimanche matin.
+Je suis libre jeudi après-midi.
+Je suis libre jeudi soir.
+Je suis libre jeudi matin.
+Je suis libre mardi après-midi.
+Je suis libre mardi soir.
+Je suis libre mardi matin.
+Je suis libre mercredi après-midi.
+Je suis libre mercredi soir.
+Je suis libre mercredi matin.
+Je suis libre ce week-end.
+Je pars à 6 h du matin.
+Je pars dans 10 minutes.
+Je suis en vacances la semaine prochaine.
+Je reste ici trois jours.
+Je travaille ce week-end.
+Je suis arrivé le 10 avril.
+Je suis arrivé le 20 avril.
+Je suis arrivé le 5 avril.
+Je suis arrivé le 10 août.
+Je suis arrivé le 20 août.
+Je suis arrivé le 5 août.
+Je suis arrivé le 10 février.
+Je suis arrivé le 20 février.
+Je suis arrivé le 5 février.
+Je suis arrivé le 10 janvier.
+Je suis arrivé le 20 janvier.
+Je suis arrivé le 5 janvier.
+Je suis arrivé le 10 juillet.
+Je suis arrivé le 20 juillet.
+Je suis arrivé le 5 juillet.
+Je suis arrivé le 10 juin.
+Je suis arrivé le 20 juin.
+Je suis arrivé le 5 juin.
+Je suis arrivé le 10 mars.
+Je suis arrivé le 20 mars.
+Je suis arrivé le 5 mars.
+Je suis arrivé le 10 mai.
+Je suis arrivé le 20 mai.
+Je suis arrivé le 5 mai.
+Je suis arrivé le 10 novembre.
+Je suis arrivé le 20 novembre.
+Je suis arrivé le 5 novembre.
+Je suis arrivé le 10 octobre.
+Je suis arrivé le 20 octobre.
+Je suis arrivé le 5 octobre.
+Je suis arrivé le 10 septembre.
+Je suis arrivé le 20 septembre.
+Je suis arrivé le 5 septembre.
+Je suis arrivé ce matin.
+Je suis arrivé hier.
+Je peux le faire en une heure.
+Je peux prolonger le délai jusqu'à vendredi.
+Je peux le finir d'ici vendredi.
+Je peux le finir d'ici la semaine prochaine.
+Je peux le finir d'ici la fin du mois.
+Je peux le finir aujourd'hui.
+Je peux le finir demain.
+Je peux te rencontrer demain.
+Je ne peux pas le finir d'ici demain.
+Je ne peux pas le finir aujourd'hui.
+Je peux commencer dans une heure.
+Je peux rester ici jusqu'à 17 h.
+Je peux rester ici jusqu'à 19 h.
+Je peux rester jusqu'à 18 h.
+Je peux rester jusqu'à minuit.
+Je peux le soumettre plus tard aujourd'hui.
+J'ai vérifié le planning du mois prochain.
+J'ai vérifié le planning de ce week-end.
+J'ai vérifié l'horaire d'aujourd'hui.
+J'ai vérifié le planning hier.
+J'ai déjà vérifié le fuseau horaire.
+Je l'ai fini hier soir.
+J'ai fini le rapport il y a trois heures.
+J'ai un appel demain à la première heure.
+J'ai un appel ce soir.
+J'ai rendez-vous à 15 h.
+J'ai rendez-vous demain à 9 h.
+Je suis ici depuis 8 h du matin.
+Ça fait 20 minutes que j'attends.
+Je n'ai pas le temps cet après-midi.
+Je n'ai pas le temps cette semaine.
+Je n'ai pas le temps aujourd'hui.
+J'ai du temps après 17 h.
+J'ai le temps.
+J'ai le temps cet après-midi.
+J'ai le temps demain.
+Je dois partir à 7 h du soir.
+Je m'entraîne tous les vendredis à 17 h.
+Je suis parti il y a 10 minutes.
+Je suis parti il y a une heure.
+J'ai besoin de 10 minutes de plus.
+J'ai besoin de plus de temps.
+J'ai besoin d'une heure de plus.
+J'ai besoin que ce soit fait avant le déjeuner.
+J'ai fixé le rappel à 18 h.
+J'ai dormi tard ce matin.
+J'ai commencé ce projet il y a deux heures.
+J'ai attendu ce soir.
+J'arriverai avant minuit.
+J'arriverai cinq minutes plus tôt.
+J'arriverai le 30.
+J'arriverai aujourd'hui.
+J'arriverai demain matin.
+J'arriverai demain soir.
+Je serai de retour avant 21 h.
+Je serai occupé toute la matinée.
+Je serai libre plus tard ce soir.
+Je serai en retard dans 10 minutes.
+Je serai en retard dans 20 minutes.
+Je serai dehors toute la soirée.
+J'y serai à 15 h.
+J'y serai à 17 h.
+J'y serai à 19 h.
+J'arrive dans 10 minutes.
+J'arrive dans 15 minutes.
+J'arrive dans 5 minutes.
+Je t'appellerai à 11 h.
+Je t'appellerai ce soir.
+Je vous contacterai mardi matin.
+Je le finirai avant midi.
+Je le finirai d'ici la fin de la journée.
+Je le finirai la semaine prochaine.
+Je le finirai cette semaine.
+Je le finirai ce soir.
+Je finirai la tâche avant 15 h.
+Je finirai la tâche avant 18 h.
+Je finirai la tâche avant midi.
+Je finirai la tâche cette semaine.
+Je finirai ça avant 16 h.
+Je finirai ça à 16 h.
+Je me joindrai à l'appel à 14 h.
+Je vous rejoins dans cinq minutes.
+Je partirai tôt demain matin.
+Je ne serai pas disponible demain.
+Je reviendrai dans une heure.
+Je reviendrai dans l'après-midi.
+On se voit le week-end prochain.
+Je l'enverrai avant 17 h.
+Je l'enverrai vendredi.
+Je l'enverrai d'ici la fin de la journée.
+Je l'enverrai ce soir.
+Je l'enverrai dans 10 minutes.
+Je l'enverrai lundi.
+Je l'enverrai aujourd'hui.
+Je l'enverrai demain matin.
+Je l'enverrai ce soir.
+J'enverrai le dossier avant midi.
+J'enverrai le dossier demain matin.
+J'enverrai le rapport ce soir.
+Je commencerai tôt demain.
+Je commencerai le travail la semaine prochaine.
+Je vais rester ici toute la journée.
+Je voyagerai début décembre.
+Je me réveillerai à 6 h du matin.
+Je travaillerai tard ce soir.
+10 h, c'est trop tôt pour toi ?
+15 h, ça te va ?
+Lundi, c'est un jour de travail ?
+C'est bon la semaine prochaine ?
+C'est bon demain ?
+C'est déjà trop tard aujourd'hui ?
+C'est pour après le déjeuner ?
+C'est pour avant midi ?
+C'est pour la semaine prochaine ?
+C'est pour vendredi ?
+C'est pour cette semaine ?
+C'est pour aujourd'hui ?
+C'est pour demain ?
+Est-ce que ça se passe ce matin ?
+Ça se passe ce soir ?
+Je peux arriver avec 5 minutes de retard ?
+Je peux appeler à 11 h ?
+On peut arriver à 9 h 30 ?
+On peut arriver demain après-midi ?
+On peut payer demain ?
+C'est ouvert maintenant ?
+Ça commence dans 30 minutes ?
+On est toujours le 31 octobre aujourd'hui ?
+Ça se passe toujours aujourd'hui ?
+C'est toujours d'actualité pour demain ?
+C'est aujourd'hui ?
+C'est demain ?
+C'est trop tôt pour appeler maintenant ?
+C'est trop tôt pour venir ?
+C'est trop tard pour appeler ?
+Est-il trop tard pour vous joindre à nous aujourd'hui ?
+C'est trop tard pour l'envoyer aujourd'hui ?
+C'est urgent aujourd'hui ?
+Le mois prochain, c'est mieux pour toi ?
+La semaine prochaine, c'est mieux pour toi ?
+À midi, c'est bon pour toi ?
+C'est pas le bon moment ?
+Notre pause n'est que de 10 minutes ?
+Sept heures du soir, c'est bon ?
+Dix heures du matin, c'est bon ?
+Le rendez-vous est pour mardi prochain ?
+Le rendez-vous est le 14 ?
+Le rendez-vous est toujours pour lundi prochain ?
+Est-ce que l'appel est à 10 h, heure d'Ottawa?
+L'appel est-il prévu pour 14 h, heure d'Ottawa?
+L'appel est-il prévu pour 9 h, heure de Toronto?
+Est-ce que la classe est de 2h à 4h ?
+L'échéance est-elle définitive ?
+Le délai est-il flexible?
+La date limite est vendredi prochain ?
+La date limite est la semaine prochaine ?
+La date limite est-elle toujours le 5 juin 2025?
+La date limite est toujours le 13 mai ?
+La date limite est aujourd'hui ?
+La date limite est demain ?
+C'est le week-end ?
+L'événement a-t-il vraiment lieu le 20 juillet 2025 ?
+Le vol est retardé de deux heures ?
+Le vol est demain soir ?
+L'entrevue a lieu le 20 mai 2025?
+La réunion dure toute la journée ?
+La réunion est vendredi ?
+La réunion est lundi ?
+La réunion est jeudi ?
+La réunion est mardi ?
+La réunion est mercredi ?
+La réunion est toujours à 14 h ?
+La réunion est toujours à 9 h aujourd'hui ?
+La réunion est toujours aujourd'hui ?
+La réunion est toujours demain ?
+La réunion est ce week-end ?
+Le prochain cours est dans deux semaines ?
+Le bureau est fermé dimanche ?
+Le bureau est-il ouvert le 25 décembre 2025?
+Le bureau est ouvert dimanche ?
+Le bureau est ouvert aujourd'hui ?
+Le paiement est-il dû au début de chaque mois?
+C'est prévu pour jeudi ?
+Le projet se termine demain ?
+Le projet commence-t-il aujourd'hui ?
+Le rapport est-il attendu demain ?
+Est-ce que l'horaire est le même cette semaine ?
+La séance est vendredi soir ?
+Le magasin est ouvert ?
+Est-ce que le système est en panne la nuit ?
+Le billet n'est valable qu'aujourd'hui ?
+L'atelier a lieu en novembre ?
+Il y a une réunion tous les matins ?
+C'est le bon moment ?
+C'est une réunion d'une heure ?
+Est-ce que c'est disponible le week-end ?
+C'est l'horaire final ?
+C'est le bon moment ?
+Cette fois, ça te va ?
+Est-ce que cette semaine est occupée pour toi ?
+Cette semaine est trop chargée pour toi ?
+On est le 13 mai 2025 ?
+C'est un jour férié ?
+On est le 13 mai ?
+On est le 5 ou le 6 ?
+C'est le premier jour du mois ?
+C'est le dernier jour pour postuler ?
+Demain est un jour férié ?
+Demain, c'est bon pour toi ?
+Demain, c'est toujours bon pour toi ?
+Il est 2 h de l'après-midi.
+Il est déjà 15 h.
+Il est 18 h. Le bureau est fermé.
+Il est 9 h du matin.
+On est vendredi aujourd'hui.
+Nous sommes le 1er juillet aujourd'hui.
+Nous sommes le 13 mai aujourd'hui.
+On est lundi aujourd'hui.
+Nous sommes le 1er novembre 2025.
+On est samedi aujourd'hui.
+C'est dimanche aujourd'hui.
+On est jeudi aujourd'hui.
+On est mardi aujourd'hui.
+On est mercredi aujourd'hui.
+Il est presque minuit.
+Il est presque midi.
+Il est presque midi.
+C'est presque la fin de l'année.
+C'est presque le week-end.
+Il est déjà 15 h ici.
+Il est déjà 15 h.
+On est déjà vendredi.
+On est déjà en novembre.
+Il est déjà tard dans la soirée.
+Il est déjà minuit ici.
+C'est déjà la deuxième semaine de novembre.
+C'est l'automne aujourd'hui.
+C'est pour la fin du mois.
+C'est pour vendredi prochain.
+C'est pour aujourd'hui.
+C'est pour demain.
+Il est tôt le matin.
+Il est huit heures du soir.
+Il est exactement midi.
+Il est cinq heures de l'après-midi.
+Il est quatre heures de l'après-midi.
+Il est tard dans la nuit.
+Il est minuit maintenant.
+Il est neuf heures du soir.
+Ce n'est pas le bon moment pour parler.
+Ce n'est pas pour aujourd'hui.
+Ce n'est pas prévu avant vendredi.
+Il n'est pas encore prêt ce matin.
+Ce n'est pas urgent aujourd'hui.
+Il est une heure de l'après-midi.
+Ce n'est qu'à cinq minutes.
+Ce n'est que dans deux jours.
+C'est notre jour de congé demain.
+C'est notre jour de réunion aujourd'hui.
+Il est sept heures du soir.
+Il est six heures du soir.
+C'est le printemps aujourd'hui.
+On est toujours en octobre.
+Il fait encore nuit parce qu'il est 5 h du matin.
+Il est encore tôt le matin.
+C'est l'été aujourd'hui.
+On est le 20 du mois aujourd'hui.
+C'est le début du mois.
+C'est le début de la semaine.
+C'est le jour de l'événement aujourd'hui.
+C'est le jour de la date limite aujourd'hui.
+C'est la fin du mois.
+C'est la fin de la semaine.
+C'est la cinquième semaine de mai.
+C'est le premier jour du mois.
+C'est la première semaine de mai.
+C'est la première semaine de l'année.
+C'est la quatrième semaine de mai.
+C'est le dernier jour du mois.
+C'est la dernière semaine de l'année.
+On est au milieu de la semaine.
+C'est le même emploi du temps que la semaine dernière.
+C'est la même heure qu'hier.
+C'est la deuxième semaine de mai.
+C'est la troisième semaine de mai.
+C'est l'heure habituelle à 10 h.
+C'est le week-end pour que je puisse rester plus longtemps.
+C'est le week-end, donc la banque est fermée.
+Il est trois heures de l'après-midi.
+C'est l'heure de déjeuner.
+Il est temps de partir maintenant.
+Il est temps de se joindre à la réunion.
+C'est l'heure de dormir.
+Il est temps de soumettre le formulaire.
+Il est trop tôt pour lui envoyer un message aujourd'hui.
+C'est trop tôt.
+Il est trop tard pour changer d'heure aujourd'hui.
+Il est trop tard pour vous joindre à nous aujourd'hui.
+C'est trop tard.
+Il est deux heures de l'après-midi.
+Il est très tard pour un appel aujourd'hui.
+C'est l'hiver aujourd'hui.
+Ça commence dans 10 minutes.
+Ça commence dans 15 minutes.
+Ça commence dans 20 minutes.
+Ça commence dans 25 minutes.
+Ça commence dans 30 minutes.
+Ça commence dans 40 minutes.
+Ça commence dans 45 minutes.
+Ça commence dans 5 minutes.
+Ça commence dans 50 minutes.
+Ça commence dans 60 minutes.
+Ça m'a pris 30 minutes pour arriver ici.
+D'habitude, ça me prend une heure le matin.
+Ça a été fait hier.
+C'était pour hier.
+C'était très occupé hier après-midi.
+On sera vendredi demain.
+Ce sera lundi demain.
+On sera samedi demain.
+Ce sera dimanche demain.
+Ce sera jeudi demain.
+On sera mardi demain.
+On sera mercredi demain.
+Ce sera fait d'ici vendredi.
+Ce sera fait après-demain.
+Ce sera fait aujourd'hui.
+Ce sera fait demain.
+Il sera prêt avant le dîner.
+Il sera prêt à 16 h.
+Il sera prêt dans 10 minutes.
+Il sera prêt dans une demi-heure.
+Il sera prêt cet après-midi.
+Ça se terminera à minuit.
+Ça finira avant les vacances.
+Ça se terminera à 15 h.
+Ça se terminera le 30.
+Ça va se terminer cette semaine.
+Ça va s'arrêter aujourd'hui.
+Ce ne sera pas long.
+Ça commencera après le déjeuner.
+Ça commencera à 11 h.
+Ça commencera à l'heure habituelle.
+Ça commencera dans 5 minutes.
+Ça commencera le mois prochain.
+Elle commencera le 2 juin.
+Ça commencera lundi.
+Ça prendra une heure.
+Ça prendra 12 heures.
+Ça prendra 2 heures.
+Ça prendra 3 heures.
+Ça prendra 4 heures.
+Ça prendra 5 heures.
+Ça prendra 6 heures.
+Ça prendra 8 heures.
+Ça prendra environ 20 minutes.
+Ça prendra environ une heure.
+Ça prendra toute la journée.
+Ça prendra plus de temps que prévu.
+Ça ne prendra que quelques heures.
+Ça prendra jusqu'à la semaine prochaine.
+Le mois dernier, c'était en octobre.
+La semaine dernière, il faisait très froid.
+La pause déjeuner est à 12h30.
+Le déjeuner est à midi.
+Mon rendez-vous est à 14 h.
+Mon rendez-vous est à midi.
+Mon rendez-vous est à 15 h.
+Mon rendez-vous est dans 15 minutes.
+Mon rendez-vous est plus tard aujourd'hui.
+Mon rendez-vous est mardi matin.
+Mon rendez-vous est le 15.
+Mon rendez-vous est le 21.
+Mon anniversaire est en juin.
+Mon anniversaire est le 3 juillet.
+Mon anniversaire est cette semaine.
+Mon examen est dans deux heures.
+Mon examen est lundi prochain.
+Mon vol est le 14 avril 2025.
+Mon vol est lundi matin.
+Mon entretien est dans une heure.
+Mon entretien est dans deux jours.
+Mon entretien est mercredi.
+Mon projet se termine cette semaine.
+Mon projet est retardé d'un jour.
+Mon projet commence la semaine prochaine.
+Mon loyer est dû le premier jour de chaque mois.
+Mon train part à 18 h.
+Mon train part à 8 h.
+Mon train part dans 40 minutes.
+Mon train part samedi.
+Mon visa expire en mars 2027.
+Mon visa expire le 30 septembre 2025.
+Le mois prochain, c'est décembre.
+La semaine prochaine est libre.
+La semaine prochaine est plus légère que cette semaine.
+Notre rendez-vous est demain à 9 heures.
+Notre pause n'est que de 10 minutes.
+Notre appel est à 10 h, heure d'Ottawa.
+Notre date limite a été reportée à vendredi prochain.
+Notre dîner est à 19 h.
+Notre vol est tôt demain.
+Notre vol est lundi prochain.
+Notre vol est vendredi.
+Notre vol est le 20 mai.
+Notre vol est cet après-midi.
+Notre vol est demain matin.
+Notre vol est demain soir.
+Notre vol est ce soir.
+Notre pause déjeuner est à midi.
+Notre prochaine session aura lieu le 2 août 2025.
+Notre service se termine à 17 h.
+Notre service commence à 7 h.
+Notre équipe se réunit tous les vendredis.
+Notre équipe se réunit tous les lundis à 10h.
+Notre équipe se réunit tous les mercredis à 16h.
+Notre équipe travaille tard le jeudi.
+On se voit à 14 h.
+On se voit à 18 h.
+On se voit dans 10 minutes.
+On se voit dans une heure.
+À la semaine prochaine.
+On se voit lundi.
+À demain.
+Devrions-nous le retarder ?
+On finit ça avant 16 h ?
+On finit ça avant midi ?
+On se voit à 9 heures ?
+On se voit la semaine prochaine ?
+On se voit lundi ?
+On se voit aujourd'hui ou demain ?
+On se voit aujourd'hui ?
+On se voit demain ?
+On passe à la semaine prochaine ?
+On commence après le déjeuner ?
+On commence à 13 h ?
+On commence à 9 h ?
+On commence à 10 h ?
+On commence tout de suite ?
+Devrions-nous attendre jusqu'à demain ?
+Le printemps commence en mars.
+L'été commence en juin.
+Le rendez-vous est à 13 h.
+Le rendez-vous est pour la semaine prochaine.
+Le rendez-vous est le 14.
+Le rendez-vous était hier.
+La banque ouvre à 9 h aujourd'hui.
+Le bus arrive à 15 h.
+Le bus arrive à 17h30.
+Le bus arrive à 9 h 10.
+Le bus arrive toutes les 15 minutes.
+Le bus arrive dans 10 minutes.
+Le bus arrive toutes les 15 minutes.
+Le bus arrive toutes les dix minutes.
+Le bus est en retard aujourd'hui.
+Le café ouvre à 7 h.
+L'appel est à 14 h aujourd'hui.
+L'appel est à 9 h 30.
+L'appel est à 9 h.
+L'appel sera court aujourd'hui.
+Le cours commence à la même heure demain.
+Le cours se termine à 16 h.
+Le cours se termine à 17 h.
+Le cours est à 11 h demain.
+Le cours est à 9 h demain.
+Le cours est à six heures du soir.
+Le cours est à 10 h demain.
+Le cours est à deux heures demain.
+Le cours est tous les lundis.
+Le cours est tous les mardis à 19h.
+Le cours est tous les mardis.
+Le cours est le premier de chaque mois.
+Le cours est en semaine seulement.
+La classe va de 2 à 4.
+Le cours commence à 10 h demain.
+Le cours commence à 10 h.
+Le cours commence à 11 h demain.
+Le cours commence à 12 h demain.
+Le cours commence à 8 h demain.
+Le cours commence à 9 h demain.
+Le cours commence dans 30 minutes.
+Le concert est samedi soir.
+Le concert est le week-end.
+Le cours dure six semaines.
+La date limite est à midi.
+La date limite est dans deux heures.
+La date limite est lundi prochain.
+La date limite est le mois prochain.
+La date limite est la semaine prochaine.
+La date limite est vendredi.
+La date limite est la fin du mois.
+La date limite est la fin de la semaine.
+La date limite est vendredi.
+La date limite est aujourd'hui.
+La date limite est demain matin.
+La date limite est demain.
+La date limite était hier.
+Le docteur est disponible à 14h aujourd'hui.
+L'événement se termine à 21 h.
+L'événement est dans trois heures.
+L'événement est le week-end prochain.
+L'événement a lieu le 24 décembre.
+L'événement a lieu le 2 juin.
+L'événement est samedi.
+L'événement est le 15.
+L'événement est ce week-end.
+L'événement est ce soir.
+L'événement commence à 19 h.
+L'événement commence maintenant.
+L'événement a lieu le 20 juillet 2025.
+L'examen est en novembre.
+L'examen est dans deux semaines.
+L'examen est mardi prochain.
+L'examen a lieu le 1er juin 2025.
+L'examen a lieu le 20 mai 2026.
+L'examen est demain après-midi.
+L'examen est demain matin.
+Le festival est en août.
+Le vol est à 23 h.
+Le vol est à 6 h du matin.
+Le vol est retardé de deux heures.
+Le vol est vendredi matin.
+Le vol est demain.
+Le vol part demain matin.
+L'invité arrive cet après-midi.
+L'interview est mardi prochain.
+L'interview est vendredi à 9 h.
+L'interview est aujourd'hui.
+L'entretien est demain.
+La facture doit être payée dans sept jours.
+Les enfants se couchent à 21 h.
+La leçon prend une heure.
+La leçon prend 30 minutes.
+La bibliothèque ferme à 20 h aujourd'hui.
+La bibliothèque est ouverte le week-end.
+La bibliothèque ouvre à 10 h du matin.
+La bibliothèque a été fermée hier.
+La réunion a été reportée à demain.
+La réunion est à 13 h aujourd'hui.
+La réunion est à 10 h aujourd'hui.
+La réunion est à 11 h aujourd'hui.
+La réunion est à 12h aujourd'hui.
+La réunion est à 14 h aujourd'hui.
+La réunion est à 15 h aujourd'hui.
+La réunion est à 16 h aujourd'hui.
+La réunion est à 17 h aujourd'hui.
+La réunion est à 8 h aujourd'hui.
+La réunion est à 9 h aujourd'hui.
+La réunion est dans dix minutes.
+La réunion est mercredi prochain.
+La réunion a lieu le 10 avril.
+La réunion a lieu le 20 avril.
+La réunion a lieu le 5 avril.
+La réunion a lieu le 10 août.
+La réunion a lieu le 20 août.
+La réunion a lieu le 5 août.
+La réunion a lieu le 5 décembre.
+La réunion a lieu le 10 février.
+La réunion a lieu le 20 février.
+La réunion a lieu le 5 février.
+La réunion est vendredi.
+La réunion a lieu le 10 janvier.
+La réunion a lieu le 20 janvier.
+La réunion a lieu le 5 janvier.
+La réunion a lieu le 10 juillet.
+La réunion a lieu le 20 juillet.
+La réunion a lieu le 5 juillet.
+La réunion a lieu le 10 juin.
+La réunion a lieu le 20 juin.
+La réunion a lieu le 5 juin.
+La réunion a lieu le 10 mars.
+La réunion a lieu le 20 mars.
+La réunion a lieu le 5 mars.
+La réunion a lieu le 10 mai.
+La réunion a lieu le 20 mai.
+La réunion a lieu le 5 mai.
+La réunion est lundi.
+La réunion a lieu le 10 novembre.
+La réunion a lieu le 20 novembre.
+La réunion a lieu le 5 novembre.
+La réunion a lieu le 10 octobre.
+La réunion a lieu le 20 octobre.
+La réunion a lieu le 5 octobre.
+La réunion est samedi.
+La réunion a lieu le 10 septembre.
+La réunion a lieu le 20 septembre.
+La réunion a lieu le 5 septembre.
+La réunion est dimanche.
+La réunion est jeudi.
+La réunion est mardi.
+La réunion est mercredi.
+La réunion est le 15.
+La réunion est à la même heure chaque semaine.
+La réunion est cet après-midi.
+La réunion est aujourd'hui.
+La réunion est demain après-midi.
+La réunion est demain matin.
+La réunion est demain.
+La réunion a duré toute la matinée.
+La réunion dure deux heures.
+La réunion commence dans 30 minutes.
+La réunion était hier.
+La réunion ne dépassera pas 17 heures.
+Le nouvel horaire commence lundi.
+Les prochaines vacances sont dans trois jours.
+Les prochaines vacances sont dans deux semaines.
+Le prochain examen aura lieu le 1er octobre 2025.
+La prochaine séance est dans deux semaines.
+Le bureau ferme à 17 h précises.
+Le bureau ferme à 17 h.
+Le bureau ferme à 18 h.
+Le bureau ferme à 17 h.
+Le bureau est également fermé le 12 janvier 2026.
+Le bureau est fermé le 25 décembre 2025.
+Le bureau est fermé dimanche.
+Le bureau est ouvert.
+Le bureau ouvre à 8 h.
+Le bureau ouvre à 9 h.
+Le bureau ouvre à 9 h du matin.
+Le bureau ouvre à 9 h.
+Le bureau rouvrira le mois prochain.
+Le colis est arrivé ce matin.
+Le paquet est arrivé plus tôt aujourd'hui.
+Le colis devrait arriver aujourd'hui.
+Le colis arrivera le 4 mars 2025.
+Le paiement est arrivé à temps.
+Le paiement est dû au début de chaque mois.
+Le paiement est dû vendredi prochain.
+Le paiement est dû le mois prochain.
+Le paiement est dû aujourd'hui.
+Le paiement est dû demain.
+Le paiement sera traité demain.
+Le projet prend fin en décembre 2025.
+Le projet se termine vendredi prochain.
+Le projet dure trois mois.
+Le projet dure deux semaines.
+Le projet commence le mois prochain.
+Le projet commence aujourd'hui.
+Le projet prendra fin en décembre.
+Le quart se termine aujourd'hui.
+Les inscriptions se terminent à midi.
+Le loyer est dû le premier.
+Le loyer est dû aujourd'hui.
+Le loyer est en retard de deux jours.
+Le loyer est payé le premier de chaque mois.
+Le rapport est attendu vendredi à 13 h.
+Le rapport est attendu vendredi à 14 h.
+Le rapport est attendu vendredi à 15 h.
+Le rapport est attendu vendredi à 16 h.
+Le rapport est attendu vendredi à 17 h.
+Le rapport est attendu à la fin de la journée.
+Le rapport est attendu avant midi.
+Le rapport est attendu pour 17 h.
+Le rapport est attendu la semaine prochaine.
+Le rapport est attendu le 10 avril.
+Le rapport est attendu pour le 20 avril.
+Le rapport est attendu le 5 avril.
+Le rapport est attendu pour le 10 août.
+Le rapport est attendu pour le 20 août.
+Le rapport est attendu pour le 5 août.
+Le rapport est attendu le 5 décembre.
+Le rapport est attendu le 10 février.
+Le rapport est attendu pour le 20 février.
+Le rapport est attendu le 5 février.
+Le rapport est attendu le 10 janvier.
+Le rapport est attendu pour le 20 janvier.
+Le rapport est attendu le 5 janvier.
+Le rapport est attendu le 10 juillet.
+Le rapport est attendu le 20 juillet.
+Le rapport est attendu le 5 juillet.
+Le rapport est attendu le 10 juin.
+Le rapport est attendu pour le 20 juin.
+Le rapport est attendu le 5 juin.
+Le rapport est attendu le 10 mars.
+Le rapport est attendu le 20 mars.
+Le rapport est attendu le 5 mars.
+Le rapport est attendu le 10 mai.
+Le rapport est attendu le 20 mai.
+Le rapport est attendu le 5 mai.
+Le rapport est attendu le 10 novembre.
+Le rapport est attendu le 20 novembre.
+Le rapport est attendu le 5 novembre.
+Le rapport est attendu le 10 octobre.
+Le rapport est attendu le 20 octobre.
+Le rapport est attendu le 5 octobre.
+Le rapport est attendu le 10 septembre.
+Le rapport est attendu le 20 septembre.
+Le rapport est attendu le 5 septembre.
+Le rapport est attendu vendredi.
+Le planning est complet cette semaine.
+Le séminaire commence à 10 h du matin.
+Le service n'est offert qu'en semaine.
+La séance commence à midi.
+L'équipe commence à 8 h.
+La garde se termine à 16 h.
+Le magasin ferme à 18 h dimanche.
+Le magasin ouvre à 8 h en semaine.
+Le spectacle commence dans quelques minutes.
+Le spectacle commence à 19 h ce soir.
+Le spectacle commence dans dix minutes.
+Le magasin ferme à 18h le dimanche.
+Le magasin ferme à 8 h du soir.
+Le magasin ferme à 20h en semaine.
+Le magasin ferme à 20 h.
+Le magasin ferme à huit heures du soir.
+Le magasin ferme dans 20 minutes.
+Le magasin est fermé aujourd'hui.
+Le magasin est ouvert toute la journée.
+Le magasin est ouvert tout le week-end.
+Le magasin est ouvert jusqu'à 21 h.
+Le magasin ouvre à 10 h tous les jours.
+Le magasin ouvre à 10 h.
+Le magasin ouvre à 9 h en semaine.
+Le magasin ouvre à 9 h.
+Le magasin ouvre à 8 h du matin.
+Le magasin ouvrira à nouveau demain.
+Le soleil se lève tard en hiver.
+Le soleil se couche tôt aujourd'hui.
+La mise à jour du système est à minuit.
+La mise à jour du système est ce soir.
+Le système était en panne hier soir.
+Le système redémarrera à 16h.
+La tâche prend environ une heure.
+Le billet est valable 24 heures sur 24.
+Il est neuf heures du matin.
+Il est 11 h 30.
+Il est 15 h.
+Il est maintenant 18 h 45.
+Il est 9 h du matin.
+Le train arrive à 17 h.
+Le train arrive à midi.
+Le train part à 7 h 30.
+Le train part à 7 h.
+Le train part à six heures du matin.
+Le train part dans une demi-heure.
+Le train part demain matin.
+Les vacances d'hiver commencent le 20 décembre 2025.
+L'atelier est toute la journée aujourd'hui.
+L'atelier est mardi prochain.
+L'atelier est le mois prochain.
+L'atelier est cet après-midi.
+L'atelier se déroule du 3 au 5 mai.
+L'année a commencé il y a quatre mois.
+L'année se termine le mois prochain.
+C'est une réunion d'une heure.
+Cette offre prend fin à la fin du mois.
+Ce plan est pour le mois prochain.
+Ce plan est pour demain.
+Cette tâche est déjà en retard.
+Cette tâche prendra toute la matinée.
+Cette tâche prendra une heure.
+Cette semaine est très chargée pour moi.
+Cette semaine est très chargée.
+Ça prendra 10 minutes.
+Ça prendra 30 minutes.
+Ça prendra 5 minutes.
+Ça prendra environ une heure.
+Ça va prendre toute la journée.
+On est le 13 avril 2025.
+On est le 5 avril.
+On est le 13 août 2025.
+On est le 5 août.
+On est le 13 décembre 2025.
+On est le 13 février 2025.
+On est le 5 février.
+On est vendredi.
+On est le 13 janvier 2025.
+On est le 5 janvier.
+On est le 13 juillet 2025.
+On est le 5 juillet.
+On est le 13 juin 2025.
+On est le 5 juin.
+On est le 13 mars 2025.
+On est le 5 mars.
+On est le 13 mai 2025.
+On est le 13 mai.
+On est le 5 mai.
+On est lundi.
+On est le 1er novembre 2025.
+On est le 13 novembre 2025.
+On est le 13 octobre 2025.
+On est le 5 octobre.
+On est samedi.
+On est le 13 septembre 2025.
+On est le 5 septembre.
+Aujourd'hui, c'est dimanche.
+On est jeudi.
+On est mardi.
+On est mercredi.
+Aujourd'hui est une journée chargée.
+Aujourd'hui est un jour férié.
+Aujourd'hui est un jour férié.
+Aujourd'hui, c'est le premier jour de juin.
+Aujourd'hui est le premier jour du mois.
+Aujourd'hui, c'est le premier jour du trimestre.
+Aujourd'hui est le premier jour ouvrable de la semaine.
+Aujourd'hui est le dernier jour du mois.
+C'est le dernier jour pour postuler.
+Aujourd'hui est le dernier jour.
+Aujourd'hui est le dernier jour ouvrable.
+Demain, c'est vendredi.
+Demain, c'est lundi.
+Demain, c'est samedi.
+Demain, c'est dimanche.
+Demain, c'est jeudi.
+Demain, c'est mardi.
+Demain, c'est mercredi.
+Demain est une journée chargée.
+Demain est un jour férié.
+Demain, c'est déjà le 10.
+Demain, c'est mon jour de congé.
+Demain, c'est le 14.
+Demain, c'est la date limite pour le formulaire.
+Demain, c'est le rendez-vous avec le client.
+On a annoncé la date la semaine dernière.
+Nous sommes en avance sur le calendrier.
+On est en retard.
+Nous fermons tôt aujourd'hui.
+On se voit vendredi soir.
+On se voit ce soir.
+On part le 25 décembre.
+Nous avons un emploi du temps serré cette semaine.
+On est à l'heure.
+On est toujours d'accord pour ce soir.
+Nous voyageons en juillet de cette année.
+Nous sommes arrivés à l'heure.
+On peut se voir après le déjeuner aujourd'hui.
+On n'a pas cours aujourd'hui.
+Nous avons terminé la tâche plus tôt aujourd'hui.
+Nous avons une date limite le 5 juin 2025.
+On a rendez-vous à 11 h.
+On a rendez-vous à 14 h.
+On a une réunion tous les lundis.
+Nous avons une réunion le premier lundi de chaque mois.
+Nous avons un événement en juillet 2026.
+On a cours à 9 h.
+On a cours tous les mardis matin.
+On a cours les mardis et jeudis.
+On a cours cette semaine.
+Nous n'avons pas de réunion lundi prochain.
+Il nous reste deux heures.
+On se voit tous les mardis à 18 h.
+On se retrouve ici tous les jours à 19 h.
+Nous nous sommes rencontrés le 20 mai 2025.
+Nous devons décider aujourd'hui.
+On a prévu de se voir tous les mois.
+On y est restés toute la journée.
+Nous fêterons le lancement samedi.
+Nous nous reverrons la semaine prochaine.
+Nous ouvrirons dans 10 minutes.
+Nous publierons la mise à jour vendredi prochain.
+Nous publierons la mise à jour demain.
+Nous examinerons le plan mardi prochain.
+Nous commencerons après le déjeuner.
+Nous commencerons à 9 h précises.
+Nous commencerons à midi.
+Nous commencerons dans 5 minutes.
+Nous commencerons la semaine prochaine.
+Nous commencerons à l'heure aujourd'hui.
+Nous commencerons à l'heure.
+Nous commencerons demain.
+Nous travaillerons jusqu'à 18 h.
+Quel jour sommes-nous aujourd'hui ?
+Quel jour sommes-nous demain ?
+Quel jour est le délai ?
+Quel jour est le test ?
+Quel jour te convient le mieux ?
+Quelle est notre heure de rendez-vous déjà ?
+Quelle est la date d'aujourd'hui à Ottawa?
+Quelle est la date aujourd'hui ?
+Quelle est la date de demain à Ottawa?
+Quelle est la date de demain ?
+Quelle est la date limite pour cette tâche?
+Quel est le planning pour cette semaine ?
+Quel est l'horaire pour aujourd'hui ?
+Quelle est la date d'aujourd'hui ?
+À quelle heure êtes-vous arrivé aujourd'hui ?
+À quelle heure êtes-vous parti hier ?
+À quelle heure commence-t-on ?
+On finit à quelle heure ?
+À quelle heure commence-t-on ?
+À quelle heure fermez-vous ?
+À quelle heure finis-tu le travail aujourd'hui ?
+À quelle heure vous levez-vous en semaine ?
+À quelle heure en as-tu besoin ?
+À quelle heure ouvres-tu ?
+À quelle heure déjeunes-tu d'habitude ?
+À quelle heure vous réveillez-vous en semaine ?
+À quelle heure ferme-t-il dimanche ?
+À quelle heure ouvre-t-il dimanche ?
+À quelle heure ouvre la banque aujourd'hui ?
+À quelle heure ferme le magasin aujourd'hui ?
+À quelle heure ferme le magasin ?
+À quelle heure ouvre le magasin ?
+À quelle heure part le train aujourd'hui ?
+À quelle heure se termine ton service ?
+À quelle heure commence ton service ?
+À quelle heure est l'enregistrement ?
+À quelle heure part le check out ?
+Quelle heure est-il maintenant ?
+Quelle heure est-il là-bas maintenant ?
+À quelle heure est la réunion aujourd'hui ?
+À quelle heure est la réunion ?
+À quelle heure est ton vol le 20 ?
+À quelle heure est ton vol ?
+À quelle heure devrais-je être là ?
+Quelle heure vous convient le mieux ?
+À quelle heure travaillez-vous aujourd'hui ?
+Quel fuseau horaire utilisons-nous ?
+Quand es-tu libre cette semaine ?
+Quand partez-vous pour Ottawa?
+Quand pars-tu mardi ?
+Quand peut-on avoir un appel rapide ?
+Quand pouvez-vous vous rencontrer ce week-end ?
+Quand pouvez-vous envoyer le rapport ?
+Quand dois-je l'envoyer ?
+Quand dois-je le soumettre ?
+Quand est-ce qu'on finit ?
+On commence quand ?
+Quand finis-tu ton travail aujourd'hui ?
+Quand avez-vous besoin du rapport ?
+Quand ferme-t-il ?
+Quand est-ce que ça finit ?
+Quand est-ce qu'il ouvre ?
+Quand est-ce que ça commence aujourd'hui ?
+Quand est-ce que ça commence ?
+Quand commence la pause ?
+Quand est-ce que le cours se termine ?
+Quand est-ce que le cours se termine aujourd'hui ?
+Quand commence le cours ?
+Quand l'événement se termine-t-il ?
+Quand commence l'événement ?
+Quand ferme la bibliothèque aujourd'hui ?
+Quand commence le nouveau terme ?
+Quand ferme le bureau ?
+Quand est-ce que le bureau ouvre ?
+Quand ferme le magasin aujourd'hui ?
+Quand est-ce que le magasin ouvre ?
+Quelle est la date limite pour cette tâche?
+Quand est la date limite ce mois-ci ?
+C'est quand la date limite ?
+C'est quand, l'examen ?
+Quand est l'interview ?
+Quand est le lancement ?
+Quand est la réunion ce mois-ci ?
+C'est quand la réunion ?
+Quand est le prochain bus ?
+C'est quand le prochain cours ?
+C'est quand les prochaines vacances ?
+C'est quand la prochaine réunion ?
+C'est quand la prochaine séance ?
+Quand est le prochain train ?
+Quand est-ce que le paiement est dû?
+Quand est la présentation vendredi ?
+Quand est-ce que le loyer est dû ?
+C'est quand ton anniversaire ?
+Quand est ton vol lundi ?
+C'est quand ton vol ?
+C'est quand ton prochain jour de congé ?
+Votre visa expire quand ?
+Quand le bus arrivera-t-il ?
+Quand le colis arrivera-t-il?
+Quand le train partira-t-il ?
+Quel jour est l'interview ?
+Quel jour est la libération ?
+Quel jour est la réunion d'examen ?
+Est-ce que j'aurai le résultat aujourd'hui ?
+Ce sera fait d'ici le week-end ?
+Est-ce qu'il sera prêt à 17h aujourd'hui ?
+Il sera prêt avant midi ?
+Est-ce qu'il sera prêt d'ici demain ?
+Est-ce qu'il sera prêt d'ici ce soir ?
+Ce sera prêt dans une heure ?
+Est-ce que ça finira avant 20h ?
+Ça commencera après le déjeuner ?
+Ça commencera à 9 h ?
+Ça commencera à midi ?
+Ça commencera à 10 h ?
+Ça va commencer dans 30 minutes ?
+Ça commencera à l'heure ?
+Est-ce que ça va commencer ce soir ?
+Ça prendra moins d'une heure ?
+Ça prendra plus d'une heure ?
+La livraison arrivera-t-elle aujourd'hui ?
+La réunion va-t-elle avoir lieu après 17 h ?
+La réunion durera-t-elle toute la matinée ?
+Le colis arrivera-t-il cette semaine ?
+Le colis arrivera-t-il aujourd'hui ?
+Le colis arrivera-t-il demain ?
+Le colis arrivera-t-il avant vendredi ?
+La mise à jour sera-t-elle longue ?
+Demain matin, ça marchera pour toi ?
+Arriverez-vous avant 14 h ?
+Tu seras occupé toute la matinée ?
+Tu seras occupé samedi soir ?
+Tu seras libre après 17 h ?
+Tu seras libre à 16 h ?
+Tu seras libre à 15 h ?
+Tu seras libre dans une heure ?
+Tu seras libre la semaine prochaine ?
+Tu seras libre samedi ?
+Tu seras libre ce week-end ?
+Tu seras libre ce soir ?
+Tu seras là à 18 h ?
+Tu seras là à 8 h ?
+Tu seras là à midi ?
+Tu seras là à 19 h ?
+Seras-tu en ligne à 7h du matin ?
+Tu le finiras ce soir ?
+Tu le finiras cette semaine ?
+Tu vas le finir aujourd'hui ?
+Tu l'enverras ce soir ?
+Tu peux envoyer le dossier aujourd'hui ?
+Vous voyagerez au début de décembre ?
+L'hiver commence en décembre.
+Demain après-midi, ça marcherait ?
+Demain soir, ça ira ?
+Demain matin, ce serait mieux ?
+Demain matin, ça marcherait ?
+Préférez-vous 10 h ou 14 h ?
+Préférez-vous lundi ou mardi ?
+Hier, c'était le 12 avril 2025.
+Hier, c'était le 12 août 2025.
+Hier, c'était le 12 décembre 2025.
+Hier, c'était le 12 février 2025.
+Hier, c'était le 12 janvier 2025.
+Hier, c'était le 12 juillet 2025.
+Hier, c'était le 12 juin 2025.
+Hier, c'était le 12 mars 2025.
+Hier, c'était le 12 mai 2025.
+Hier, c'était le 12 mai.
+Hier, c'était le 12 novembre 2025.
+Hier, c'était le 12 octobre 2025.
+Hier, c'était le 31 octobre.
+Hier, c'était le 12 septembre 2025.
+Hier, c'était dimanche.
+Hier, c'était un jour férié.
+Hier, c'était très occupé.
+Hier, c'était très long.
+Votre commande arrivera aujourd'hui.

@@ -1,0 +1,1477 @@
+Apakah bus berjalan pada hari Minggu?
+Apakah kita melakukannya sore ini?
+Apa kita akan melakukan ini lagi tahun depan?
+Apa kita akan melakukan pemeriksaan mingguan?
+Apakah kita akan berangkat dalam satu jam?
+Apakah kita bertemu di siang hari?
+Apakah kita bertemu pada waktu yang biasa?
+Apakah kita bertemu setiap Selasa pukul 6 sore?
+Apakah kita bertemu di pagi atau sore hari?
+Apakah kita bertemu Jumat malam ini?
+Apa kita akan bertemu sore ini?
+Apa kita akan bertemu malam ini?
+Apa kita akan bertemu pagi ini?
+Apakah kita pergi pada tanggal 25 Desember?
+Apakah kita di jalur untuk menyelesaikan hari ini?
+Apakah kita mulai dari jam paling atas?
+Apakah kita mulai tepat waktu hari ini?
+Apakah kita masih melakukannya bulan ini?
+Apakah kita masih bertemu bulan ini?
+Apa kita masih jam 3 sore?
+Apa kita masih jam 6 sore?
+Apakah kita masih di untuk 8:00 tajam?
+Apakah kita masih untuk Jumat malam?
+Apakah kita masih untuk malam ini?
+Apa kita harus mulai tengah malam?
+Apa kau ada waktu jam 7 malam?
+Apa kau ada waktu malam ini?
+Apakah Anda tersedia pada hari Kamis pukul 3 sore?
+Apakah Anda tersedia pada hari Selasa pukul 10 pagi?
+Apakah Anda tersedia sekarang?
+Apakah Anda tersedia pada minggu pertama bulan Mei?
+Apa kau ada waktu malam ini?
+Apakah Anda sibuk sekitar tengah hari besok?
+Apakah Anda sibuk pada hari Jumat?
+Apa kau akan kembali sebelum tengah malam?
+Apa kau akan kembali minggu depan?
+Apa kau ada waktu setelah jam 6 sore?
+Apa kau ada waktu jam 2 siang?
+Kau ada waktu jam 4 sore?
+Apa kau ada waktu jam 9 pagi hari Senin?
+Apakah Anda bebas di akhir bulan?
+Apakah Anda bebas selama 30 menit sekarang?
+Apa kau ada waktu minggu depan?
+Apakah Anda bebas pada 20 Mei 2026?
+Apa kau ada waktu Sabtu pagi?
+Apakah Anda bebas pada tanggal 21?
+Apa kau ada waktu setelah makan siang?
+Apa kau ada waktu sekarang?
+Apa kau ada waktu sore ini?
+Apa kau ada waktu minggu ini?
+Apa kau ada waktu besok sore?
+Apa kau ada waktu besok pagi?
+Apa kau ada waktu besok malam?
+Apa kau akan terlambat lagi?
+Apa kau akan pergi jam 6 pagi?
+Apakah Anda berlibur minggu depan?
+Apakah Anda tinggal di sini sepanjang hari?
+Apa kau kerja lembur malam ini?
+Apakah Anda bekerja akhir pekan ini?
+Dapatkah saya tiba lima menit lebih awal?
+Boleh kupesan jam 4 sore?
+Dapatkah saya memesannya untuk 10 Juli 2026?
+Dapatkah saya memesannya untuk 20 Mei?
+Dapatkah saya menghubungi Anda setelah makan siang?
+Dapatkah saya menghubungi Anda sebelum makan malam?
+Dapatkah saya menghubungi Anda dalam 10 menit?
+Dapatkah saya menghubungi Anda dalam satu jam?
+Dapatkah saya menghubungi Anda nanti hari ini?
+Bisakah aku menghubungimu besok?
+Dapatkah saya menelepon Anda malam ini pukul 8 malam?
+Dapatkah saya menelepon Anda malam ini?
+Dapatkah saya mengubah tanggal?
+Dapatkah saya mengubah waktu?
+Boleh aku mampir nanti malam?
+Bisakah aku datang terlambat besok?
+Dapatkah saya memperpanjang tenggat waktu sampai hari Jumat?
+Dapatkah saya memperpanjang tenggat waktu?
+Bisakah aku pulang lebih awal hari ini?
+Dapatkah saya membayar pada akhir minggu?
+Dapatkah saya melihat Anda malam ini?
+Boleh kukirim sebelum jam 2 siang?
+Dapatkah saya mempersingkat pertemuan?
+Dapatkah saya mengirimkannya pada hari Jumat?
+Dapatkah saya mengirimkannya nanti hari ini?
+Dapatkah saya mengirimkannya besok pagi?
+Dapatkah saya mengirimkannya malam ini?
+Dapatkah saya beralih ke hari Jumat?
+Dapatkah saya mengambil hari libur besok?
+Boleh aku ikut ujian bulan depan?
+Bisakah kita check-in lagi minggu depan?
+Bisakah kita check-in setiap hari Senin?
+Bisakah kita check-in hari ini?
+Bisa kita tunda 15 menit?
+Bisakah kita menunda satu jam?
+Bisakah kita tunda sampai Jumat depan?
+Bisakah kita melakukannya 30 menit kemudian?
+Bisakah kita melakukannya pada jam 4 sore pada hari Jumat?
+Bisakah kita melakukannya dalam satu jam?
+Bisakah kita melakukannya di pagi hari?
+Bisakah kita melakukannya akhir pekan ini?
+Bisakah kita melakukannya minggu depan saja?
+Bisakah kita melakukannya pada hari Jumat?
+Bisakah kita melakukannya sore ini?
+Bisakah kita melakukannya malam ini?
+Bisakah kita melakukannya akhir pekan ini?
+Bisakah kita melakukannya hari ini?
+Bisakah kita melakukannya besok?
+Bisakah kita melakukannya malam ini?
+Bisakah kita memperpanjangnya setengah jam?
+Bisakah kita menyelesaikannya sebelum hari Jumat?
+Bisakah kita selesai sebelum jam 3 sore?
+Bisakah kita selesai sebelum jam 4 sore?
+Bisakah kita selesai sebelum makan siang?
+Bisakah kita selesai sebelum tengah hari?
+Bisakah kita menyelesaikannya sebelum jam 5 sore?
+Bisakah kita menyelesaikannya sebelum tengah hari?
+Bisa kita selesaikan hari Jumat?
+Bisakah kita menyelesaikannya hari ini?
+Bisakah kita menyelesaikannya besok?
+Bisakah kita menyelesaikannya bulan ini?
+Bisakah kita menyelesaikannya hari ini?
+Bisakah kita pergi dalam lima menit?
+Bisakah kita pergi sekarang?
+Bisakah kita membuatnya setiap hari?
+Bisakah kita bertemu setelah makan siang hari ini?
+Bisakah kita bertemu setelah makan siang?
+Bisakah kita bertemu sebelum tengah hari?
+Bisakah kita bertemu besok pagi?
+Bisakah kita bertemu dalam 10 menit?
+Bisakah kita bertemu dalam 30 menit?
+Bisakah kita bertemu dalam satu jam?
+Bisakah kita bertemu Senin depan?
+Bisakah kita bertemu bulan depan?
+Bisakah kita bertemu minggu depan?
+Bisakah kita bertemu pada hari Jumat?
+Bisakah kita bertemu pada 13 Mei?
+Bisakah kita bertemu pada 20 Mei?
+Bisakah kita bertemu hari Senin?
+Bisakah kita bertemu pada hari Sabtu?
+Bisakah kita bertemu pada hari Minggu?
+Bisakah kita bertemu pada hari Kamis?
+Bisakah kita bertemu pada hari Selasa?
+Bisakah kita bertemu hari Rabu?
+Bisakah kita bertemu pada tanggal 15?
+Bisakah kita bertemu pada tanggal 30?
+Bisakah kita bertemu sebulan sekali?
+Bisakah kita bertemu sore ini?
+Bisakah kita bertemu malam ini?
+Bisakah kita bertemu pagi ini?
+Bisakah kita bertemu besok sore?
+Bisakah kita bertemu besok malam?
+Bisakah kita bertemu besok pagi?
+Bisakah kita bertemu besok malam?
+Bisakah kita pindahkan ke jam 10 pagi hari ini?
+Bisa kita pindahkan ke jam 3 sore?
+Bisa kita pindahkan ke jam 4 sore?
+Bisakah kita pindah ke nanti hari ini?
+Bisakah kita pindah ke bulan depan?
+Bisakah kita pindah ke minggu depan?
+Bisakah kita memindahkannya ke minggu pertama bulan Juni?
+Bisakah kita pindah ke besok pagi?
+Bisakah kita pindah ke besok?
+Bisakah kita memindahkan batas waktunya ke hari Jumat?
+Bisakah kita menundanya sampai minggu depan?
+Bisakah kita menariknya ke minggu ini?
+Bisakah kita mendorongnya kembali 15 menit?
+Bisakah kita mendorong kembali 30 menit?
+Bisakah kita mendorongnya ke Jumat depan?
+Bisakah kita mendorongnya ke bulan depan?
+Bisakah kita mendorongnya ke minggu depan?
+Bisakah kita menjadwal ulang untuk Jumat depan?
+Bisakah kita menjadwal ulang untuk Senin depan?
+Bisakah kita menjadwal ulang untuk Selasa depan?
+Bisakah kita menjadwal ulang untuk minggu depan?
+Bisakah kita menjadwal ulang minggu depan?
+Bisakah kita menjadwal ulang?
+Bisakah kita meninjau sebelum 3?
+Bisakah kita menjadwalkannya untuk jam 10 pagi besok?
+Bisakah kita menjadwalkannya untuk bulan depan?
+Bisakah kita menjadwalkannya untuk minggu depan?
+Bisakah kita menjadwalkannya untuk besok?
+Bisakah kita mengatur waktu sekarang?
+Bisakah kita mengaturnya untuk 1 Oktober 2025?
+Bisakah kita melewatkan minggu ini?
+Bisakah kita mulai 30 menit sebelumnya?
+Bisakah kita mulai 30 menit kemudian?
+Bisakah kita mulai sedikit lebih awal?
+Bisa kita mulai nanti?
+Bisakah kita mulai pada waktu yang sama besok?
+Bisakah kita mulai lebih awal dari yang direncanakan?
+Bisakah kita mulai lebih awal hari ini?
+Bisakah kita mulai terlambat lima menit?
+Bisa kita mulai 30 menit lagi?
+Bisa kita mulai hari ini?
+Bisa kita mulai sekarang?
+Bisakah kita mulai besok jam 9?
+Bisakah kita mengirimkannya pada siang hari?
+Bisakah kita istirahat dalam 15 menit?
+Bisakah kita bicara setelah makan malam?
+Bisakah kita bicara sekitar jam 3 sore?
+Bisa kita bicara jam 10 pagi?
+Bisa kita bicara jam 11 pagi besok?
+Bisakah kita bicara jam 2 siang hari ini?
+Bisakah kita bicara jam 5 sore hari ini?
+Bisa kita bicara jam 9 pagi besok?
+Bisakah kita bicara selama lima menit?
+Bisa kita bicara nanti malam?
+Bisa kita bicara hari Sabtu?
+Bisakah kita bicara setelah makan siang?
+Bisakah kita bicara akhir pekan ini?
+Bisakah kau berada di sini dalam 1 jam?
+Bisakah kau berada di sini dalam 12 jam?
+Bisakah kau berada di sini dalam 2 jam?
+Bisakah kau berada di sini dalam 3 jam?
+Bisakah kau berada di sini dalam 4 jam?
+Bisakah kau berada di sini dalam 5 jam?
+Bisakah kau berada di sini dalam 6 jam?
+Bisakah kau berada di sini dalam 8 jam?
+Bisa kau hubungi aku jam 3 sore?
+Bisa kau hubungi aku 10 menit lagi?
+Bisakah kau meneleponku besok pagi?
+Bisakah kau meneleponku malam ini?
+Bisakah kau datang lebih awal hari ini?
+Bisakah kau menyelesaikannya sebelum makan siang?
+Bisa kau selesaikan jam 4 sore?
+Bisa kau selesaikan jam 6 sore?
+Bisakah kau menyelesaikannya pagi ini?
+Bisakah kau menyelesaikannya hari ini?
+Bisakah kau bergabung jam 9 pagi?
+Dapatkah Anda bergabung dalam lima menit?
+Dapatkah Anda mengingatkan saya dalam dua jam?
+Bisa kau kirim sebelum jam 3 sore?
+Bisa kau kirimkan sebelum jam 5 sore?
+Bisa kau kirimkan sebelum tengah hari?
+Bisakah kau mengirimkannya siang ini?
+Dapatkah Anda mengirimkannya pada tanggal 20?
+Dapatkah Anda mengirimkannya pada akhir hari?
+Bisa kau kirimkan malam ini?
+Bisakah kau mengirimkannya minggu depan?
+Bisa kau kirim hari Senin?
+Bisakah kau mengirimkannya minggu ini?
+Bisakah kau mengirimkannya hari ini?
+Bisakah kau tinggal sedikit lebih lama?
+Bisakah kau tinggal sedikit lebih lama?
+Bisakah kau menunggu 10 menit?
+Bisakah kau menunggu 15 menit?
+Bisakah kau menunggu 20 menit?
+Bisakah kau menunggu 25 menit?
+Bisakah kau menunggu 30 menit?
+Bisakah kau menunggu 40 menit?
+Bisakah kau menunggu 45 menit?
+Bisakah kau menunggu 5 menit?
+Bisakah kau menunggu 50 menit?
+Bisakah kau menunggu 60 menit?
+Dapatkah Anda menunggu beberapa menit?
+Dapatkah Anda menunggu selama 15 menit?
+Bisakah kau menunggu sampai jam 3 sore?
+Bisakah kau menunggu sampai jam 6 sore?
+Bisakah kita membawanya ke depan oleh satu jam?
+Bisa kita tunda sejam lagi?
+Bisakah kita bertemu akhir pekan ini?
+Bisakah kita bertemu malam ini?
+Bisakah kau datang 15 menit lebih awal?
+Bisakah kau datang tepat waktu?
+Bisakah Anda menelepon saya dalam satu jam?
+Bisakah Anda bergabung satu jam kemudian?
+Bisakah kau menunggu 10 menit?
+Bisakah kau menunggu 30 menit?
+Bisakah Anda menunggu lima menit?
+Apakah Anda mendapatkan pesan saya pagi ini?
+Apakah Anda melihat update kemarin?
+Makan malam jam 7 malam.
+Apa aku harus ke sana jam 8 pagi?
+Apa aku harus masuk hari ini?
+Apa aku harus masuk besok?
+Apakah saya harus bergabung dengan panggilan pukul 7 malam?
+Apakah saya harus tinggal terlambat?
+Apa aku harus datang lebih awal?
+Apakah saya harus tinggal terlambat?
+Apakah kita memiliki istirahat di 03:00?
+Apa kita ada kelas hari ini?
+Apa kita ada kelas besok?
+Apakah kita memiliki tenggat waktu hari ini?
+Apa kita punya tenggat waktu besok?
+Apa kita ada rapat bulan depan?
+Apa kita ada rapat minggu ini?
+Apa kita ada rapat hari ini?
+Apa kita ada rapat besok?
+Apakah kita memiliki kelas Senin depan?
+Apa kita ada kelas hari Jumat?
+Apakah kita memiliki kelas pada tanggal 2 Juni?
+Apa kita ada kelas hari Rabu?
+Apa kita ada kelas hari ini?
+Apa kita ada kelas besok?
+Apa kita punya waktu hari ini?
+Apakah kita harus memutuskan hari ini?
+Apakah kita harus tinggal sampai tengah malam?
+Apakah kita harus menyerahkannya pada hari Jumat?
+Apakah kita harus menyerahkannya hari ini?
+Apakah kita harus menyerahkannya besok?
+Apakah kita bertemu setiap Selasa?
+Apakah kita bertemu setiap Rabu?
+Apakah kita bertemu pada Senin pertama bulan ini?
+Apakah kita bertemu dua kali seminggu?
+Apakah kita perlu lebih banyak waktu untuk ini?
+Apakah kita perlu melakukannya sebelum akhir pekan?
+Apakah kita perlu memperpanjang tenggat waktunya?
+Apa kita harus menyelesaikannya hari ini?
+Apakah kita perlu bertemu setiap minggu?
+Apakah kita mulai tepat waktu?
+Apakah kita masih punya waktu hari ini?
+Apa kau tutup jam 8 malam?
+Kau selesai jam 6 sore?
+Apa kau punya waktu setelah jam 5 sore?
+Apa kau punya waktu jam 4 sore?
+Apa kau punya waktu jam 7 malam?
+Apakah Anda punya waktu di siang hari?
+Apakah Anda punya waktu hari ini?
+Apa kau punya waktu sekarang?
+Apakah Anda punya waktu pada tanggal 10 Juni?
+Apakah Anda punya waktu pada hari Minggu?
+Apakah Anda punya waktu pada hari Rabu?
+Apa kau punya waktu sekarang?
+Apakah Anda punya waktu Kamis ini?
+Apakah Anda punya waktu sore ini?
+Apakah Anda punya waktu malam ini?
+Apakah Anda tahu tanggal hari ini?
+Kau tahu hari apa ini?
+Apakah Anda membutuhkannya pada akhir hari?
+Apakah Anda perlu lebih banyak waktu?
+Kau buka jam 8 pagi?
+Kau mulai jam 9 pagi?
+Apakah Anda ingin bertemu nanti malam?
+Apakah Anda bekerja pada hari Sabtu?
+Apakah Anda bekerja pada hari Minggu?
+Apakah Anda bekerja pada hari libur?
+Apakah Anda bekerja pada akhir pekan?
+Apakah Kamis malam bekerja untuk Anda?
+Apakah selesai setelah makan siang?
+Apakah selesai sebelum tengah hari?
+Apakah itu dimulai tepat pada siang hari?
+Apakah Senin depan bekerja untuk Anda?
+Apakah bus berjalan pada hari Minggu?
+Apakah tenggat waktunya tetap tanggal 30?
+Apakah toko buka jam 10 pagi?
+Apakah toko buka pada hari libur?
+Apakah kereta tiba pada siang hari?
+Apakah kereta berangkat jam enam?
+Apakah besok jam 11 pagi bekerja?
+Semuanya sudah siap untuk hari ini.
+Musim gugur dimulai pada bulan September.
+Apakah tanggal berubah untuk acara tersebut?
+Apakah waktu telah berubah untuk hari ini?
+Bagaimana kalau jam 7 malam ini?
+Bagaimana kalau besok jam 8 pagi?
+Bagaimana kalau sore ini?
+Seberapa awal kau bisa datang?
+Seberapa malam kita bisa tinggal hari ini?
+Seberapa malam kau bisa tinggal?
+Berapa lama yang kau butuhkan hari ini?
+Menurutmu berapa lama waktu yang dibutuhkan?
+Berapa lama waktu yang dibutuhkan?
+Berapa hari lagi?
+Berapa jam lagi kita punya waktu?
+Berapa jam yang kita punya?
+Berapa menit yang kita punya?
+Berapa banyak waktu yang kita miliki?
+Seberapa cepat kita bisa bertemu?
+Seberapa cepat kau bisa bergabung?
+Saya tersedia sepanjang pagi.
+Aku sibuk sepanjang sore hari ini.
+Aku sibuk sore ini.
+Aku bebas sepanjang pagi hari ini.
+Aku bebas jam 9 pagi hari Senin.
+Aku bebas selama 30 menit sekarang.
+Saya bebas pada Jumat sore.
+Saya bebas pada Jumat malam.
+Aku bebas Jumat pagi.
+Saya bebas pada Senin sore.
+Saya bebas pada Senin malam.
+Saya bebas pada Senin pagi.
+Saya bebas pada Sabtu sore.
+Saya bebas pada Sabtu malam.
+Saya bebas pada Sabtu pagi.
+Saya bebas pada hari Minggu sore.
+I am free on Sunday evening.
+Saya bebas pada Minggu pagi.
+Saya bebas pada Kamis sore.
+Saya bebas pada Kamis malam.
+Saya bebas pada Kamis pagi.
+Saya bebas pada Selasa sore.
+Aku bebas Selasa malam.
+Aku bebas Selasa pagi.
+Saya bebas pada Rabu sore.
+Saya bebas pada Rabu malam.
+Saya bebas pada Rabu pagi.
+Aku bebas akhir pekan ini.
+Aku berangkat jam 6 pagi.
+Aku akan pergi dalam 10 menit.
+Aku sedang berlibur minggu depan.
+Saya tinggal di sini selama tiga hari.
+Saya bekerja akhir pekan ini.
+Saya tiba pada tanggal 10 April.
+Saya tiba pada tanggal 20 April.
+Saya tiba pada tanggal 5 April.
+Saya tiba pada tanggal 10 Agustus.
+Saya tiba pada tanggal 20 Agustus.
+Saya tiba pada tanggal 5 Agustus.
+Saya tiba pada tanggal 10 Februari.
+Saya tiba pada tanggal 20 Februari.
+Saya tiba pada tanggal 5 Februari.
+Saya tiba pada tanggal 10 Januari.
+Saya tiba pada tanggal 20 Januari.
+Saya tiba pada tanggal 5 Januari.
+Saya tiba pada tanggal 10 Juli.
+Saya tiba pada tanggal 20 Juli.
+Saya tiba pada tanggal 5 Juli.
+Saya tiba pada tanggal 10 Juni.
+Saya tiba pada tanggal 20 Juni.
+Saya tiba pada tanggal 5 Juni.
+Saya tiba pada tanggal 10 Maret.
+Saya tiba pada tanggal 20 Maret.
+Saya tiba pada tanggal 5 Maret.
+Saya tiba pada tanggal 10 Mei.
+Saya tiba pada tanggal 20 Mei.
+Saya tiba pada tanggal 5 Mei.
+Saya tiba pada tanggal 10 November.
+Saya tiba pada tanggal 20 November.
+Saya tiba pada tanggal 5 November.
+Saya tiba pada tanggal 10 Oktober.
+Saya tiba pada tanggal 20 Oktober.
+Saya tiba pada tanggal 5 Oktober.
+Saya tiba pada tanggal 10 September.
+Saya tiba pada tanggal 20 September.
+Saya tiba pada tanggal 5 September.
+Aku tiba pagi ini.
+Aku tiba kemarin.
+Aku bisa melakukannya dalam satu jam.
+Aku bisa memperpanjang tenggat waktunya sampai hari Jumat.
+Aku bisa menyelesaikannya hari Jumat.
+Aku bisa menyelesaikannya minggu depan.
+Aku bisa menyelesaikannya pada akhir bulan.
+Aku bisa menyelesaikannya hari ini.
+Aku bisa menyelesaikannya besok.
+Aku bisa menemuimu besok.
+Aku tidak bisa menyelesaikannya besok.
+Aku tidak bisa menyelesaikannya hari ini.
+Aku bisa mulai dalam satu jam.
+Aku bisa tinggal di sini sampai jam 5 sore.
+Aku bisa tinggal di sini sampai jam 7 malam.
+Aku bisa tinggal sampai jam 6 sore.
+Aku bisa tinggal sampai tengah malam.
+Aku bisa mengirimkannya nanti hari ini.
+Aku memeriksa jadwal untuk bulan depan.
+Aku memeriksa jadwal akhir pekan ini.
+Aku memeriksa jadwal untuk hari ini.
+Aku memeriksa jadwalnya kemarin.
+Aku sudah memeriksa zona waktunya.
+Aku menyelesaikannya tadi malam.
+Aku menyelesaikan laporannya tiga jam yang lalu.
+Aku ada panggilan besok pagi.
+Aku ada telepon nanti malam.
+Aku ada rapat jam 3.
+Aku ada janji jam 9 pagi besok.
+Aku sudah di sini sejak jam 8 pagi.
+Aku sudah menunggu selama 20 menit.
+Aku tidak punya waktu sore ini.
+Aku tidak punya waktu minggu ini.
+Aku tidak punya waktu hari ini.
+Aku punya waktu setelah jam 5 sore.
+Aku punya waktu sekarang.
+Aku punya waktu sore ini.
+Aku punya waktu besok.
+Aku harus pergi jam 7 malam.
+Aku ada latihan setiap hari Jumat jam 5 sore.
+Aku pergi 10 menit yang lalu.
+Aku pergi sejam yang lalu.
+Aku butuh 10 menit lagi.
+Aku butuh lebih banyak waktu.
+Aku butuh satu jam lagi.
+Aku ingin ini selesai sebelum makan siang.
+Aku mengatur pengingat untuk 06:00 .
+Aku tidur larut pagi ini.
+Aku memulai proyek ini dua jam yang lalu.
+Aku menunggu sampai malam.
+Aku akan tiba sebelum tengah malam.
+Aku akan tiba lima menit lebih awal.
+Aku akan tiba pada tanggal 30.
+Aku akan tiba hari ini.
+Aku akan tiba besok pagi.
+Aku akan tiba besok malam.
+Aku akan kembali sebelum jam 9 malam.
+Aku akan sibuk sepanjang pagi.
+Aku akan bebas nanti malam.
+Aku akan terlambat 10 menit lagi.
+Aku akan terlambat 20 menit lagi.
+Aku akan keluar sepanjang malam.
+Aku akan ke sana jam 3 sore.
+Aku akan ke sana jam 5 sore.
+Aku akan ke sana jam 7 malam.
+Aku akan berada di sana dalam 10 menit.
+Aku akan berada di sana dalam 15 menit.
+Aku akan berada di sana dalam 5 menit.
+Aku akan meneleponmu jam 11 pagi.
+Aku akan meneleponmu malam ini.
+Aku akan menghubungimu Selasa pagi.
+Aku akan menyelesaikannya sebelum tengah hari.
+Aku akan menyelesaikannya pada akhir hari.
+Aku akan menyelesaikannya minggu depan.
+Aku akan menyelesaikannya minggu ini.
+Aku akan menyelesaikannya malam ini.
+Aku akan menyelesaikan tugas sebelum jam 3 sore.
+Aku akan menyelesaikan tugas sebelum jam 6 sore.
+Aku akan menyelesaikan tugas sebelum tengah hari.
+Aku akan menyelesaikan tugas minggu ini.
+Aku akan menyelesaikan ini sebelum jam 4 sore.
+Aku akan menyelesaikan ini jam 4 sore.
+Aku akan bergabung dengan panggilan pukul 2 siang.
+Saya akan bergabung dengan Anda dalam lima menit.
+Aku akan pergi besok pagi.
+Aku tidak akan ada besok.
+Aku akan kembali dalam satu jam.
+Aku akan kembali di sore hari.
+Sampai jumpa minggu depan.
+Aku akan mengirimkannya sebelum jam 5 sore.
+Aku akan mengirimkannya hari Jumat.
+Aku akan mengirimkannya pada akhir hari.
+Aku akan mengirimkannya malam ini.
+Aku akan mengirimkannya dalam 10 menit.
+Aku akan mengirimkannya pada hari Senin.
+Aku akan mengirimkannya hari ini.
+Aku akan mengirimkannya besok pagi.
+Aku akan mengirimkannya malam ini.
+Aku akan mengirim berkasnya siang ini.
+Aku akan mengirim file di pagi hari.
+Aku akan mengirim laporannya malam ini.
+Aku akan mulai besok pagi.
+Aku akan mulai bekerja minggu depan.
+Aku akan tinggal di sini sepanjang hari.
+Aku akan melakukan perjalanan di awal Desember.
+Aku akan bangun jam 6 pagi.
+Aku akan lembur malam ini.
+Apa jam 10 pagi terlalu cepat untukmu?
+Apa jam 3 sore baik-baik saja?
+Apakah Senin hari kerja?
+Apakah OK minggu depan?
+Apakah besok tidak apa-apa?
+Apakah sudah terlambat hari ini?
+Apakah karena setelah makan siang?
+Apakah karena sebelum tengah hari?
+Apakah karena minggu depan?
+Apakah jatuh tempo pada hari Jumat?
+Apakah karena minggu ini?
+Apakah karena hari ini?
+Apakah karena besok?
+Apakah itu terjadi pagi ini?
+Apakah itu terjadi malam ini?
+Tidak apa-apa jika aku terlambat 5 menit?
+Tidak apa-apa jika aku menelepon jam 11 pagi?
+Apakah tidak apa-apa untuk tiba di 930 pagi?
+Apakah tidak apa-apa untuk tiba besok sore?
+Apakah tidak apa-apa untuk membayar besok?
+Apakah terbuka sekarang?
+Apakah mulai dalam 30 menit?
+Apakah masih 31 Oktober hari ini?
+Apakah masih terjadi hari ini?
+Apakah masih untuk besok?
+Apakah hari ini?
+Apakah besok?
+Apakah terlalu dini untuk menelepon sekarang?
+Apakah terlalu dini untuk berkunjung?
+Apakah sudah terlambat untuk menelepon?
+Apakah sudah terlambat untuk bergabung hari ini?
+Is it too late to send it today?
+Apakah mendesak hari ini?
+Apakah bulan depan lebih baik untukmu?
+Apa minggu depan lebih baik untukmu?
+Apakah siang hari baik untuk Anda?
+Apakah sekarang waktu yang buruk?
+Apakah istirahat kita hanya 10 menit?
+Apakah tujuh di malam hari baik?
+Apakah sepuluh di pagi hari baik?
+Apakah janji untuk Selasa depan?
+Apakah janji pada tanggal 14?
+Apakah janji masih untuk Senin depan?
+Apakah panggilan jam 10 pagi waktu Ottawa?
+Apakah panggilan ditetapkan untuk 2 pm waktu Ottawa?
+Apakah panggilan ditetapkan untuk 9 am waktu Toronto?
+Apakah kelas dari 2 sampai 4?
+Apakah tenggat waktunya sudah final?
+Apakah tenggat waktunya fleksibel?
+Apakah tenggat waktu Jumat depan?
+Apakah tenggat waktunya minggu depan?
+Apakah tenggat waktunya masih 5 Juni 2025?
+Apakah tenggat waktunya masih 13 Mei?
+Apakah tenggat waktunya hari ini?
+Apakah tenggat waktunya besok?
+Apakah acara pada akhir pekan?
+Apakah acara itu benar-benar pada tanggal 20 Juli 2025?
+Apakah penerbangan tertunda oleh dua jam?
+Apakah penerbangan besok malam?
+Apakah wawancara pada 20 Mei 2025?
+Apakah pertemuan sepanjang hari?
+Apakah pertemuan pada hari Jumat?
+Apakah pertemuan pada hari Senin?
+Apakah pertemuan pada hari Kamis?
+Apakah pertemuan pada hari Selasa?
+Apakah pertemuan pada hari Rabu?
+Apa rapatnya masih jam 2 siang?
+Apa rapatnya masih jam 9 pagi hari ini?
+Apakah pertemuan masih hari ini?
+Apa rapatnya masih besok?
+Apakah pertemuan akhir pekan ini?
+Apakah kelas berikutnya dalam dua minggu?
+Apakah kantor tutup pada hari Minggu?
+Apakah kantor dibuka pada 25 Desember 2025?
+Apakah kantor buka pada hari Minggu?
+Apa kantornya buka hari ini?
+Apakah pembayaran jatuh tempo setiap awal bulan?
+Apakah rencana untuk Kamis ini?
+Apa proyeknya akan berakhir besok?
+Apakah proyek dimulai hari ini?
+Apa laporannya besok?
+Apakah jadwalnya sama minggu ini?
+Apakah sesi Jumat malam?
+Apa tokonya buka sekarang?
+Apa sistemnya mati di malam hari?
+Apakah tiket hanya berlaku hari ini?
+Apakah workshop pada bulan November?
+Apakah ada pertemuan setiap pagi?
+Apa ini waktu yang tepat?
+Apakah ini pertemuan satu jam?
+Apakah ini tersedia pada akhir pekan?
+Apakah ini jadwal terakhir?
+Apakah ini waktu yang tepat?
+Apakah kali ini baik-baik saja untuk Anda?
+Apa minggu ini sibuk untukmu?
+Apa minggu ini terlalu sibuk untukmu?
+Apakah hari ini 13 Mei 2025?
+Apakah hari ini hari libur?
+Apakah hari ini tanggal 13 Mei?
+Hari ini tanggal 5 atau 6?
+Apakah hari ini hari pertama dalam sebulan?
+Apakah hari ini hari terakhir untuk diterapkan?
+Apa besok hari libur?
+Apakah besok baik untuk Anda?
+Apakah besok masih baik untuk Anda?
+Sekarang jam 2 siang.
+Sekarang sudah jam 3 sore.
+Sekarang jam 6 sore jadi kantornya tutup.
+Sekarang jam 9 pagi.
+Hari ini hari Jumat.
+Hari ini tanggal 1 Juli.
+Hari ini tanggal 13 Mei.
+Hari ini hari Senin.
+Sekarang tanggal 1 November 2025.
+Hari ini hari Sabtu.
+Hari ini hari Minggu.
+Hari ini Kamis.
+Hari ini hari Selasa.
+Hari ini hari Rabu.
+Sudah hampir tengah malam.
+Sudah hampir siang sekarang.
+Sudah hampir tengah hari.
+Ini hampir akhir tahun.
+Ini hampir akhir pekan.
+Ini sudah jam 3 sore.
+Ini sudah jam 3 sore.
+Ini sudah hari Jumat.
+Ini sudah November.
+Ini sudah larut malam.
+Ini sudah tengah malam di sini.
+Ini sudah minggu kedua bulan November.
+Hari ini musim gugur.
+Ini jatuh tempo pada akhir bulan ini.
+Ini adalah karena Jumat depan.
+Ini adalah karena hari ini.
+Ini adalah karena besok.
+Ini pagi-pagi sekali.
+Ini adalah delapan di malam hari.
+Ini tepat tengah hari.
+Sekarang jam 5 sore.
+Ini adalah empat di sore hari.
+Ini sudah larut malam.
+Sekarang sudah tengah malam.
+Ini adalah sembilan di malam hari.
+Ini bukan waktu yang tepat untuk bicara.
+Hal ini tidak karena hari ini.
+Hal ini tidak karena sampai Jumat.
+Ini belum siap pagi ini.
+Hal ini tidak mendesak hari ini.
+Ini adalah salah satu di sore hari.
+Hanya lima menit dari sini.
+Tinggal dua hari lagi.
+Ini adalah hari libur kita besok.
+Ini adalah hari pertemuan kita hari ini.
+Ini adalah tujuh di malam hari.
+Ini adalah enam di malam hari.
+Hari ini musim semi.
+Sekarang masih bulan Oktober.
+Masih gelap karena sekarang jam 5 pagi.
+Ini masih pagi-pagi sekali.
+Hari ini musim panas.
+Ini adalah tanggal 20 bulan ini hari ini.
+Ini adalah awal bulan.
+Ini adalah awal minggu.
+Ini adalah hari acara hari ini.
+Ini adalah hari tenggat waktu hari ini.
+Ini adalah akhir bulan.
+Ini adalah akhir minggu.
+Ini adalah minggu kelima bulan Mei.
+Ini adalah hari pertama dalam sebulan.
+Ini adalah minggu pertama bulan Mei.
+Ini adalah minggu pertama dalam setahun.
+Ini adalah minggu keempat bulan Mei.
+Ini adalah hari terakhir dalam sebulan.
+Ini adalah minggu terakhir dalam setahun.
+Ini adalah pertengahan minggu.
+Ini adalah jadwal yang sama seperti minggu lalu.
+Ini adalah waktu yang sama seperti kemarin.
+Ini adalah minggu kedua bulan Mei.
+Ini adalah minggu ketiga bulan Mei.
+Ini adalah waktu yang biasa pada pukul 10 pagi.
+Ini akhir pekan jadi aku bisa tinggal lebih lama.
+Ini adalah akhir pekan sehingga bank ditutup.
+Ini adalah tiga di sore hari.
+Sudah waktunya untuk makan siang.
+Sudah waktunya untuk pergi sekarang.
+Sudah waktunya untuk bergabung dengan pertemuan.
+Sudah waktunya untuk tidur sekarang.
+Sudah waktunya untuk mengirimkan formulir.
+Masih terlalu dini untuk mengirim pesan padanya hari ini.
+Ini terlalu dini.
+Sudah terlambat untuk mengubah waktu hari ini.
+Sudah terlambat untuk bergabung hari ini.
+Sudah terlambat.
+Ini adalah dua di sore hari.
+Ini sangat terlambat untuk panggilan hari ini.
+Hari ini musim dingin.
+Dimulai dalam 10 menit.
+Dimulai dalam 15 menit.
+Dimulai dalam 20 menit.
+Dimulai dalam 25 menit.
+Dimulai dalam 30 menit.
+Dimulai dalam 40 menit.
+Dimulai 45 menit lagi.
+Dimulai dalam 5 menit.
+Dimulai dalam 50 menit.
+Dimulai dalam 60 menit.
+Butuh waktu 30 menit untuk sampai ke sini.
+Biasanya aku butuh satu jam di pagi hari.
+Itu dilakukan kemarin.
+Itu karena kemarin.
+Kemarin sore sangat sibuk.
+Ini akan menjadi Jumat besok.
+Ini akan menjadi Senin besok.
+Besok hari Sabtu.
+Ini akan menjadi hari Minggu besok.
+Ini akan menjadi Kamis besok.
+Ini akan menjadi Selasa besok.
+Ini akan menjadi Rabu besok.
+Ini akan dilakukan pada hari Jumat.
+Ini akan dilakukan lusa.
+Ini akan dilakukan hari ini.
+Ini akan dilakukan besok.
+Ini akan siap sebelum makan malam.
+Ini akan siap jam 4 sore.
+Ini akan siap dalam 10 menit.
+Ini akan siap dalam setengah jam.
+Ini akan siap sore ini.
+Ini akan berakhir pada tengah malam.
+Ini akan berakhir sebelum liburan.
+Ini akan berakhir jam 3 sore.
+Ini akan berakhir pada tanggal 30.
+Ini akan berakhir minggu ini.
+Ini akan berakhir hari ini.
+Ini tidak akan lama.
+Ini akan dimulai setelah makan siang.
+Ini akan dimulai pukul 11 pagi.
+Ini akan dimulai pada waktu yang biasa.
+Ini akan dimulai dalam 5 menit.
+Ini akan dimulai bulan depan.
+Ini akan dimulai pada 2 Juni.
+Ini akan dimulai pada hari Senin.
+Ini akan memakan waktu 1 jam.
+Ini akan memakan waktu 12 jam.
+Ini akan memakan waktu 2 jam.
+Ini akan memakan waktu 3 jam.
+Ini akan memakan waktu 4 jam.
+Ini akan memakan waktu 5 jam.
+Ini akan memakan waktu 6 jam.
+Ini akan memakan waktu 8 jam.
+Ini akan memakan waktu sekitar 20 menit.
+Ini akan memakan waktu sekitar satu jam.
+Ini akan memakan waktu seharian.
+Ini akan memakan waktu lebih lama dari yang kukira.
+Ini hanya akan memakan waktu beberapa jam.
+Ini akan memakan waktu sampai minggu depan.
+Bulan lalu adalah Oktober.
+Minggu lalu sangat dingin.
+Istirahat makan siang jam 12 malam.
+Makan siang adalah di siang hari.
+Janjiku jam 2 siang.
+Janji saya adalah pada siang hari.
+Janjiku jam tiga.
+Janjiku 15 menit lagi.
+Janjiku nanti hari ini.
+Janji saya adalah Selasa pagi berikutnya.
+Janji saya adalah pada tanggal 15.
+Janji saya adalah pada tanggal 21.
+Ulang tahunku bulan Juni.
+Ulang tahunku tanggal 3 Juli.
+Ulang tahunku minggu ini.
+Ujianku dua jam lagi.
+Ujianku Senin depan.
+Penerbanganku tanggal 14 April 2025.
+Penerbanganku Senin pagi.
+Wawancara saya adalah dalam satu jam.
+Wawancaraku dua hari lagi.
+Wawancara saya adalah pada hari Rabu.
+Proyekku berakhir minggu ini.
+Proyek saya tertunda oleh satu hari.
+Proyekku dimulai minggu depan.
+Sewa saya jatuh tempo pada hari pertama setiap bulan.
+Keretaku berangkat jam 6 sore.
+Keretaku berangkat jam 8 pagi.
+Keretaku berangkat 40 menit lagi.
+Keretaku berangkat hari Sabtu.
+Visa saya berakhir pada Maret 2027.
+Visa saya berakhir pada 30 September 2025.
+Bulan depan adalah Desember.
+Minggu depan gratis.
+Minggu depan lebih ringan dari minggu ini.
+Janji kami adalah pada 09:00 besok.
+Istirahat kita hanya 10 menit.
+Panggilan kami jam 10 pagi waktu Ottawa.
+Batas waktu kami dipindahkan ke Jumat depan.
+Makan malam kita jam tujuh.
+Penerbangan kita besok pagi.
+Penerbangan kami Senin depan.
+Penerbangan kita hari Jumat.
+Penerbangan kita tanggal 20 Mei.
+Penerbangan kita sore ini.
+Penerbangan kita besok pagi.
+Penerbangan kita besok malam.
+Penerbangan kita malam ini.
+Istirahat makan siang kami adalah di dua belas.
+Sesi berikutnya adalah pada 2 Agustus 2025.
+Shift kita selesai jam 5 sore.
+Jam kerja kita mulai jam 7 pagi.
+Tim kami bertemu setiap hari Jumat.
+Tim kami bertemu setiap hari Senin jam 10 pagi.
+Tim kami bertemu setiap Rabu pukul 4 sore.
+Tim kami bekerja lembur pada hari Kamis.
+Sampai jumpa jam 2 siang.
+Sampai jumpa jam 6 sore.
+Sampai jumpa 10 menit lagi.
+Sampai jumpa sejam lagi.
+Sampai jumpa minggu depan.
+Sampai jumpa hari Senin.
+Sampai jumpa besok.
+Haruskah kita menundanya?
+Haruskah kita selesaikan ini sebelum jam 4 sore?
+Haruskah kita selesaikan ini sebelum tengah hari?
+Haruskah kita bertemu jam 9?
+Haruskah kita bertemu minggu depan?
+Haruskah kita bertemu pada hari Senin?
+Haruskah kita bertemu hari ini atau besok?
+Haruskah kita bertemu hari ini?
+Haruskah kita bertemu besok?
+Haruskah kita pindahkan ini ke minggu depan?
+Haruskah kita mulai setelah makan siang?
+Bisa kita mulai jam 1 siang?
+Haruskah kita mulai dari jam sembilan?
+Haruskah kita mulai dari jam 10?
+Haruskah kita mulai segera?
+Haruskah kita menunggu sampai besok?
+Musim semi dimulai pada bulan Maret.
+Musim panas dimulai pada bulan Juni.
+Janjinya jam 1 siang.
+Janjinya untuk minggu depan.
+Janjinya tanggal 14.
+Janjinya kemarin.
+Bank buka jam 9 pagi hari ini.
+Bus tiba pukul 3 sore.
+Bus tiba pukul 530 sore.
+Bus tiba pukul 9 10 pagi.
+Bus tiba setiap 15 menit.
+Bus tiba dalam 10 menit.
+Bus datang setiap 15 menit.
+Bus datang setiap sepuluh menit.
+Busnya terlambat hari ini.
+Kafe buka jam 7 pagi.
+Teleponnya jam 2 siang hari ini.
+Teleponnya jam 930 pagi.
+Teleponnya jam 9 pagi.
+Panggilan akan singkat hari ini.
+Kelas dimulai pada waktu yang sama besok.
+Kelas berakhir pukul 4 sore.
+Kelas selesai pukul 5 sore.
+Kelasnya jam 11 besok.
+Kelasnya jam 9 besok.
+Kelas pukul enam sore.
+Kelasnya jam 10 besok.
+Kelasnya jam dua besok.
+Kelasnya setiap hari Senin.
+Kelasnya setiap Selasa pukul 7 malam.
+Kelasnya setiap Selasa.
+Kelas adalah pada yang pertama setiap bulan.
+Kelas hanya pada hari kerja.
+Kelas berlangsung dari 2 sampai 4.
+Kelas dimulai pukul 10 pagi besok.
+Kelas dimulai pukul 10 pagi.
+Kelas dimulai pukul 11:00 besok.
+Kelas dimulai pukul 12:00 besok.
+Kelas dimulai pukul 8 pagi besok.
+Kelas dimulai pukul 9 pagi besok.
+Kelas dimulai dalam 30 menit.
+Konsernya Sabtu malam.
+Konsernya di akhir pekan.
+Kursus berlangsung enam minggu.
+Tenggat waktunya siang ini.
+Tenggat waktunya dua jam lagi.
+Tenggat waktunya Senin depan.
+Tenggat waktunya bulan depan.
+Tenggat waktunya minggu depan.
+Tenggat waktunya hari Jumat.
+Batas waktunya adalah akhir bulan ini.
+Tenggat waktunya akhir minggu ini.
+The deadline is this Friday.
+Tenggat waktunya hari ini.
+Tenggat waktunya besok pagi.
+Tenggat waktunya besok.
+Tenggat waktunya kemarin.
+Dokter tersedia jam 2 siang hari ini.
+Acara berakhir pukul 9 malam.
+Acara ini dalam tiga jam.
+Acaranya minggu depan.
+Acara tersebut diadakan pada 24 Desember.
+Acara tersebut diadakan pada 2 Juni.
+Acaranya hari Sabtu.
+Acara ini pada tanggal 15.
+Acaranya akhir pekan ini.
+Acaranya malam ini.
+Acara dimulai pukul 7 malam.
+Acara dimulai sekarang.
+Acara tersebut diadakan pada 20 Juli 2025.
+Ujian di bulan November.
+Ujian adalah dalam dua minggu.
+Ujian selasa depan.
+Ujian diadakan pada 1 Juni 2025.
+Ujian pada 20 Mei 2026.
+Ujian adalah besok sore.
+Ujian besok pagi.
+Festival tersebut diadakan pada bulan Agustus.
+Penerbangannya jam 11 malam.
+Penerbangannya jam 6 pagi.
+Penerbangan ditunda dua jam.
+Penerbangannya Jumat pagi.
+Penerbangannya besok.
+Penerbangan berangkat besok pagi.
+Tamu datang sore ini.
+Wawancara Selasa depan.
+Wawancaranya hari Jumat jam 9 pagi.
+Wawancaranya hari ini.
+Wawancaranya besok.
+Tagihan jatuh tempo dalam tujuh hari.
+Anak-anak tidur jam 9 malam.
+Pelajarannya memakan waktu satu jam.
+Pelajarannya memakan waktu 30 menit.
+Perpustakaan tutup jam 8 malam hari ini.
+Perpustakaan ini dibuka pada akhir pekan.
+Perpustakaan buka jam 10 pagi.
+Perpustakaan ditutup kemarin.
+Pertemuan telah dipindahkan ke besok.
+Pertemuannya jam 1 siang hari ini.
+Pertemuannya jam 10 pagi hari ini.
+Pertemuannya jam 11 pagi hari ini.
+Pertemuannya jam 12 malam hari ini.
+Pertemuannya jam 2 siang hari ini.
+Pertemuannya jam 3 sore hari ini.
+Pertemuannya jam 4 sore hari ini.
+Pertemuannya jam 5 sore hari ini.
+Pertemuannya jam 8 pagi hari ini.
+Pertemuannya jam 9 pagi hari ini.
+Pertemuannya 10 menit lagi.
+Pertemuannya Rabu depan.
+Pertemuannya tanggal 10 April.
+Pertemuannya tanggal 20 April.
+Pertemuannya tanggal 5 April.
+Pertemuannya tanggal 10 Agustus.
+Pertemuannya tanggal 20 Agustus.
+Pertemuannya tanggal 5 Agustus.
+Pertemuannya tanggal 5 Desember.
+Pertemuannya tanggal 10 Februari.
+Pertemuannya tanggal 20 Februari.
+Pertemuannya tanggal 5 Februari.
+Pertemuannya hari Jumat.
+Pertemuannya tanggal 10 Januari.
+Pertemuannya tanggal 20 Januari.
+Pertemuannya tanggal 5 Januari.
+Pertemuannya tanggal 10 Juli.
+Pertemuannya tanggal 20 Juli.
+Pertemuannya tanggal 5 Juli.
+Pertemuannya tanggal 10 Juni.
+Pertemuannya tanggal 20 Juni.
+Pertemuannya tanggal 5 Juni.
+Pertemuannya tanggal 10 Maret.
+Pertemuannya tanggal 20 Maret.
+Pertemuannya tanggal 5 Maret.
+Pertemuannya tanggal 10 Mei.
+Pertemuannya tanggal 20 Mei.
+Pertemuannya tanggal 5 Mei.
+Pertemuannya hari Senin.
+Pertemuannya tanggal 10 November.
+Pertemuannya tanggal 20 November.
+Pertemuannya tanggal 5 November.
+Pertemuannya tanggal 10 Oktober.
+Pertemuannya tanggal 20 Oktober.
+Pertemuannya tanggal 5 Oktober.
+Pertemuannya hari Sabtu.
+Pertemuannya tanggal 10 September.
+Pertemuannya tanggal 20 September.
+Pertemuannya tanggal 5 September.
+Pertemuannya hari Minggu.
+Pertemuannya hari Kamis.
+Pertemuannya hari Selasa.
+Pertemuannya hari Rabu.
+Pertemuannya tanggal 15.
+Pertemuan adalah waktu yang sama setiap minggu.
+Pertemuannya sore ini.
+Pertemuannya hari ini.
+Pertemuannya besok sore.
+Pertemuannya besok pagi.
+Pertemuannya besok.
+Pertemuan berlangsung sepanjang pagi.
+Pertemuan berlangsung dua jam.
+Pertemuan dimulai dalam 30 menit.
+Pertemuannya kemarin.
+Pertemuannya tidak akan lewat jam 5 sore.
+Jadwal baru dimulai pada hari Senin.
+Liburan berikutnya adalah dalam tiga hari.
+Liburan berikutnya adalah dalam dua minggu.
+Ulasan selanjutnya adalah pada 1 Oktober 2025.
+Sesi berikutnya adalah dalam dua minggu.
+Kantor tutup jam 5 tepat.
+Kantor tutup jam 5 sore.
+Kantor tutup jam 6 sore.
+Kantor tutup jam lima.
+Kantor ini juga ditutup pada 1 Januari 2026.
+Kantor ini ditutup pada tanggal 25 Desember 2025.
+Kantor ditutup pada hari Minggu.
+Kantornya buka sekarang.
+Kantor buka jam 8 pagi.
+Kantor buka jam 9 pagi.
+Kantor buka jam 9 pagi.
+Kantor buka jam sembilan.
+Kantor akan dibuka kembali bulan depan.
+Paketnya tiba pagi ini.
+Paket datang lebih awal hari ini.
+Paket harus tiba hari ini.
+Paket akan tiba pada 4 Maret 2025.
+Pembayaran tiba tepat waktu.
+Pembayaran jatuh tempo setiap awal bulan.
+Pembayaran jatuh tempo Jumat depan.
+Pembayarannya jatuh tempo bulan depan.
+Pembayarannya jatuh tempo hari ini.
+Pembayarannya jatuh tempo besok.
+Pembayaran akan diproses besok.
+Proyek ini berakhir pada Desember 2025.
+Proyek ini berakhir Jumat depan.
+Proyek ini berjalan selama tiga bulan.
+Proyek ini berjalan selama dua minggu.
+Proyek dimulai bulan depan.
+Proyek dimulai hari ini.
+Proyek ini akan berakhir pada bulan Desember.
+Kuartal berakhir hari ini.
+Pendaftaran ditutup pada siang hari.
+Sewa jatuh tempo pada yang pertama.
+Sewa jatuh tempo hari ini.
+Sewa terlambat dua hari.
+Sewa dibayar pada setiap bulan pertama.
+Laporan ini jatuh tempo pada jam 1 siang pada hari Jumat.
+Laporan jatuh tempo pada pukul 2 siang pada hari Jumat.
+Laporan ini jatuh tempo pada pukul 3 sore pada hari Jumat.
+Laporan jatuh tempo pada jam 4 sore pada hari Jumat.
+Laporan jatuh tempo pada pukul 5 sore pada hari Jumat.
+Laporan ini jatuh tempo pada akhir hari.
+Laporannya jatuh tempo sebelum tengah hari.
+Laporannya jatuh tempo jam 5 sore.
+Laporannya minggu depan.
+Laporan ini jatuh tempo pada tanggal 10 April.
+Laporan ini jatuh tempo pada tanggal 20 April.
+Laporan ini jatuh tempo pada tanggal 5 April.
+Laporannya jatuh tempo pada 10 Agustus.
+Laporannya jatuh tempo pada 20 Agustus.
+Laporannya jatuh tempo pada 5 Agustus.
+Laporan ini jatuh tempo pada tanggal 5 Desember.
+Laporan ini jatuh tempo pada 10 Februari.
+Laporan ini jatuh tempo pada 20 Februari.
+Laporan ini jatuh tempo pada 5 Februari.
+Laporan ini jatuh tempo pada 10 Januari.
+Laporan ini jatuh tempo pada 20 Januari.
+Laporan ini jatuh tempo pada 5 Januari.
+Laporan ini jatuh tempo pada tanggal 10 Juli.
+Laporannya jatuh tempo pada 20 Juli.
+Laporannya jatuh tempo pada 5 Juli.
+Laporannya jatuh tempo pada 10 Juni.
+Laporannya jatuh tempo pada 20 Juni.
+Laporannya jatuh tempo pada 5 Juni.
+Laporannya jatuh tempo pada 10 Maret.
+Laporannya jatuh tempo pada 20 Maret.
+Laporannya jatuh tempo pada 5 Maret.
+Laporannya jatuh tempo pada 10 Mei.
+The report is due on May 20.
+Laporannya jatuh tempo pada 5 Mei.
+Laporan ini jatuh tempo pada tanggal 10 November.
+Laporan ini jatuh tempo pada tanggal 20 November.
+Laporan ini jatuh tempo pada tanggal 5 November.
+Laporan ini jatuh tempo pada tanggal 10 Oktober.
+Laporan ini jatuh tempo pada 20 Oktober.
+Laporan ini jatuh tempo pada 5 Oktober.
+Laporan ini jatuh tempo pada 10 September.
+Laporan ini jatuh tempo pada 20 September.
+Laporan ini jatuh tempo pada 5 September.
+Laporan jatuh tempo Jumat ini.
+Jadwalnya penuh minggu ini.
+Seminar dimulai pukul 10 pagi.
+Layanan hanya tersedia pada hari kerja.
+Sesi dimulai pada siang hari.
+Shift dimulai pukul delapan.
+Shift berakhir jam empat.
+Toko tutup pada hari Minggu pukul 6 sore.
+Tokonya buka jam 8 pagi pada hari kerja.
+Pertunjukan dimulai dalam beberapa menit.
+Pertunjukan dimulai pukul tujuh malam ini.
+Pertunjukan dimulai 10 menit lagi.
+Toko tutup pada hari Minggu pukul 6 sore.
+Toko tutup jam 8 malam.
+Toko tutup pada jam 8 malam pada hari kerja.
+Toko tutup jam 8 malam.
+Toko tutup pukul delapan malam.
+Toko tutup dalam 20 menit.
+Toko ditutup hari ini.
+Toko ini buka sepanjang hari.
+Toko ini buka sepanjang akhir pekan.
+Toko ini buka sampai jam 9 malam.
+Toko buka jam 10 pagi setiap hari.
+Toko buka jam 10 pagi.
+Toko ini buka pada pukul 9 pagi pada hari kerja.
+Toko buka jam 9 pagi.
+Toko buka jam delapan pagi.
+Toko akan buka lagi besok.
+Matahari terbit di akhir musim dingin.
+Matahari terbenam lebih awal hari ini.
+Pembaruan sistem tengah malam.
+Pembaruan sistem malam ini.
+Sistemnya mati tadi malam.
+Sistem akan dimulai kembali pukul 4 sore.
+Tugas ini memakan waktu sekitar satu jam.
+Tiket berlaku selama 24 jam.
+Waktunya jam 9 pagi.
+Waktu sekarang adalah 1130 pagi.
+Sekarang jam 3 sore.
+Waktu sekarang adalah 645 pm.
+Sekarang jam 9 pagi.
+Keretanya tiba jam 5 sore.
+Kereta tiba pada siang hari.
+Keretanya berangkat jam 730 pagi.
+Keretanya berangkat jam 7 pagi.
+Keretanya berangkat jam 6 pagi.
+Keretanya berangkat setengah jam lagi.
+Keretanya berangkat besok pagi.
+Liburan musim dingin dimulai pada 20 Desember 2025.
+Workshop adalah sepanjang hari ini.
+Workshop Selasa depan.
+Workshopnya bulan depan.
+Workshopnya sore ini.
+Workshop berlangsung dari 3 Mei hingga 5 Mei.
+Tahun dimulai empat bulan yang lalu.
+Tahun berakhir bulan depan.
+Ini adalah pertemuan satu jam.
+Penawaran ini berakhir pada akhir bulan.
+Rencana ini untuk bulan depan.
+Rencana ini untuk besok.
+Tugas ini sudah terlambat.
+Tugas ini akan memakan waktu sepanjang pagi.
+Tugas ini akan memakan waktu satu jam.
+Minggu ini sangat sibuk bagiku.
+Minggu ini sangat sibuk.
+Ini akan memakan waktu 10 menit.
+Ini akan memakan waktu 30 menit.
+Ini akan memakan waktu 5 menit.
+Ini akan memakan waktu sekitar satu jam.
+Ini akan memakan waktu seharian.
+Hari ini 13 April 2025.
+Hari ini tanggal 5 April.
+Hari ini 13 Agustus 2025.
+Hari ini tanggal 5 Agustus.
+Hari ini 13 Desember 2025.
+Hari ini 13 Februari 2025.
+Hari ini tanggal 5 Februari.
+Hari ini hari Jumat.
+Hari ini 13 Januari 2025.
+Hari ini tanggal 5 Januari.
+Hari ini 13 Juli 2025.
+Hari ini tanggal 5 Juli.
+Hari ini 13 Juni 2025.
+Hari ini tanggal 5 Juni.
+Hari ini 13 Maret 2025.
+Hari ini tanggal 5 Maret.
+Hari ini 13 Mei 2025.
+Hari ini 13 Mei.
+Hari ini tanggal 5 Mei.
+Hari ini hari Senin.
+Hari ini tanggal 1 November 2025.
+Hari ini tanggal 13 November 2025.
+Hari ini 13 Oktober 2025.
+Hari ini tanggal 5 Oktober.
+Hari ini hari Sabtu.
+Hari ini 13 September 2025.
+Hari ini tanggal 5 September.
+Hari ini hari Minggu.
+Hari ini Kamis.
+Hari ini Selasa.
+Hari ini Rabu.
+Hari ini adalah hari yang sibuk.
+Hari ini adalah hari libur.
+Hari ini adalah hari libur umum.
+Hari ini adalah hari pertama bulan Juni.
+Hari ini adalah hari pertama dalam sebulan.
+Hari ini adalah hari pertama kuartal.
+Hari ini adalah hari kerja pertama dalam seminggu.
+Hari ini adalah hari terakhir dalam sebulan.
+Hari ini adalah hari terakhir untuk diterapkan.
+Hari ini adalah hari terakhir.
+Hari ini adalah hari kerja terakhir.
+Besok adalah hari Jumat.
+Besok adalah hari Senin.
+Besok adalah hari Sabtu.
+Besok adalah hari Minggu.
+Besok adalah Kamis.
+Besok adalah Selasa.
+Besok adalah hari Rabu.
+Besok adalah hari yang sibuk.
+Besok adalah hari libur.
+Besok sudah tanggal 10.
+Besok adalah hari liburku.
+Besok tanggal 14.
+Besok adalah tenggat waktu untuk formulir.
+Besok adalah pertemuan dengan klien.
+Kami mengumumkan tanggalnya minggu lalu.
+Kita lebih cepat dari jadwal.
+Kami berada di belakang jadwal.
+Kami tutup lebih awal hari ini.
+Kita akan bertemu Jumat malam ini.
+Kita akan bertemu malam ini.
+Kami berangkat pada tanggal 25 Desember.
+Jadwal kita padat minggu ini.
+Kita tepat waktu.
+Kami masih untuk malam ini.
+Kami bepergian pada bulan Juli tahun ini.
+Kami tiba tepat waktu.
+Kita bisa bertemu setelah makan siang hari ini.
+Kita tidak ada kelas hari ini.
+Kami menyelesaikan tugas lebih awal hari ini.
+Kami memiliki tenggat waktu pada 5 Juni 2025.
+Kita ada pertemuan jam 11 pagi.
+Kita ada pertemuan jam 2 siang.
+Kami mengadakan pertemuan setiap hari Senin.
+Kami mengadakan pertemuan pada hari Senin pertama setiap bulan.
+Kami memiliki acara pada bulan Juli 2026.
+Kita ada kelas jam 9 pagi.
+Kami ada kelas setiap Selasa pagi.
+Kami memiliki kelas pada hari Selasa dan Kamis.
+Kita ada kelas minggu ini.
+Kami tidak ada pertemuan Senin depan.
+Waktu kita tinggal dua jam lagi.
+Kami bertemu setiap Selasa pukul 6 sore.
+Kami bertemu di sini setiap hari pukul 7 malam.
+We met on May 20 2025.
+Kita harus memutuskan hari ini.
+Kami berencana untuk bertemu setiap bulan.
+Kami tinggal di sana sepanjang hari.
+Kami akan merayakan peluncuran Sabtu ini.
+Kita akan bertemu lagi minggu depan.
+Kami akan buka 10 menit lagi.
+Kami akan merilis update Jumat depan.
+Kami akan merilis pembaruan besok.
+Kami akan meninjau rencana Selasa depan.
+Kita akan mulai setelah makan siang.
+Kita akan mulai jam 9 tepat.
+Kita akan mulai pada siang hari.
+Kita akan mulai dalam 5 menit.
+Kita akan mulai minggu depan.
+Kita akan mulai tepat waktu hari ini.
+Kita akan mulai tepat waktu.
+Kita akan mulai besok.
+Kita akan bekerja sampai jam 6 sore.
+Hari apa ini?
+Besok hari apa?
+Hari apa batas waktunya?
+Hari apa ujiannya?
+Hari apa yang terbaik untukmu?
+Kapan waktu pertemuan kita lagi?
+Tanggal berapa hari ini di Ottawa?
+Tanggal berapa hari ini?
+Tanggal berapa besok di Ottawa?
+Tanggal berapa besok?
+Berapa batas waktu untuk tugas ini?
+Apa jadwal untuk minggu ini?
+Apa jadwal untuk hari ini?
+Tanggal berapa hari ini?
+Jam berapa kau tiba hari ini?
+Jam berapa kau pergi kemarin?
+Jam berapa kita mulai?
+Jam berapa kita selesai?
+Jam berapa kita mulai?
+Jam berapa kau tutup?
+Jam berapa kau selesai bekerja hari ini?
+Jam berapa kau bangun di hari kerja?
+Jam berapa kau membutuhkannya?
+Jam berapa kau buka?
+Jam berapa biasanya kau makan siang?
+Jam berapa kau bangun di hari kerja?
+Jam berapa tutup pada hari Minggu?
+Jam berapa ini dibuka pada hari Minggu?
+Jam berapa bank buka hari ini?
+Jam berapa toko tutup hari ini?
+Jam berapa tokonya tutup?
+Jam berapa tokonya buka?
+Jam berapa kereta berangkat hari ini?
+Jam berapa shiftmu berakhir?
+Jam berapa shiftmu dimulai?
+Jam berapa check in?
+Jam berapa check out?
+Jam berapa sekarang?
+Jam berapa sekarang?
+Jam berapa pertemuan hari ini?
+Jam berapa pertemuannya?
+Jam berapa penerbanganmu tanggal 20?
+Jam berapa penerbanganmu?
+Jam berapa aku harus berada di sana?
+Jam berapa yang terbaik untukmu?
+Jam berapa kau bekerja hari ini?
+Zona waktu apa yang kita gunakan?
+Kapan kau ada waktu minggu ini?
+Kapan kau berangkat ke Ottawa?
+Kapan kau berangkat hari Selasa?
+Kapan kita bisa melakukan panggilan cepat?
+Kapan kau bisa bertemu akhir pekan ini?
+Kapan kau bisa mengirim laporannya?
+Kapan aku harus mengirimnya?
+Kapan aku harus menyerahkannya?
+Kapan kita selesai?
+Kapan kita mulai?
+Kapan kau selesai bekerja hari ini?
+Kapan kau butuh laporannya?
+Kapan tutupnya?
+Kapan ini berakhir?
+Kapan itu dibuka?
+Kapan itu dimulai hari ini?
+Kapan itu dimulai?
+Kapan istirahat dimulai?
+Kapan kelas berakhir?
+Kapan kelas selesai hari ini?
+Kapan kelas dimulai?
+Kapan acaranya berakhir?
+Kapan acaranya dimulai?
+Kapan perpustakaan tutup hari ini?
+Kapan istilah baru dimulai?
+Kapan kantor tutup?
+Kapan kantornya buka?
+Kapan toko tutup hari ini?
+Kapan tokonya buka?
+Kapan batas waktu untuk tugas ini?
+Kapan batas waktunya bulan ini?
+Kapan batas waktunya?
+Kapan ujiannya?
+Kapan wawancaranya?
+Kapan peluncurannya?
+Kapan pertemuan bulan ini?
+Kapan pertemuannya?
+Kapan bus berikutnya?
+Kapan kelas berikutnya?
+Kapan liburan berikutnya?
+Kapan pertemuan berikutnya?
+Kapan sesi berikutnya?
+Kapan kereta berikutnya?
+Kapan pembayarannya jatuh tempo?
+Kapan presentasinya hari Jumat?
+Kapan sewa jatuh tempo?
+Kapan ulang tahunmu?
+Kapan penerbanganmu hari Senin?
+Kapan penerbanganmu?
+Kapan hari liburmu berikutnya?
+Kapan visa-mu habis?
+Kapan bus akan tiba?
+Kapan paketnya tiba?
+Kapan keretanya berangkat?
+Hari apa wawancaranya?
+Hari apa pembebasannya?
+Hari apa pertemuan peninjauannya?
+Apa aku akan mendapatkan hasilnya hari ini?
+Apakah itu akan dilakukan pada akhir pekan?
+Apakah akan siap jam 5 sore hari ini?
+Apakah akan siap pada siang hari?
+Apakah besok sudah siap?
+Apakah akan siap malam ini?
+Apakah akan siap dalam satu jam?
+Apakah akan selesai sebelum jam 8 malam?
+Apakah akan dimulai setelah makan siang?
+Apakah akan dimulai pukul sembilan?
+Apakah akan dimulai pada siang hari?
+Apakah akan dimulai pukul sepuluh?
+Apakah akan dimulai dalam 30 menit?
+Apakah akan dimulai tepat waktu?
+Apakah akan dimulai malam ini?
+Apakah akan memakan waktu kurang dari satu jam?
+Apakah akan memakan waktu lebih dari satu jam?
+Apakah pengiriman tiba hari ini?
+Will the meeting go past 5 pm?
+Apakah pertemuan akan berlangsung sepanjang pagi?
+Apakah paket akan tiba minggu ini?
+Apakah paketnya akan tiba hari ini?
+Apa paketnya akan tiba besok?
+Apakah paket datang sebelum hari Jumat?
+Apakah pembaruan akan memakan waktu lama?
+Apakah besok pagi akan bekerja untuk Anda?
+Kau akan tiba sebelum jam 2 siang?
+Apakah Anda akan sibuk sepanjang pagi?
+Apakah Anda akan sibuk pada Sabtu malam?
+Apa kau akan bebas setelah jam 5 sore?
+Apa kau akan bebas jam empat?
+Apa kau akan bebas jam tiga?
+Apakah Anda akan bebas dalam satu jam ke depan?
+Apakah Anda akan bebas minggu depan?
+Apakah Anda akan bebas pada hari Sabtu?
+Apakah Anda akan bebas akhir pekan ini?
+Apakah Anda akan bebas malam ini?
+Apakah Anda berada di sini pukul 6 sore?
+Apakah Anda berada di sini pukul 8 pagi?
+Apakah Anda berada di sini pada siang hari?
+Apakah Anda berada di sini oleh 7:00?
+Kau akan online jam 7 pagi?
+Maukah kau menyelesaikannya malam ini?
+Maukah kau menyelesaikannya minggu ini?
+Maukah kau menyelesaikannya hari ini?
+Maukah kau mengirimkannya malam ini?
+Apakah Anda akan mengirim file hari ini?
+Apakah Anda akan melakukan perjalanan di awal Desember?
+Musim dingin dimulai pada bulan Desember.
+Apakah besok sore bekerja?
+Apakah besok malam akan baik-baik saja?
+Apakah besok pagi akan lebih baik?
+Apakah besok pagi bekerja?
+Kau lebih suka jam 10 pagi atau jam 2 siang?
+Apakah Anda lebih suka Senin atau Selasa?
+Kemarin tanggal 12 April 2025.
+Kemarin tanggal 12 Agustus 2025.
+Kemarin tanggal 12 Desember 2025.
+Kemarin tanggal 12 Februari 2025.
+Kemarin tanggal 12 Januari 2025.
+Kemarin tanggal 12 Juli 2025.
+Kemarin tanggal 12 Juni 2025.
+Kemarin tanggal 12 Maret 2025.
+Kemarin tanggal 12 Mei 2025.
+Kemarin tanggal 12 Mei.
+Kemarin tanggal 12 November 2025.
+Kemarin tanggal 12 Oktober 2025.
+Kemarin adalah 31 Oktober.
+Kemarin tanggal 12 September 2025.
+Kemarin adalah hari Minggu.
+Kemarin adalah hari libur.
+Kemarin benar-benar sibuk.
+Kemarin sangat panjang.
+Pesanan Anda akan tiba hari ini.

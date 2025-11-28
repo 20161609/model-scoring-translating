@@ -1,0 +1,1665 @@
+Thiết lập xác thực hai yếu tố.
+Vui lòng yêu cầu phê duyệt lần thứ hai.
+Nhóm kiểm toán đã yêu cầu dữ liệu gì?
+Nhóm phát triển có cung cấp một dòng thời gian ước tính không?
+Tổ phát triển có hiểu yêu cầu này không?
+Nhóm phát triển sẽ phát hành nó trong tuần này.
+Nhóm phát triển có thể triển khai nó trong tuần này không?
+Nhóm phát triển có thể làm việc vào cuối tuần không?
+Tổ phát triển có cần thêm dữ liệu nào không?
+Vui lòng nộp tiền thanh toán sau khi đánh giá xong.
+Vui lòng gửi lại bản báo giá.
+Hãy gửi cho chúng tôi một bản báo giá.
+Hãy báo cáo kết quả.
+Vui lòng kiểm tra lại đường dây phê duyệt.
+Đừng quên đính kèm tệp đính kèm khi đệ trình phê duyệt của bạn.
+Vui lòng hợp nhất các tệp bạn cần tải lên để phê duyệt thành một tệp duy nhất.
+Vui lòng chấp thuận thanh toán.
+Vui lòng chấp thuận điều này.
+Vui lòng gửi sự chấp thuận của bạn.
+Vui lòng kiểm tra ngày hết hạn hợp đồng.
+Vui lòng gửi cho tôi các điều khoản hợp đồng qua email.
+Vui lòng chia sẻ hợp đồng gốc bằng cách quét nó.
+Vui lòng xem lại hợp đồng một lần nữa.
+Vui lòng in hợp đồng.
+Vui lòng in hợp đồng và mang nó đến cho bạn.
+Vui lòng khôi phục quyền truy cập tài khoản của bạn.
+Tạo một tài khoản.
+Vui lòng in ra lịch trình và mang đến cuộc họp.
+Trả lời email khách hàng ngay lập tức.
+Đừng bỏ lỡ các câu hỏi của khách hàng.
+Vui lòng xử lý các yêu cầu của khách hàng càng sớm càng tốt.
+Vui lòng lưu phản hồi của khách hàng.
+Vui lòng sắp xếp phản hồi của khách hàng.
+Vui lòng gọi lại cho đại diện khách hàng.
+Công ty khách hàng bày tỏ mong muốn xem lại các điều khoản SLA.
+Vui lòng gửi email xin lỗi đến khách hàng.
+Vui lòng liên lạc với khách hàng.
+Khách hàng muốn thương lượng lại giá cả.
+Vui lòng gửi phản hồi đến khách hàng ngay lập tức.
+Vui lòng để lại hồ sơ cuộc gọi cho khách hàng.
+Đừng quên tải nó lên ổ đĩa dùng chung.
+Đảm bảo đặt liên kết chia sẻ hết hạn.
+Các bạn hãy xem thông báo nhé.
+Liệu ban quản lý có chấp thuận ngân sách đó không?
+Nhóm giáo dục đã tiến hành khảo sát mức độ hài lòng chưa?
+Vui lòng hoàn thành hồ sơ xin học của bạn.
+Vui lòng nộp hồ sơ đào tạo đã hoàn thành.
+Vui lòng kiểm tra các quy định.
+Đội có biết về những thay đổi của chúng ta không?
+Nhóm có kế hoạch hỗ trợ tính năng này không?
+Nhóm có thể tiến hành lịch trình này không?
+Đội có thể gửi dữ liệu đến hôm nay không?
+Đội có mở cửa để điều chỉnh thời gian họp không?
+Nhóm hỗ trợ kỹ thuật đã đồng ý cung cấp câu trả lời vào cuối ngày hôm nay.
+Nhóm kỹ thuật đề xuất rút ngắn thời gian lưu giữ nhật ký.
+Nhóm kỹ thuật thông báo rằng họ sẽ khởi động lại máy chủ vào sáng sớm nay.
+Vui lòng nộp dự thảo tài liệu.
+Nếu là trường hợp khẩn cấp, vui lòng cho tôi biết qua điện thoại.
+Quản lý Kim có nhận được phản hồi từ khách hàng không?
+Trưởng bộ phận Kim có thể cắt giảm ngân sách không?
+Trưởng phòng Kim có thể giúp nhóm chúng tôi một tay không?
+Giám đốc Kim có tóm tắt cho các giám đốc điều hành về đề xuất này không?
+Ông Kim đã thay đổi lịch thi chưa?
+Trưởng phòng Kim có suy nghĩ hay ý kiến gì khác không?
+Trưởng phòng Kim có tham dự cuộc họp hôm nay không?
+Ông sẽ gửi đề xuất của chúng tôi cho khách hàng chứ, ông Kim?
+Trưởng phòng Kim có biết về chương trình nghị sự này không?
+Trưởng phòng Kim có đồng ý với lịch trình này không?
+Ông Kim đã kết thúc cuộc gọi với khách hàng chưa?
+Kim Dae-ri có liên lạc lại với khách hàng không?
+Tôi sẽ liên lạc với bộ phận liên quan trước.
+Kim Dae-ri sẽ gửi câu trả lời cho email ngay lập tức.
+Kim Dae-ri đã sao chép lỗi từ hôm qua.
+Kim Dae-ri có nhớ chi tiết cuộc họp ngày hôm qua không?
+Kim Dae-ri đã hoàn thành biên bản cuộc họp từ hôm qua.
+Kim Dae-ri sẽ hoàn tất ước tính vào cuối ngày hôm nay.
+Kim Dae-ri sẽ làm việc muộn tối nay.
+Kim Dae-ri sẽ đưa chi phí này vào ngân sách.
+Ông Kim đã xem xét mục chương trình nghị sự này chưa?
+Tôi sẽ chia sẻ vấn đề này với nhóm phát triển.
+Ông lưu dữ liệu này ở đâu, ông Kim?
+Ông Kim dự kiến sẽ đi công tác trong tuần này.
+Giám đốc Kim sẽ hoàn thành tài liệu bàn giao vào cuối ngày hôm nay.
+Quản lý Kim đã biên soạn và tải lên dữ liệu.
+Bây giờ quản lý Kim có thể vào phòng họp được không?
+Tôi sẽ nộp báo cáo chiều nay.
+Tôi đã lên kế hoạch mọi thứ cho tuần này.
+Tôi có thể viết khóa API của tôi ở đây không?
+Tôi đã báo cáo với trưởng nhóm về kết quả QA sáng nay.
+Tôi sẽ chia sẻ kết quả QA với đội ngũ sản phẩm.
+Tôi tin rằng sự hợp tác của các bộ phận là rất quan trọng.
+Tôi sẽ xem lại hướng dẫn phát triển và để lại suy nghĩ của mình về nó.
+Tôi sẽ sửa lại bản báo giá và gửi lại cho bạn.
+Tôi không bằng lòng với ước tính đã sửa đổi.
+Tôi cũng đã chuẩn bị một trích dẫn bằng tiếng Anh.
+Tôi sẽ cho anh biết ngay khi có kết quả.
+Tôi sẽ báo cáo trực tiếp kết quả cho trưởng nhóm.
+Tôi đã nộp đơn xin vắng mặt sáng nay.
+Tôi đã nộp các tài liệu để phê duyệt.
+Tôi sẽ tiến lên ngay khi được chấp thuận.
+Tôi có thể thêm một dòng phê duyệt không?
+Tôi sẽ chuẩn bị tài liệu tóm tắt.
+Tôi sẽ in hợp đồng và ký vào đó.
+Tôi sẽ biên dịch dữ liệu CS của khách hàng.
+Tôi đã tóm tắt tất cả các câu hỏi được đưa ra trong cuộc họp khách hàng.
+Tôi sẽ tóm tắt những lo lắng của khách hàng và gửi chúng đến.
+Tôi đã soạn thảo một câu trả lời cho khiếu nại của khách hàng.
+Tôi sẽ phát triển kế hoạch giảm thiểu khiếu nại của khách hàng.
+Tôi đã xác định được nguyên nhân tiềm ẩn của những khiếu nại của khách hàng.
+Tôi sẽ tóm tắt các yêu cầu của khách hàng và chuyển chúng cho họ.
+Tôi có thể chấp nhận một phần yêu cầu của khách hàng không?
+Tôi sẽ tạo lại hướng dẫn sử dụng dịch vụ khách hàng.
+Tôi sẽ chuẩn bị một bài thuyết trình cho khách hàng của chúng ta.
+Tôi sẽ biên soạn phản hồi của khách hàng và chuyển cho đội ngũ phát triển.
+Tôi đã xác nhận rằng đại diện khách hàng đã được thay thế.
+Sáng nay tôi đã liên lạc với tất cả khách hàng.
+Tôi đã đăng phản hồi của khách hàng lên Concept.
+Tôi đã gửi một email xin lỗi đến khách hàng.
+Tôi đã hứa với khách hàng rằng tôi sẽ trả lại cho họ vào cuối ngày.
+Tôi sẽ tóm tắt những điểm chính mà khách hàng đang tìm kiếm và gửi qua cho họ.
+Tôi nhận thấy khách hàng cứ hỏi đi hỏi lại một câu.
+Tôi sẽ xác minh các giấy phép liên quan và thông báo cho bạn.
+Tôi đã đặt nó vào chế độ quản trị.
+Mình sẽ up video huấn luyện lên mạng nội bộ công ty.
+Tôi không rảnh vào buổi chiều do lịch trình đào tạo của tôi.
+Tôi sẽ phối hợp lịch huấn luyện với đội nhân sự.
+Tôi sẽ in tài liệu giáo dục cho bạn.
+Tôi muốn tìm hiểu thêm về hệ thống hỗ trợ giáo dục.
+Tôi chỉ sẵn sàng cho các cuộc họp vào chiều thứ Sáu.
+Tôi sẽ lo nhiệm vụ khẩn cấp trước.
+Tôi đã để dành những vé khẩn cấp cần được xử lý ngay lập tức.
+Tôi sẽ thống nhất mục tiêu cá nhân của mình với mục tiêu của đội.
+Tôi muốn đảm nhận một vai trò quan trọng hơn.
+Sáng mai tôi sẽ quay một đoạn phim thử nghiệm.
+Tôi có một cuộc họp với đội tài chính dự kiến vào ngày mai.
+Tôi e rằng ngày mai tôi sẽ đi làm muộn một chút.
+Tôi sẽ tạo thêm hai khái niệm thiết kế vào ngày mai.
+Tôi sẽ nộp mẫu đánh giá phỏng vấn vào ngày mai.
+Tôi sẽ cập nhật tình hình theo thời gian thực.
+Tôi muốn xem qua phần mà anh chịu trách nhiệm trước.
+Tôi sẽ chỉnh sửa báo cáo của anh một chút.
+Tôi đã hoàn tất việc xem xét mã số mà anh đã viết.
+Sau khi nghe ý kiến của các bộ phận khác, tôi sẽ đưa ra quyết định.
+Tôi có thể tham gia với đội kia không?
+Tôi sẽ soạn dự thảo ngân sách cho tháng tới.
+Tôi sẽ chuẩn bị chương trình nghị sự cho cuộc họp tiếp theo của chúng ta.
+Tôi hiện đang nghiên cứu các tài liệu thuyết trình tiếp theo.
+Mình sẽ viết bản phát hành cho phiên bản tiếp theo.
+Tôi sẽ ghi lại mục tiêu của mình cho quý tới.
+Tôi muốn đặt mục tiêu cho quý tới trước.
+Tôi đã lên kế hoạch nhân sự cho quý tới.
+Tôi muốn thêm tính năng này vào lần chạy nước rút tiếp theo.
+Tôi sẽ cập nhật lịch trình cho tuần tới.
+Tôi muốn phỏng vấn một lần nữa vào tuần tới.
+Tôi muốn nghỉ một ngày vào tuần tới.
+Tôi có thể lấy kỳ nghỉ hàng năm của tôi vào tuần tới không?
+Tôi muốn xem xét lại vấn đề này trong cuộc họp tiếp theo của chúng ta.
+Tôi có thể làm bản demo vào sáng mai không?
+Tôi sẽ xem lại khái niệm thiết kế khi tôi nhận được nó.
+Tôi đã tải các tập tin thiết kế lên ổ đĩa dùng chung.
+Tôi có nên kiểm tra với đội thiết kế trước không?
+Tôi có thể chia sẻ tệp nhật ký với bạn không?
+Tôi đã kiểm tra nhật ký và xác định nguyên nhân.
+Tôi có thể về sớm một chút được không?
+Tôi có thể gửi trực tiếp qua tin nhắn không?
+Tôi có thể thêm CEO vào tham khảo trong email không?
+Tôi sẽ xem lại quá trình phỏng vấn của người được phỏng vấn.
+Tôi chắc chắn sẽ nhấn mạnh kinh nghiệm dự án của mình trong cuộc phỏng vấn.
+Tôi sẽ chuẩn hóa bảng câu hỏi phỏng vấn.
+Tôi sẽ cung cấp một bản phân tích số liệu về thành tích của chúng ta so với mục tiêu của chúng ta.
+Tôi sẽ đơn giản hóa cấu trúc tài liệu.
+Tôi sẽ chuẩn hóa mẫu tài liệu và cung cấp cho nó để chia sẻ.
+Tôi đã chuẩn hóa mẫu tài liệu cho phù hợp với định dạng thống nhất của công ty chúng tôi.
+Tôi đã xem lại đoạn mã có vấn đề.
+Tôi có nên gửi email xin lỗi cho khách hàng ngay lập tức không?
+Tôi vừa nhận được một cuộc gọi khiếu nại từ một khách hàng.
+Tôi vừa kiểm tra nhật ký hệ thống.
+Tôi sẽ dời lịch triển khai sang sáng mai.
+Tôi sẽ xem lại danh sách kiểm tra trước khi triển khai.
+Tôi sẽ đảm bảo sao lưu các tập tin của tôi trước khi triển khai chúng.
+Tôi sẽ theo dõi những vấn đề phát sinh sau khi triển khai.
+Tôi sẽ lưu trữ các tệp sao lưu ở một vị trí lưu trữ bên ngoài.
+Tôi đã đăng danh sách các lỗi lên thiết bị theo dõi vấn đề.
+Tôi cũng đã đưa nội dung phỏng vấn vào báo cáo.
+Tôi sẽ so sánh lịch trình trên bảng với lịch trình thực tế.
+Tôi sẽ xem lại hướng dẫn an ninh lần nữa.
+Tôi đã đọc lại các quy định an ninh và ký tên vào đó.
+Tôi chắc chắn sẽ tóm tắt cho đội của tôi về các hướng dẫn an ninh.
+Tôi sẽ giải quyết vấn đề giữa các sở.
+Tôi sẽ kiểm tra lại tình hình ngân sách của bộ phận.
+Tôi sẽ phân tích các lý do đằng sau việc tăng chi phí.
+Tôi có thể thiết lập chi phí ở mức này không?
+Tôi có thể làm lại tòa nhà bây giờ không?
+Tôi cũng muốn tạo tài liệu đào tạo nội bộ bằng tiếng Anh.
+Tôi đã kiểm tra bảng tin nội bộ của công ty.
+Tôi sẽ vui vẻ tóm tắt lịch trình sự kiện của công ty cho bạn.
+Tôi đã xác định được một số lĩnh vực có thể gây khó hiểu cho người dùng.
+Tôi có thể tạo một tài khoản khác không?
+Tôi đã bắt đầu làm việc với một đồng nghiệp nước ngoài mới.
+Tôi sẽ chỉ dẫn cho thực tập sinh mới về nhiệm vụ này.
+Tôi sẽ bàn giao trách nhiệm cho nhân viên mới.
+Tôi đã cài đặt phiên bản mới nhất của ứng dụng.
+Tôi có thể nộp chữ ký vào buổi chiều không?
+Tôi đã đăng lịch bảo trì máy chủ.
+Tôi sẽ thông báo lại lịch bảo trì máy chủ.
+Tôi sẽ cập nhật bảng điều khiển với các chỉ số hiệu suất.
+Tôi đã giải thích các tiêu chí đánh giá hiệu suất cho các thành viên trong nhóm.
+Tôi đã tạo một tài khoản kiểm tra và chia sẻ nó.
+Tôi cũng sẽ viết sách hướng dẫn tính năng mới bằng tiếng Anh.
+Tôi đã viết một mô tả về tính năng mới trên wiki.
+Tôi sẽ cập nhật tài liệu đào tạo cho nhân viên mới.
+Tôi sẽ lập danh sách nhân viên mới trên tàu.
+Tôi sẽ giải thích hệ thống cho nhân viên mới.
+Tôi sẽ xem xét đề xuất cho dự án mới.
+Tôi sẽ tóm tắt lại những câu hỏi tôi đã chuẩn bị cho cuộc phỏng vấn nhà phát triển mới.
+Tôi sẽ không bao giờ phạm sai lầm tương tự nữa.
+Tôi đã không nhận được phản hồi về email tôi gửi sáng nay.
+Tôi đã sửa đổi tệp Excel mà bạn yêu cầu ngày hôm qua.
+Tôi đã đặt yêu cầu ngày hôm qua lên bếp ga.
+Tôi vẫn chưa mở tập tin tôi nhận được hôm qua.
+Tôi đã cấp đặc quyền cho hệ thống ngày hôm qua.
+Hôm qua tôi đã nhận được thông báo kiểm tra hệ thống.
+Tôi sẽ sửa lỗi đã được yêu cầu ngày hôm qua.
+Tôi đã hoàn thành chữ ký bạn yêu cầu ngày hôm qua.
+Tôi đã kết hợp những thay đổi mà bạn yêu cầu ngày hôm qua.
+Tôi đã kết hợp những thay đổi mà bạn yêu cầu ngày hôm qua.
+Tôi vẫn chưa nhận được tập tin tôi yêu cầu ngày hôm qua.
+Tôi đã thực hiện tính năng mà chúng ta đã thảo luận ngày hôm qua.
+Tôi đã xử lý tất cả các yêu cầu được đưa ra tại cuộc họp ngày hôm qua.
+Tôi đã ghi lại lịch sử cập nhật trên GitHub.
+Tôi sẽ tạo ra một cuốn sách hướng dẫn làm việc song ngữ, cả tiếng Hàn và tiếng Anh.
+Tôi sẽ ở lại cho đến khi hoàn thành việc bàn giao trách nhiệm của mình.
+Tôi có thể mở tập tin ở đây không?
+Hiện tại tôi đang chuẩn bị cho một cuộc đàm phán về tiền lương.
+Tôi đã quét hóa đơn và tải lên.
+Tôi đã xem qua tất cả các yêu cầu từ đội ngũ bán hàng.
+Tôi cần xem lại kế hoạch ngân sách một lần nữa.
+Tôi sẽ tính lại ngân sách.
+Tôi đã đề cập đến đề xuất mà tôi đã viết trước đó.
+Hôm nay tôi sẽ ôn lại tài liệu giáo dục.
+Tôi đã xử lý tất cả các yêu cầu đến hôm nay.
+Tôi có thể dời thời hạn đến hôm nay không?
+Tôi có thể yêu cầu một cuộc họp với bạn hôm nay không?
+Sáng mai tôi sẽ hoàn thành nốt công việc dang dở.
+Tôi cần nộp báo cáo hôm nay.
+Tôi đã cập nhật tài liệu trên tàu cho các thành viên mới của đội hôm nay.
+Tôi đã xem xét tất cả các nội dung chương trình nghị sự của ngày hôm nay.
+Tôi sẽ lo liệu lịch trình cho ngày hôm nay.
+Tôi có thể rút ngắn chương trình nghị sự hôm nay không?
+Hôm nay tôi đã gửi hai email nhắc nhở.
+Tôi sẽ nộp yêu cầu phê duyệt vào cuối ngày hôm nay.
+Tôi sẽ đăng đường dây phê duyệt vào cuối ngày hôm nay.
+Tôi sẽ gửi lại hợp đồng vào cuối ngày hôm nay.
+Tôi có cần phải hoàn thành việc này trong hôm nay không?
+Tôi sẽ nộp báo cáo kết quả vào cuối ngày hôm nay.
+Tôi sẽ hoàn thành việc này, cho dù tối nay tôi phải làm việc muộn thế nào.
+Tôi có hai cuộc phỏng vấn cho chiều nay.
+Chiều nay tôi sẽ phân phát.
+Tôi đã sắp xếp tất cả các email tôi nhận được hôm nay.
+Hôm nay tôi đã tham dự một buổi huấn luyện trên tàu.
+Tôi sẽ hoàn thành danh sách kiểm tra lên máy bay hôm nay.
+Tôi sẽ ghi lại chi tiết bàn giao hôm nay.
+Hôm nay tôi đã nộp đơn xin làm việc từ xa.
+Hôm nay tôi có thể làm việc ở nhà không?
+Tôi sẽ gửi bản dự thảo SLA vào cuối ngày hôm nay.
+Tôi sẽ hoàn tất việc kiểm tra mã vào cuối ngày hôm nay.
+Hôm nay tôi đã gửi báo cáo đi làm hàng ngày của mình qua email.
+Tôi sẽ lo thủ tục giấy tờ trước khi đi hôm nay.
+Tôi có thể tóm tắt cuộc họp hôm nay và chia sẻ với bạn được không?
+Tôi đã xem lại chương trình nghị sự cho cuộc họp hôm nay.
+Tôi sẽ giải thích về chương trình nghị sự này tại cuộc họp hôm nay.
+Hôm nay mình cũng sẽ họp 1:1 với các thành viên trong nhóm.
+Hôm nay tôi rảnh.
+Tôi sẽ đặt phòng hội nghị vào buổi sáng.
+Tôi đã xử lý tất cả các yêu cầu tôi nhận được sáng nay.
+Tôi sẽ chuẩn bị cho cuộc họp vào sáng mai.
+Tôi sẽ không có mặt tại bàn làm việc của tôi sau 2 giờ chiều.
+Tôi có thể hủy lịch trình buổi chiều không?
+Tôi đã sắp xếp kế hoạch làm việc buổi chiều của tôi trên lịch.
+Tôi sẽ gọi cho khách hàng chiều nay.
+Tôi sẽ kiểm tra lại vào buổi chiều.
+Tôi đã có một buổi diễn tập cho buổi trình diễn buổi chiều trước đó.
+Tôi có thể sắp xếp cuộc gọi với khách hàng vào chiều nay không?
+Tôi cũng đã tạo ra một phiên bản tiếng Anh của danh sách kiểm tra lên máy bay.
+Tôi sẽ xem lại danh sách kiểm tra trên máy bay.
+Tôi đã tải dữ liệu hoàn chỉnh lên ổ đĩa.
+Tôi sẽ quay lại sau chuyến công tác và báo cáo lại cho bạn.
+Tôi không chắc là dịch vụ của chúng tôi có thể đáp ứng được lịch trình này hay không.
+Tôi sẽ rất vui lòng nêu bật những lợi ích của dịch vụ của chúng tôi đối với khách hàng của chúng tôi.
+Cái này chỉ có thể chia cho team chúng ta thôi à?
+Tôi sẽ ghi lại những rủi ro của đội chúng ta.
+Tôi muốn thể hiện thành quả của đội chúng tôi bằng con số.
+Tôi sẽ ưu tiên lại và chia sẻ với bạn.
+Tôi có thể điều chỉnh các ưu tiên của mình không?
+Tôi sẽ ưu tiên vấn đề này.
+Tôi cũng sẽ báo cho đội kế toán biết về việc này.
+Tôi có thể gia hạn hợp đồng này không?
+Tôi có nên gửi hợp đồng này đến hôm nay không?
+Tôi có thể chăm sóc khách hàng này không?
+Tôi có thể hoãn tính năng này sang phiên bản tiếp theo không?
+Tôi có thể gỡ bỏ tính năng này không?
+Theo quan điểm của một người dùng, tôi thấy tính năng này khá bất tiện.
+Tôi muốn biết thêm về lý do tại sao tính năng này cần thiết.
+Tôi có thể xác nhận thiết kế này không?
+Tôi có thể xóa tài liệu này không?
+Tôi cũng muốn đưa câu này vào tiếng Anh.
+Tôi cũng có nên dịch câu này sang tiếng Anh không?
+Tôi có thể chuyển vấn đề này cho nhóm phát triển không?
+Tôi đã đưa vấn đề này lên bộ phận liên quan.
+Tôi sẽ chuyển vấn đề này cho đội hỗ trợ kỹ thuật.
+Tôi sẽ thảo luận vấn đề này với đội kỹ thuật.
+Tôi sẽ thảo luận vấn đề này với các bộ phận khác.
+Tôi sẽ xem xét lại vấn đề này từ góc độ hệ thống.
+Tôi sẽ ưu tiên hàng đầu cho vấn đề này.
+Tôi muốn giải quyết vấn đề này như một đội.
+Tôi sẽ chuyển vấn đề này cho trưởng nhóm.
+Tôi sẽ giải thích sự thay đổi này cho khách hàng trước.
+Tôi có thể đăng thay đổi này lên bảng thông báo không?
+Tôi cũng sẽ dịch báo cáo này sang tiếng Anh.
+Tôi có thể viết báo cáo này như thế này không?
+Tôi sẽ xem lại phần này.
+Mình sẽ tóm tắt lại cho trưởng nhóm trước.
+Tôi có thể đơn giản hóa lời giải thích này một chút được không?
+Tôi có nên đặt lại cài đặt này về mặc định của nó không?
+Tôi sẽ kiểm tra lại xem số này có chính xác không.
+Tôi có thể làm tròn số này không?
+Tôi sẽ tóm tắt vấn đề này cho ban giám đốc vào ngày mai.
+Tôi có thể đưa điều này vào chương trình nghị sự cho cuộc họp tiếp theo không?
+Tôi sẽ chia sẻ mục chương trình nghị sự này tại cuộc họp buổi chiều của chúng ta.
+Tôi muốn biết nhiệm vụ này có phù hợp với trách nhiệm của tôi không.
+Tôi cảm thấy nhiệm vụ này nằm ngoài phạm vi của tôi.
+Tôi muốn chia sẻ nhiệm vụ này với các bạn.
+Tôi sẽ xem xét liệu chúng ta có thể tự động hóa nhiệm vụ này hay không.
+Tôi sẽ phân công lại người phụ trách nhiệm vụ này.
+Tôi sẽ điều chỉnh các ưu tiên cho nhiệm vụ này.
+Tôi chắc chắn sẽ ngăn chặn lỗi này xảy ra lần nữa.
+Tôi sẽ ghi lại các bước để tái tạo lỗi này.
+Tôi muốn kết thúc vấn đề này vào cuối ngày hôm nay.
+Tôi có nên báo cáo vấn đề này cho trưởng nhóm ngay không?
+Tôi có thể ủy quyền nhiệm vụ này cho một nhân viên mới không?
+Tôi muốn tận hưởng công việc của mình trong khi làm điều này.
+Tôi muốn xác nhận lịch trình này có khả thi hay không.
+Tôi sẽ đăng thông tin này lên wiki nội bộ của công ty.
+Tôi có thể chia sẻ thông tin này với cả đội không?
+Tôi có thể xóa trang này không?
+Tôi sẽ làm cho chính sách này được tất cả nhân viên biết đến.
+Tôi sẽ đệ trình đề xuất này để phê duyệt vào ngày mai.
+Tôi sẽ tải tập tin này lên ổ cứng của đội.
+Liệu tôi có thể làm theo đúng định dạng này không?
+Tôi muốn kết thúc dự án này vào tháng tới.
+Tôi nghĩ những rủi ro liên quan đến dự án này lớn hơn tôi dự đoán ban đầu.
+Tôi muốn làm việc ở đây lâu dài.
+Tôi đang tự hỏi liệu có ổn không nếu tôi ghi lại cuộc họp này.
+Mình tò mò không biết ứng cử viên này có hợp với nhóm mình không.
+Tôi có nên gửi cái này qua email thay vì slack không?
+Tôi cần phải báo cáo trực tiếp với CEO về vấn đề này.
+Mình sẽ ưu tiên cái này.
+Tôi cũng sẽ chia sẻ điều này với đội kế toán.
+Tôi muốn kiểm tra tính năng này trước thông qua bài kiểm tra A/B.
+Tôi muốn giới thiệu tính năng này cho chỉ một khách hàng trước.
+Tôi đã điểm danh cả tháng.
+Tôi sẽ tóm tắt doanh thu tháng này và báo cáo về nó.
+Tôi sẽ xem xét các chi phí cho tháng này và tóm tắt chúng.
+Tôi đã nộp báo cáo chi phí tháng này cho đội hỗ trợ quản lý.
+Tôi sẽ sắp xếp tài chính cho tháng này.
+Tôi sẽ tóm tắt chương trình nghị sự này qua email.
+Tôi đã chuyển đề xuất này thành một bài thuyết trình.
+Tôi đã đề cập đến vấn đề này trước sự chú ý của quản trị viên.
+Tôi đảm bảo sẽ đăng ký vấn đề này như một biện pháp phòng ngừa để tránh tái diễn.
+Tôi đã ghi lại nguyên nhân của vấn đề này.
+Tôi cần kết quả vào thứ Sáu này.
+Tôi đã dồn mục tiêu của tuần này lên đầu bảng Slack của tôi.
+Tôi muốn sắp xếp một cuộc phỏng vấn vào một thời điểm nào đó trong tuần này.
+Tôi sẽ gửi bản thảo cuối cùng cho khách hàng trong tuần này.
+Tuần này tôi sẽ nghỉ một ngày.
+Tôi chỉ muốn làm việc từ xa trong tuần này.
+Tôi sẽ chỉ tập trung vào nhiệm vụ này trong tuần này.
+Tôi cũng muốn đưa các ứng viên nước ngoài vào quá trình tuyển dụng này.
+Tôi đánh giá cao một số phản hồi tích cực về đánh giá này.
+Tôi sẽ ghi lại kinh nghiệm của tôi từ dự án này để tham khảo trong tương lai.
+Tôi hơi lo lắng về dòng thời gian của dự án, liệu có thể điều chỉnh được không?
+Tôi đã theo dõi thời gian tôi đầu tư vào dự án này.
+Tôi đã ghi lại những gì tôi học được lần này trên wiki.
+Tôi có thể tạo một số phát hành riêng biệt không?
+Tôi sẽ đăng ký vấn đề này như một vé.
+Tôi có thể quay lại phiên bản trước không?
+Tôi sẽ đảm bảo ghi chép chi tiết nhất có thể về quá trình bàn giao.
+Tôi cũng sẽ ghi lại quá trình bàn giao bằng video.
+Tôi đã bàn giao bảng câu hỏi phỏng vấn cho đội nhân sự.
+Tôi sẽ giải thích ưu tiên công việc cho các thực tập sinh.
+Tôi đang hỗ trợ thực tập sinh thực hiện nhiệm vụ của họ từ bên cạnh.
+Tôi sẽ giao một nhiệm vụ cho thực tập sinh.
+Mình đã sắp xếp lịch trình cho lịch trình của tụi mình.
+Tôi có thể tạo lịch chia sẻ với lịch trình không?
+Tôi có nên gửi thông báo lịch trình bây giờ không?
+Tôi sẽ xin lỗi khách hàng vì sự thay đổi lịch trình.
+Tôi sẽ gửi cho bạn một email giải thích lý do thay đổi.
+Tôi đã cập nhật kế hoạch thay đổi khái niệm của đội.
+Mình sẽ đăng lí do tại sao mình cần thay đổi lịch trình.
+Thật không may, lịch trình của tôi không khớp, nên sẽ có người khác xen vào.
+Tôi đã thực hiện tất cả các điều chỉnh cần thiết cho lịch trình mâu thuẫn.
+Thật không may, lịch trình của tôi rất kín, vì vậy tôi không chắc liệu tôi có thể tham dự cuộc họp buổi chiều hay không.
+Tôi sẽ giải thích chi tiết lý do đằng sau sự chậm trễ này.
+Tôi muốn nói rõ rằng lịch trình của chúng tôi khá kín.
+Tôi có thể phá vỡ lịch trình như thế này không?
+Mình có thể cho trưởng phòng xem lịch trình trước được không?
+Tôi đã chia sẻ dữ liệu với bạn, vì vậy xin vui lòng xem xét.
+Tôi có thể gửi dữ liệu ra bên ngoài không?
+Tôi đã chia dữ liệu thành phiên bản tiếng Hàn và phiên bản tiếng Anh.
+Tôi sẽ đăng nhập nhiệm vụ vào hệ thống.
+Tôi có thể thay đổi thứ tự của các nhiệm vụ như thế này không?
+Tôi có thể gia hạn thời gian làm việc không?
+Tôi sẽ ra ngoài một lát, nhưng tôi sẽ để mắt tới người đưa tin.
+Tôi muốn trở thành một nhà quản lý về lâu dài.
+Tôi sẽ yêu cầu đội tài chính xử lý các chi phí.
+Tôi sẽ gửi cho bạn toàn bộ email.
+Tôi sẽ giải thích lại sau bữa trưa.
+Tôi sẽ kiểm tra nó ngay sau bữa trưa.
+Tôi có thể gửi đề xuất hôm nay không?
+Tôi sẽ gửi báo cáo hàng tuần vào cuối ngày hôm nay.
+Tôi đang chờ câu trả lời từ khách hàng ngay bây giờ.
+Tôi có thể gọi cho khách hàng bây giờ không?
+Tôi đang bận một cuộc họp khác, nên tôi không thể nhận điện thoại của bạn ngay bây giờ.
+Bây giờ tôi đang nhận cuộc gọi khác nên hơi muộn.
+Tôi sẽ tải lên các tài liệu tôi vừa nhận được thông qua thanh toán điện tử.
+Tôi đang làm một bản báo cáo.
+Tôi hiện đang theo dõi nhật ký máy chủ.
+Tôi có thể nộp lại sau khi thay đổi một số thứ không?
+Hiện tại tôi đã hết chỗ, vì vậy tôi muốn gặp bạn vào buổi chiều.
+Tôi hiện đang thiết lập một môi trường thử nghiệm.
+Tôi vừa chia sẻ hồ sơ với bạn.
+Tôi sẽ cập nhật tình trạng dự án ngay bây giờ.
+Tôi hiện đang sắp xếp biên bản cuộc họp.
+Tôi đã đặt phòng hội nghị rồi.
+Tôi có thể tham gia cuộc họp trực tuyến bây giờ không?
+Tôi sẽ tiến hành một cuộc khảo sát mức độ hài lòng của nhân viên.
+Tôi cũng sẽ dịch bài đăng việc làm sang tiếng Anh.
+Tôi cũng đã đăng thông báo việc làm bằng tiếng Anh.
+Mình sẽ kiểm tra hồ sơ điểm danh.
+Tôi có thể in nó bằng giấy trắng đen không?
+Tôi có thể hoãn chuyến công tác của mình lại một ngày không?
+Tôi sẽ nộp báo cáo chuyến công tác vào ngày mai.
+Tôi sẽ xem xét phản hồi từ việc xem xét mã.
+Tôi sẽ tải lên lại sau khi kết hợp phản hồi của khách hàng.
+Tôi đã chia các chi phí của khách hàng thành các bảng riêng biệt.
+Tôi đã gửi email cho khách hàng.
+Tôi sẽ tạo một bảng so sánh kết quả kiểm tra.
+Tôi đã sắp xếp kết quả kiểm tra bằng Excel.
+Sau khi xác minh kết quả thử nghiệm, tôi sẽ tiến hành triển khai.
+Tôi đã thiết lập một tài khoản kiểm tra.
+Tôi sẽ biên soạn và chia sẻ dữ liệu kiểm tra.
+Bây giờ tôi có thể gỡ máy chủ thử nghiệm xuống không?
+Tôi vừa khởi động lại máy chủ thử nghiệm.
+Tôi sẽ đảm bảo dọn sạch hộp phê duyệt trước khi tôi đi.
+Tôi sẽ hỗ trợ thêm một lần nữa trước khi đi.
+Tôi sẽ kết thúc việc bàn giao với nhân viên đi về.
+Tôi đã chỉ định một đội ngũ lãnh đạo giáo dục.
+Tôi sẽ chia sẻ kế hoạch làm việc của mình cho ngày hôm nay trên kênh nhóm.
+Tôi sẽ tóm tắt và báo cáo kết quả hoạt động của đội vào cuối tháng.
+Tôi muốn nghe ý kiến của đội trước.
+Tôi muốn bày tỏ rõ ràng những đóng góp của mình với trưởng nhóm.
+Tôi đã sắp xếp lại cấu trúc hồ sơ để dễ dàng định hướng hơn.
+Tôi có thể đệ trình đề xuất ngay bây giờ không?
+Tôi có thể điều chỉnh thứ tự của bài thuyết trình không?
+Tôi đã mã hóa màu sắc trạng thái dự án.
+Tôi đã cập nhật lịch trình dự án.
+Hiện tại tôi đang làm báo cáo hoàn thành dự án.
+Tôi sẽ yêu cầu mua các thiết bị cần thiết.
+Tôi muốn xác nhận những thí sinh trúng tuyển vào cuối ngày hôm nay.
+Tôi sẽ sắp xếp lại lịch họp với văn phòng nước ngoài của chúng tôi.
+Tôi sẽ kiểm tra lại các điều khoản trong hợp đồng hợp tác của chúng ta.
+Tôi sẽ cập nhật thông tin liên lạc cho đối tác của chúng tôi và chia sẻ với bạn.
+Tôi sẽ xem lại các điều khoản với đối tác của chúng ta.
+Tôi đã chuyển các yêu cầu liên quan đến kế toán cho đội tài chính.
+Tôi muốn có được những kỹ năng mà công ty đang tìm kiếm.
+Tôi sẽ chia sẻ chi tiết cuộc họp qua email.
+Tôi sẽ hoàn tất lịch họp trước.
+Tôi có thể rút ngắn thời gian họp xuống còn 30 phút được không?
+Tôi sẽ thêm lịch họp vào lịch của tôi.
+Tôi sẽ chia sẻ biên bản cuộc họp.
+Tôi có thể viết biên bản bằng tiếng Anh không?
+Tôi sẽ tóm tắt biên bản cuộc họp và gửi cho tất cả mọi người.
+Tôi đã đăng biên bản họp lên kênh của nhóm.
+Tôi đã đặt phòng họp lúc 4 giờ chiều.
+Tôi sẽ gửi email thông báo cho các ứng viên.
+Tôi sẽ giải thích phạm vi tiền lương cho ứng viên.
+Tôi sẽ xem xét kỹ danh mục đầu tư của ứng cử viên.
+Vui lòng lưu trữ tài liệu theo các chính sách nội bộ của chúng tôi.
+Bạn có thể cho tôi biết số điện thoại nội bộ của bạn không?
+Vui lòng xem lại nội dung.
+Bạn có phiền làm một câu hỏi thường gặp cho tôi không?
+Bạn có thể chuyển cái này cho đội UX được không?
+Dự án nào nổi bật nhất đối với bạn?
+Bạn giải quyết xung đột như thế nào?
+Bạn đã làm gì khi có mâu thuẫn?
+Em vào với anh nhé?
+Bạn có nghĩ rằng sẽ tốt hơn nếu xử lý nó một cách cá nhân?
+Bây giờ anh sẽ xem lại nó chứ?
+Bạn sẽ chỉ cung cấp các chỉ số kết quả?
+Bạn có quyền truy cập vào hệ thống thanh toán không?
+Ông đã nghiên cứu đối thủ cạnh tranh của mình chưa?
+Anh đã điều tra các đối thủ cạnh tranh chưa?
+Anh đã xem lại hợp đồng chưa?
+Bạn có thể chia sẻ thông tin liên lạc của khách hàng với tôi không?
+Bạn đã ghi lại tất cả các yêu cầu của khách hàng chưa?
+Bạn đã ghi lại phản hồi của khách hàng ở đâu?
+Bạn đã mang lại giá trị gì cho khách hàng?
+Anh có hiểu khách hàng đang yêu cầu gì không?
+Bạn đã bao gồm tất cả các tính năng mà khách hàng đang tìm kiếm chưa?
+Bạn có thể đáp ứng ngày giao hàng mong muốn của khách hàng không?
+Bạn đã nộp giấy chứng nhận hoàn thành chưa?
+Bạn đã kiểm tra lịch đào tạo chưa?
+Anh nghĩ sao về kế hoạch đó?
+Bạn có thể bao quát công việc của tôi trong thời gian đó không?
+Anh đã đọc hết chưa?
+Bạn sẽ gửi dữ liệu cho người phụ trách chứ?
+Anh có nhận được email đó không?
+Anh có thể cập nhật danh sách đó cho tôi được không?
+Bạn có thể đăng tài liệu đó lên kênh chia sẻ được không?
+Anh lưu tài liệu đó ở đâu?
+Bạn đã đăng ký vấn đề đó làm vé chưa?
+Anh có biết điều gì đằng sau vấn đề đó không?
+Bạn có thể liên lạc lại với anh ấy không?
+Anh có hiểu lời giải thích đó không?
+Anh có thể vào lúc đó không?
+Liệu có ổn không nếu máy chủ bị lỗi vào thời điểm đó?
+Bạn có thể in thông báo đó cho tôi được không?
+Anh đã xem qua lịch trình chưa?
+Bạn lưu dữ liệu đó ở đâu?
+Anh đã chuyển tài liệu cho trưởng nhóm chưa?
+Bạn có thể ký tên trước đó không?
+Sao anh lại xóa tập tin đó?
+Bạn có thể đặt vé đó lên bảng đồng hồ giúp tôi được không?
+Anh đã xem sơ yếu lý lịch của ứng cử viên chưa?
+Anh nghĩ vậy có đúng không?
+Không phải vậy sao?
+Bạn có thể chọn những thứ khẩn cấp nhất trong danh sách đó không?
+Bạn có thể giải quyết công việc khẩn cấp trước được không?
+Bạn có muốn gia hạn thời hạn không?
+Bạn có nghĩ rằng công nghệ là ổn không?
+Bạn có thể hỗ trợ các khía cạnh kỹ thuật không?
+Bạn cũng có thể kiểm tra các tính năng hiện có không?
+Các bạn có câu hỏi gì cho mình không?
+Anh không thấy khó khăn khi làm việc với tôi sao?
+Bạn có còn email nào không?
+Bạn có thể hoàn thành công việc còn lại vào ngày mai không?
+Anh có thể xem qua PR của tôi được không?
+Bạn có thể xem tài liệu tôi đã tạo không?
+Bạn đã ghi lại tất cả các yêu cầu mà tôi đã đề cập chưa?
+Bạn có thể tham dự cuộc phỏng vấn vào ngày mai không?
+Bạn có thể đưa cho tôi bản nháp vào ngày mai không?
+Cậu chỉ cần điền vào phần của cậu thôi à?
+Cậu có thể nhận được sự giúp đỡ từ các thành viên khác không?
+Anh có thể xem lại lần nữa không?
+Bạn đã thử đăng nhập lại chưa?
+Bạn có thể kiểm tra lại giúp tôi được không?
+Bạn có biết lịch trình cho lần triển khai tiếp theo không?
+Bạn có thể đi công tác vào tuần tới không?
+Anh đã nói chuyện với người phụ trách chưa?
+Chỉ cần điền đáp án vào là được ạ?
+Bạn có thể cho tôi biết khi nào bạn nhận được câu trả lời không?
+Bạn có thể điều chỉnh thiết kế một chút được không?
+Anh đã chuẩn bị kế hoạch dự phòng chưa?
+Các bạn có thể đăng link lên kênh của nhóm được không?
+Bạn có muốn thêm nhiều biểu hiện liên quan đến phỏng vấn không?
+Bạn sẽ thảo luận về dự án nào trong suốt cuộc phỏng vấn?
+Bạn muốn được hỏi những loại câu hỏi nào trong một cuộc phỏng vấn?
+Bạn dự định thảo luận về mức lương của mình như thế nào trong suốt cuộc phỏng vấn?
+Sáng thứ năm bạn có khỏe không?
+Anh có thể xử lý nó ngay bây giờ không?
+Bạn có muốn thay đổi thứ tự của bài thuyết trình không?
+Anh có đọc thông báo chưa?
+Khi nào bạn cần dữ liệu bạn vừa yêu cầu?
+Bạn có thể gửi lại email bạn vừa gửi không?
+Anh có ghi lại những gì anh vừa nói không?
+Anh đã kiểm tra hồ sơ dự phòng chưa?
+Bạn có phiền xem kết quả dịch thuật không?
+Bạn có thể giúp tôi dịch không?
+Bạn có muốn yêu cầu xem xét pháp lý trước không?
+Bạn đã cập nhật hệ thống với giá mới chưa?
+Điều gì làm anh thay đổi bìa báo cáo?
+Bạn sẽ nói điểm mạnh lớn nhất của bạn là gì?
+Bạn tận dụng lợi ích của công ty như thế nào?
+Bạn đã xác định được những vấn đề mà người dùng đang gặp phải chưa?
+Các bạn đã chuẩn bị câu hỏi trước chưa?
+Bạn đã gửi email chào mừng đến người phụ trách mới chưa?
+Anh sẽ phân phát cái này cho nhân viên mới chứ?
+Bạn có biết tên của nhân viên mới vừa gia nhập không?
+Bạn có thể giải thích cho tôi về nhân viên mới không?
+Bạn có biết về chính sách mới không?
+Bạn có thể định lượng thành tích của mình không?
+Bạn đã gửi yêu cầu sửa chữa cho khách hàng chưa?
+Bạn có thể tạo một tài khoản mới không?
+Bạn đã xem lại kế hoạch đào tạo nhân viên mới chưa?
+Khi nào bạn định tham gia khóa đào tạo nhân viên mới?
+Bạn hình dung về nghề nghiệp nào cho bản thân trong tương lai?
+Bạn làm việc muộn thường xuyên có sao không?
+Nhiệm vụ đầu tiên bạn cần giải quyết là gì?
+Bạn cần loại hỗ trợ nào?
+Bạn đã tóm tắt nội dung đào tạo ngày hôm qua chưa?
+Bạn đã kiểm tra email tôi gửi cho bạn ngày hôm qua chưa?
+Bạn đã kiểm tra email tôi gửi cho bạn ngày hôm qua chưa?
+Bạn đã chuẩn bị sẵn tất cả các tài liệu bạn yêu cầu ngày hôm qua chưa?
+Khi nào bạn có thể bắt đầu làm việc?
+Bạn có thể sắp xếp lại các ưu tiên công việc của mình không?
+Cách tiếp cận của bạn trong việc ưu tiên các nhiệm vụ là gì?
+Bạn có thể giải thích tình huống xảy ra lỗi không?
+Anh có thể điều chỉnh vai trò cho em được không?
+Anh có thể phân loại mức lương cho tôi được không?
+Bây giờ tôi có thể hỏi bạn về mức lương của bạn được không?
+Bạn có đính kèm biên lai không?
+Bạn có thể làm một cuộc phỏng vấn tiếng Anh không?
+Các bạn có thể xem bản tiếng Anh không?
+Bạn cũng có thể chuẩn bị các tài liệu bằng tiếng Anh không?
+Bạn có dự định đăng ký tăng ngân sách không?
+Các bạn có từng so sánh nó với phiên bản cũ chưa?
+Hôm nay bạn có tham gia buổi huấn luyện không?
+Bạn đã chuẩn bị cho buổi phỏng vấn hôm nay chưa?
+Bạn có thể nộp báo cáo hôm nay không?
+Bạn có thể cho tôi kết quả vào cuối ngày hôm nay không?
+Bạn có thể trả lời tôi trong hôm nay không?
+Bạn có rảnh cho cuộc họp hôm nay không?
+Chiều nay bạn có thời gian không?
+Bạn có thể hoàn thành lịch trình của ngày hôm nay không?
+Bạn đã kiểm tra tất cả các thay đổi lịch trình của bạn cho ngày hôm nay chưa?
+Bạn có thể điều chỉnh lịch trình của bạn cho ngày hôm nay không?
+Hôm nay bạn có làm việc ở nhà không?
+Bạn đã xem qua chương trình nghị sự cho cuộc họp hôm nay chưa?
+Bạn sẽ có mặt tại cuộc họp hôm nay chứ?
+Bạn có thể thấy thời gian xảy ra lỗi không?
+Bạn có biết sai lầm xảy ra khi nào không?
+Bạn có phải tham dự cuộc họp buổi sáng không?
+Bạn có thể tham dự cuộc họp buổi sáng không?
+Cậu có muốn làm trên mạng không?
+Điều gì khiến cô nghĩ mình phù hợp với vai diễn này?
+Điều gì khiến bạn nộp đơn vào công ty này?
+Anh đã xem lại yêu cầu chưa?
+Anh có thể tóm tắt lại cho tôi được không?
+Bạn có nghĩ rằng giá của chúng tôi cạnh tranh không?
+Anh có thật sự sử dụng dịch vụ của chúng tôi không?
+Anh có hiểu cấu trúc tổ chức của chúng tôi không?
+Bạn có nghĩ rằng bạn phù hợp với văn hóa công ty của chúng tôi không?
+Bạn đã cài đặt các công cụ chúng tôi sử dụng cho đội của chúng tôi chưa?
+Các bạn có biết nhóm mình đang làm gì không?
+Bạn biết bao nhiêu về công ty chúng tôi?
+Bạn có thể cho tôi biết điều gì đã khiến bạn nộp đơn vào công ty chúng tôi không?
+Các bạn còn câu hỏi nào cho tụi mình không?
+Bạn có thể thích nghi với công việc từ xa không?
+Bạn có cần báo cáo hàng tháng không?
+Bạn có sẵn sàng đàm phán giá cả không?
+Anh lấy bản báo giá này ở đâu vậy?
+Bạn có nghĩ rằng ước tính này là hợp lý không?
+Bạn có hiểu các điều khoản của hợp đồng này không?
+Bạn có thể chăm sóc khách hàng này cho tôi không?
+Bạn có thể liên lạc trực tiếp với khách hàng này không?
+Bạn có muốn gặp trực tiếp khách hàng này không?
+Bạn đã thử tính năng này chưa?
+Bạn có nghĩ rằng tính năng này thực sự có ích cho người dùng không?
+Bạn có cho rằng thiết kế này phù hợp với nhu cầu của khách hàng không?
+Bạn có thể cập nhật chỉ số này hàng ngày không?
+Bạn có thể viết tài liệu này bằng tiếng Anh không?
+Điều gì làm anh thay đổi tài liệu này?
+Bạn đã đọc tài liệu này chưa?
+Anh sẽ báo cáo chuyện này cho ai?
+Bạn có thể kiểm tra lại câu hỏi này cho tôi được không?
+Bạn muốn giải quyết vấn đề này như thế nào?
+Theo ông nguyên nhân gốc rễ của vấn đề này là gì?
+Bạn có thể cho tôi biết lỗi này xảy ra ở phiên bản nào không?
+Bạn có nghĩ rằng có thể phân phối phiên bản này không?
+Bạn có biết định dạng của báo cáo này không?
+Bạn có thể chuyển báo cáo này cho giám đốc Kim được không?
+Bạn nghĩ ai nên xem lại báo cáo này?
+Bạn cũng có thể dịch báo cáo này sang tiếng Anh không?
+Bạn có thể trang trải chi phí này trong ngân sách của bạn không?
+Bạn có nghĩ rằng chi phí này là hợp lý không?
+Bạn có thể phát triển nó theo thông số kỹ thuật này không?
+Làm thế nào mà bạn đạt được con số này?
+Bạn có thể tự mình quản lý hệ thống này không?
+Bạn sẽ giải thích chương trình nghị sự này cho ban quản lý như thế nào?
+Khi nào bạn định kết thúc chương trình nghị sự này?
+Bạn có thể giải quyết vấn đề này ngay bây giờ không?
+Bạn có muốn hoãn nhiệm vụ này sang tuần sau không?
+Khi nào bạn có kế hoạch hoàn thành nhiệm vụ này?
+Bạn có thể kết thúc nhiệm vụ này vào cuối ngày hôm nay không?
+Bạn có thể giúp tôi thực hiện nhiệm vụ này không?
+Anh có thể tự mình làm được việc này không?
+Bạn nghĩ kỹ năng quan trọng nhất cho vai diễn này là gì?
+Theo bạn thì điểm mấu chốt của vai diễn này là gì?
+Bạn đã chuyển vấn đề này cho ai?
+Bạn có thể giải quyết vấn đề này ngay bây giờ không?
+Bạn có đồng ý với lịch trình này không?
+Bạn có đồng ý với lịch trình này không?
+Bạn có đồng ý với lịch trình này không?
+Anh có thể sắp xếp lại lịch cho ngày mai được không?
+Bạn có thể in ra tài liệu này cho tôi được không?
+Bạn có thể mở tập tin này không?
+Anh đã mở tập tin này chưa?
+Điều gì khiến anh nghĩ vị trí này phù hợp với anh?
+Bạn có hiểu rõ mục tiêu của dự án không?
+Bạn có hứng thú tiếp tục tham gia vào dự án này không?
+Bạn sẽ tiếp tục tham gia vào dự án này chứ?
+Bạn sẽ tiếp tục tham gia vào dự án này chứ?
+Bạn có thể tiếp tục tham gia vào dự án này không?
+Theo bạn thì bố cục màn hình này có dễ hiểu không?
+Bạn có nghĩ rằng bạn sẽ phù hợp với văn hóa công ty không?
+Anh có thể cho tôi biết tại sao anh lại đến muộn không?
+Anh có thể kết thúc việc này trong ngày hôm nay không?
+Cậu đang nghĩ đến việc chia sẻ nó với các thành viên khác à?
+Bạn có muốn thử đăng nhập bằng cái này không?
+Anh đã thông báo cho trưởng bộ phận về việc chuyển trại chưa?
+Bạn đã nộp đơn xin chi phí cho tháng này chưa?
+Bạn có biết mục tiêu của quý này là gì không?
+Bạn có nghĩ rằng khách hàng sẽ chấp nhận đề xuất này không?
+Lịch trình làm việc của bạn tuần này như thế nào?
+Bạn có thể đi công tác trong tuần này không?
+Bạn đã lưu phiên bản trước ở đâu?
+Thành tựu quan trọng nhất mà bạn đạt được ở công việc trước đây là gì?
+Bạn đã đạt được những gì trong công việc trước đây của mình?
+Thành tích của bạn ở công việc trước đây là gì?
+Bạn đã sử dụng những công cụ nào ở công ty trước của bạn?
+Bạn đã bao giờ lãnh đạo một đội tại công ty trước đây của mình chưa?
+Lý do bạn thay đổi công việc là gì?
+Bạn đã cho họ biết về việc thay đổi lịch trình chưa?
+Bạn đã chia sẻ lịch thay đổi với đội chưa?
+Bạn có nghĩ rằng bạn cần điều chỉnh lịch trình của mình không?
+Bạn có thể sắp xếp lại lịch cho ngày mai được không?
+Bạn có giữ lịch trình cập nhật không?
+Bạn có thể giới thiệu bản thân bằng tiếng Anh không?
+Bạn có thể chuẩn bị thêm vật liệu không?
+Bạn đã sao lưu dữ liệu của bạn chưa?
+Về lâu dài, bạn đang tìm kiếm loại nghề nghiệp nào?
+Anh có ghi lại việc trả lại thiết bị không?
+Bạn đã kiểm tra thiết bị trước chưa?
+Bạn có thể đến văn phòng thay vì làm việc ở nhà không?
+Bạn có nghĩ rằng phát hành đầy đủ sẽ tốt hơn không?
+Bạn có nghĩ rằng có ổn không nếu phân phối nó ra toàn cầu cùng một lúc?
+Bạn có nghĩ rằng có một người hòa giải ở giữa là một ý hay không?
+Bây giờ bạn đang ở công ty à?
+Bạn vẫn còn muốn nghe thêm về nó chứ?
+Bây giờ anh có rảnh không?
+Bây giờ anh rảnh không?
+Anh có thể giúp tôi chuyện này ngay bây giờ không?
+Bạn có thể nghỉ ngơi một chút không?
+Chúng ta nói chuyện một chút được không?
+Bây giờ các bạn có thể chia sẻ màn hình với mình không?
+Bạn có thể tham gia cuộc họp bây giờ không?
+Bạn có thể tham gia cuộc họp bây giờ không?
+Bây giờ bạn vẫn có thể thay đổi thứ tự ưu tiên của mình chứ?
+Bạn có thể cho biết thêm lý do tại sao bạn nộp đơn không?
+Anh làm được không?
+Các bạn vào xem được không?
+Bạn có thể chia sẻ kinh nghiệm gần đây của mình về việc hợp tác với người khác không?
+Bạn cũng có thể tìm thấy phong cách mới nhất không?
+Anh có xem xét bất kỳ rủi ro bổ sung nào không?
+Bạn có ý kiến hay ý kiến gì khác không?
+Bạn có thể mang thêm trợ giúp không?
+Bạn có cần thêm thông tin gì không?
+Bạn có muốn thêm bất kỳ mặt hàng nào khác không?
+Bạn có muốn điều chỉnh lịch làm việc của mình không?
+Bạn có thể điều chỉnh lịch làm việc của bạn không?
+Bạn đã cho trưởng nhóm biết về thời gian đi làm của bạn chưa?
+Khi nào bạn có kế hoạch nộp báo cáo chuyến công tác của mình?
+Các bạn đã chuẩn bị xong cho chuyến đi chưa?
+Các bạn đã chuẩn bị xong cho chuyến đi chưa?
+Bạn đã đăng kết quả kiểm tra chưa?
+Anh đã tạo ra tất cả các trường hợp kiểm tra chưa?
+Bạn có thể kiểm tra nó trước khi tan làm không?
+Bạn có thể cài đặt công cụ ngay bây giờ không?
+Bạn có thể cho tôi biết số vé của bạn không?
+Bạn có nghĩ rằng sự hợp tác giữa các đội là cần thiết không?
+Bạn có nhiều kinh nghiệm làm việc trong một đội không?
+Anh sẽ báo cáo với trưởng nhóm trước chứ?
+Cậu đã hỏi trưởng phòng trước chưa?
+Bạn có thể đổi tên tệp để tuân thủ các quy tắc không?
+Bạn có vấn đề gì với kết quả đánh giá không?
+Anh có mang theo danh mục đầu tư không?
+Bạn đã chuẩn bị hồ sơ trình bày chưa?
+Anh có thể nói chuyện trực tiếp với trưởng nhóm nếu cần không?
+Bạn có thể giúp tôi sắp xếp các kỹ năng cần thiết không?
+Có thể thêm filter vào không?
+Các bạn đã đăng cả phiên bản tiếng Hàn lên chưa?
+Chỉ cần có phiên bản tiếng Hàn là được ạ?
+Bạn có thể ghi lại giải pháp cho tôi không?
+Bạn có thể xem lại các quy tắc của công ty không?
+Bạn có biết rõ các quy định và quy định của công ty không?
+Bạn hiểu tầm nhìn của công ty như thế nào?
+Bạn có ý tưởng nào để cải thiện các chính sách của công ty chúng tôi không?
+Bạn muốn đóng vai trò gì trong việc giúp công ty phát triển?
+Bạn có thể chuyển câu trả lời cho tôi khi bạn nhận được nó không?
+Bạn có thể đến cuộc họp đúng giờ không?
+Điều gì khiến bạn đến cuộc họp muộn?
+Bạn có thể tham dự cuộc họp không?
+Bây giờ bạn có thể viết biên bản cuộc họp được không?
+Bạn có nghĩ rằng tổ chức cuộc họp trực tuyến sẽ tốt hơn không?
+Bạn có phải tham dự cuộc họp không?
+Anh có chịu lo những việc sắp xếp tiếp theo không?
+Vui lòng tải lại biên lai bị thiếu.
+Bạn có thể chia sẻ lịch trình của bạn cho tuần tới không?
+Vui lòng chỉ định người phụ trách.
+Vui lòng tag người phụ trách và cho họ biết.
+Vui lòng chuyển nó cho người phụ trách ngay lập tức.
+Hãy chia sẻ câu trả lời của bạn một khi bạn đã nhận được chúng.
+Bạn muốn thực hiện chính sách giá cả như thế nào?
+Bạn có thể chỉ định một nhóm trưởng cho mỗi nhóm không?
+Anh đã kiểm tra đường dây phê duyệt chưa?
+Bạn có thể phù hợp với lịch trình của khách hàng không?
+Bạn đã thông báo cho khách hàng về sự chấp thuận chưa?
+Bạn sẽ gọi trực tiếp cho khách hàng chứ?
+Bạn có thể xem qua email thông báo không?
+Anh đã kiểm tra thông báo chưa?
+Bạn cũng cần một bản tóm tắt mà quản trị viên có thể xem xét không?
+Cô có sẵn lòng cho phép tôi không?
+Bạn có thể thay mặt chúng tôi trả lời trong thời gian đó không?
+Có phải ông đã chỉ định một người thay thế cho thời kỳ đó?
+Bạn có thể bao quát công việc của tôi trong thời gian đó không?
+Bạn có thể rút ngắn lịch họp trong thời gian đó không?
+Bạn đã xem lại nội dung chưa?
+Tiếp theo bạn có cần máy tính xách tay không?
+Vui lòng xem qua danh sách và cho tôi biết ưu tiên hàng đầu của bạn.
+Bạn có kế hoạch để đạt được mục tiêu đó không?
+Bạn có đồng ý với mục tiêu đó không?
+Bạn có thể sắp xếp một cuộc họp vào thời gian đó không?
+Lúc đó bạn có rảnh không?
+Lúc đó bạn có rảnh không?
+Bạn có nghĩ rằng bạn có thể thực hiện ý tưởng đó không?
+Anh có chấp nhận yêu cầu đó không?
+Mọi thứ ổn với lịch trình chứ?
+Bạn có sẵn sàng tham gia vào lịch trình đó không?
+Bạn có thể trình bày dữ liệu đó không?
+Bạn có nghĩ rằng như vậy là đủ cho dữ liệu không?
+Bạn có muốn xem bản tóm tắt không?
+Anh đã xem hồ sơ đó chưa?
+Bạn có cần thêm người cho dự án đó không?
+Bạn có thể xem lại dữ liệu vào lúc đó không?
+Bạn có thể chỉ cho tôi những phần khả thi về mặt kỹ thuật không?
+Vui lòng chỉ nhấn mạnh những phần bất khả thi về mặt kỹ thuật.
+Bạn có muốn giữ nguyên định dạng hiện tại không?
+Bạn có thể xác nhận liệu thời hạn có chính xác không?
+Bạn có muốn tạo ra một lịch trình lạc quan không?
+Bạn sẽ chăm sóc những con bọ còn lại trước chứ?
+Bạn có sẵn sàng cho một cuộc họp vào sáng sớm ngày mai không?
+Bạn sẽ có thời gian để gọi điện vào sáng mai chứ?
+Bạn có thể cung cấp phản hồi vào ngày mai không?
+Bạn có thể cung cấp phản hồi vào ngày mai không?
+Bạn có nghĩ rằng việc ai đó đưa ra quyết định cuối cùng là đúng đắn không?
+Bạn có nghĩ rằng có nguy cơ bỏ lỡ không?
+Anh có nghĩ đến lựa chọn nào khác không?
+Bạn có thông tin liên lạc nào khác không?
+Anh có nghĩ đến lựa chọn nào khác không?
+Bạn có thích phỏng vấn trực tiếp hơn không?
+Bạn có thể phù hợp với lịch trình của CEO không?
+Anh còn gì để bàn nữa không?
+Anh có đồng ý với điều đó không?
+Anh nghĩ chỉ xử lý hai người trong số họ là tốt nhất sao?
+Bạn có tiến hành kiểm tra tham khảo không?
+Các bạn chỉ cần để lại review là được.
+Bạn đã đọc bản cập nhật hướng dẫn sử dụng chưa?
+Bạn có muốn chọn những gì bạn cần chăm sóc trước không?
+Bạn có muốn sắp xếp lại lịch phỏng vấn cho một ngày khác không?
+Bạn có muốn đặt lại số mục tiêu của mình không?
+Bạn có sẵn sàng thực hiện một cuộc phỏng vấn phù hợp với văn hóa không?
+Bạn có thể xem các tài liệu trình bày và xem xét chúng cho tôi được không?
+Anh có thể ghi lại những gì anh vừa giải thích không?
+Bạn có thể in tài liệu phân phối cho tôi được không?
+Đã kiểm tra cấu trúc cập nhật chưa?
+Bạn có biết định dạng của báo cáo không?
+Anh đã được đào tạo về an ninh chưa?
+Anh có tuân thủ tất cả các quy tắc an ninh không?
+Bạn có muốn xem nó theo quý không?
+Bạn sẽ xóa tài khoản không cần thiết chứ?
+Anh đã bao giờ thấy trường hợp tương tự chưa?
+Anh có thể kiểm tra xem có mất gì không.
+Bạn sẽ chỉ được báo cáo riêng bởi những người có lý do để biết?
+Anh đã chỉ dẫn cho cả đội về luật mới chưa?
+Anh có thể giới thiệu tôi với đội trưởng mới của anh không?
+Bạn đã nhận được hợp đồng đã ký chưa?
+Bạn có thể vui lòng chia sẻ kế hoạch sử dụng máy chủ của bạn với tôi không?
+Bạn có nghĩ rằng nó sẽ ảnh hưởng đến hiệu suất không?
+Bạn có muốn thêm chi tiết không?
+Nhận được chưa?
+Bạn có thể kiểm tra lại người nhận giúp tôi được không?
+Bạn có muốn điều chỉnh thứ tự không?
+Anh có thời gian không?
+Bạn có thể dành chút thời gian cho tôi được không?
+Bạn nghĩ cuộc biểu tình sẽ diễn ra lúc mấy giờ?
+Anh có nhận được thông báo không?
+Bạn nghĩ công ty nào là tốt nhất?
+Ông muốn thực hiện nó như thế nào?
+Bạn muốn đảm nhận loại nhiệm vụ nào?
+Bạn thấy hình thức nào là thoải mái nhất để xem?
+Bạn đã xem lại biên bản cuộc họp từ hôm qua chưa?
+Bạn có muốn thu hẹp trách nhiệm công việc của mình không?
+Phạm vi tiền lương của bạn như thế nào?
+Bạn có thể xử lý nó trong phạm vi ngân sách của bạn không?
+Bạn có biết giới hạn ngân sách là bao nhiêu không?
+Bạn có thể giải thích lý do đằng sau sự thay đổi trong đề xuất ngân sách không?
+Bạn có cần phiên bản trước không?
+Anh có nghĩ là chúng ta cần thảo luận chuyện gì hôm nay không?
+Bạn có thể gửi hợp đồng đến hôm nay không?
+Chiều nay bạn có thời gian không?
+Chúng ta có thể sắp xếp một cuộc họp ngắn vào chiều nay không?
+Bạn có đồng ý tăng cường các cuộc họp trực tuyến không?
+Điều gì khiến bạn nộp đơn vào công ty chúng tôi?
+Anh có thể bắt đầu với vài nhiệm vụ nhẹ nhàng hơn được không?
+Bạn có muốn tham gia phỏng vấn ưu tiên trước không?
+Bạn có đồng ý điều chỉnh các ưu tiên không?
+Bạn có muốn thử lại nó trong môi trường sản xuất không?
+Bạn đã gặp trực tiếp khách hàng này chưa?
+Bạn có nghĩ rằng việc huấn luyện này sẽ giúp ích cho đội của chúng ta không?
+Bạn có muốn đưa tính năng này vào quý này không?
+Anh có báo cáo với cấp trên về việc này không?
+Bạn có đồng ý giới thiệu công cụ này không?
+Bạn đã hỏi đội IT về vấn đề này chưa?
+Bạn có chấp thuận thay đổi này không?
+Anh có thể giải thích lại phần này không?
+Bạn có hiểu thiết kế này không?
+Bạn có nghĩ rằng con số này là thực tế không?
+Bạn có nghĩ rằng đơn đặt hàng này có ổn không?
+Bạn có đồng ý với đề xuất này không?
+Bạn có đồng ý với đề xuất này không?
+Anh có nghĩ có gì không ổn với chuyện này không?
+Bạn muốn giải quyết vấn đề này như thế nào?
+Anh lo chuyện này trước được không?
+Bạn có đồng ý với lịch trình này không?
+Bạn cũng sẽ gửi thông tin này cho đội ngũ bán hàng chứ?
+Bạn có đồng ý với đề xuất này không?
+Bạn có nghĩ rằng bạn có thể thuê ứng viên này không?
+Điểm mạnh của bạn trong vai diễn này là gì?
+Bạn có muốn tiếp tục quá trình tuyển dụng này không?
+Bạn có muốn giữ định dạng này không?
+Anh có cần phải có mặt trong cuộc họp này không?
+Khi nào tôi có thể mong đợi được nghe kết quả của cuộc phỏng vấn này?
+Bạn có phải tham dự cuộc phỏng vấn này không?
+Tuần này bạn có làm việc ở nhà không?
+Bạn đã kiểm tra email trước đó của mình chưa?
+Anh đã nhận được giấy tờ bàn giao chưa?
+Anh đã xem lại tài liệu bàn giao chưa?
+Anh đã kiểm tra tiến độ thực tập chưa?
+Bạn có nghĩ rằng bạn có thể điều chỉnh lịch trình không?
+Bạn cũng có thể liên lạc lại với tôi qua điện thoại được không?
+Anh muốn có thêm quyền truy cập không?
+Bạn đã nhận được thông tin kết nối chưa?
+Bạn có bất kỳ tài liệu nào tôi cần chuẩn bị thêm không?
+Bạn có nghĩ rằng có những đặc điểm nào nên bị loại trừ không?
+Bạn có phiên bản mới nhất của hệ thống tổ chức không?
+Anh có nghĩ là anh có thể hung hăng hơn một chút không?
+Anh có đang nhìn thấy hệ thống giống như tôi bây giờ không?
+Bạn sẽ báo cho nhân viên biết về điều này chứ?
+Bạn có thể cho tôi biết về tình hình hiện tại không?
+Bạn có thể cung cấp cho một người tham khảo không?
+Bạn có thể cung cấp cho tôi một số tài liệu tham khảo không?
+Anh sẽ đưa điều đó vào đơn xin việc chứ?
+Bạn đã kiểm tra danh sách xong chưa?
+Bạn chỉ cần các hồ sơ mới nhất?
+Bạn có thể vui lòng cho tôi biết ai là người cuối cùng có quyền phát biểu về vấn đề này không?
+Bạn sẽ chỉ định thêm nhiệm vụ nào nữa không?
+Bạn có nghĩ rằng bạn cần thêm sự giúp đỡ không?
+Anh có nghĩ là chúng ta cần thêm nhân viên không?
+Bạn có cần thêm nhân viên không?
+Bạn có muốn xem biểu đồ nào khác không?
+Anh còn câu hỏi nào khác không?
+Bạn có bất kỳ câu hỏi bổ sung nào mà bạn muốn thêm vào không?
+Bạn có muốn bổ sung thêm ai không?
+Bạn đã nộp báo cáo hàng ngày chưa?
+Bạn đã chuẩn bị các tài liệu cần thiết cho chuyến đi của mình chưa?
+Anh đã kiểm tra lịch chưa?
+Anh chỉ cần xem lại vụ án.
+Bạn có thể thêm một danh mục đầu tư khác vào đơn đệ trình của bạn không?
+Chỉ cần thêm filter vào là được
+Bạn có thể quyết định được mức độ ưu tiên của giải pháp không?
+Bạn có sẵn sàng chia sẻ điều đó với đội PR không?
+Cậu cũng có thể làm phỏng vấn video không?
+Bạn có thể dành vài phút cho cuộc họp không?
+Vui lòng cập nhật bảng điều khiển của bạn.
+Giám đốc điều hành đặt giá trị cao vào việc xây dựng mối quan hệ mạnh mẽ với khách hàng của chúng tôi.
+Bạn đã nhận được phản hồi gì về thành tích đó?
+Người đại diện hướng dẫn chúng tôi chuẩn hóa định dạng tài liệu.
+Giám đốc điều hành đã đồng ý nhận báo cáo kết quả hoạt động hàng tháng.
+Giám đốc điều hành hiện đang xem xét việc tuyển dụng nhân viên mới.
+Giám đốc đã ký hợp đồng ngày hôm qua.
+Giám đốc điều hành muốn cắt giảm ngân sách một chút.
+Giám đốc điều hành sẽ đến văn phòng vào chiều nay.
+Giám đốc điều hành khuyên chúng tôi nên xác định trước các rủi ro tiềm ẩn.
+Ngài thấy vấn đề này thế nào, thưa Tổng thống?
+Giám đốc điều hành muốn xem xét lại hướng đi của dự án này.
+Giám đốc điều hành nhấn mạnh tầm quan trọng của việc đạt được mục tiêu trong quý này.
+Giám đốc đã khen thành tích này.
+Giám đốc điều hành sẽ đến thăm trụ sở chính trong tuần này.
+Thiết lập môi trường thử nghiệm của bạn.
+Vui lòng xem lại hướng dẫn thiết kế một lần nữa.
+Đội ngũ thiết kế cũng đã chuẩn bị một phiên bản di động chưa?
+Đội ngũ thiết kế có thể cung cấp cho chúng tôi một khái niệm thiết kế mới ngày nay không?
+Đội ngũ thiết kế đã kết hợp tất cả các bản sửa đổi chưa?
+Nhóm thiết kế đã gửi 3 bản thảo khác nhau.
+Hôm nay đội ngũ thiết kế đã gửi hình ảnh preview cho tụi mình.
+Nhóm thiết kế đã tham khảo ý kiến của cơ quan bên ngoài chưa?
+Đội ngũ thiết kế có thể tuân thủ hướng dẫn màu sắc không?
+Vui lòng thử đăng nhập.
+Vui lòng lưu báo cáo dưới dạng PDF và tải lên.
+Nhóm tiếp thị yêu cầu giới thiệu ngắn gọn về mạng xã hội.
+Nhóm tiếp thị đặc biệt yêu cầu chúng tôi tuân thủ các hướng dẫn thiết kế.
+Nhóm tiếp thị đang yêu cầu xem kết quả chiến dịch ngay lập tức.
+Nhóm tiếp thị muốn đưa ra lịch trình chiến dịch.
+Xin hãy viết chủ đề email của bạn một cách rõ ràng và súc tích.
+Vui lòng viết chủ đề email một cách rõ ràng và ngắn gọn.
+Gửi một email.
+Gửi email ngay lập tức.
+Vui lòng kiểm tra email của bạn.
+Vui lòng cung cấp một bản báo cáo chi tiết về suy nghĩ của bạn trong cuộc phỏng vấn.
+Chúng ta có thể sắp xếp lại lịch phỏng vấn không?
+Vui lòng thông báo cho ứng viên về lịch phỏng vấn.
+Vui lòng điền vào mẫu đánh giá phỏng vấn.
+Bạn có thể cho tôi biết khi nào bước tiếp theo là?
+Bạn có nghĩ rằng lý lịch của tôi cần một số công việc?
+Bạn có thể cho tôi biết thêm về các nhiệm vụ mà tôi sẽ chịu trách nhiệm không?
+Cô có nghĩ tôi phù hợp với vị trí tôi đã nộp đơn không?
+Anh có thể cho chúng tôi biết sơ lược về bầu không khí của đội được không?
+Trước khi phỏng vấn, hãy chắc chắn xem lại lý lịch của bạn một cách cẩn thận.
+Bạn đã bao giờ sử dụng sản phẩm của chúng tôi trước đây chưa?
+Vui lòng đổi tên tài liệu để phù hợp với các quy tắc.
+Vui lòng ghi lại người đã xem tài liệu.
+Vui lòng phê duyệt tài liệu.
+Lưu tài liệu bằng tiếng Anh nữa.
+Vui lòng viết tài liệu bằng tiếng Anh.
+Vui lòng sửa tất cả các lỗi chính tả trong tài liệu.
+Nếu bạn gặp vấn đề gì, hãy báo cáo cho tôi ngay lập tức.
+Nếu bạn nghĩ rằng bạn sẽ muộn cuộc họp, hãy cho tôi biết trước.
+Ông Park đã đăng nhập vào hệ thống mới chưa?
+Ông Park có chia sẻ kết quả cuộc họp ngày hôm qua với bạn không?
+Ông Park có thể tự lo được không?
+Ông Park có kiểm tra hồ sơ này không?
+Ông Park đã nộp báo cáo công tác chưa?
+Giám đốc Park sẽ rất vui khi đưa người mới đến.
+Giám đốc Park đang giám sát dự án này.
+Giám đốc Park đã phối hợp lịch trình với đội ngũ nhân sự.
+Giám đốc Park có trong phòng họp lúc này không?
+Giám đốc Park đã dời cuộc họp sang buổi chiều.
+Ông Park vẫn chưa gửi dữ liệu chúng tôi yêu cầu ngày hôm qua.
+Giám đốc đã bàn giao hợp đồng cho đội pháp lý.
+Bạn có thể gửi cho tôi tài liệu trình bày trước được không?
+Vui lòng kiểm tra lịch trình của bạn.
+Vui lòng xác nhận ngày triển khai.
+Đảm bảo sao lưu các tệp của bạn trước khi triển khai.
+Vui lòng đảm bảo kiểm tra kỹ lưỡng trước khi triển khai.
+Chạy thử nghiệm trước khi triển khai.
+Vui lòng liệt kê thông tin phiên bản trong bảng.
+Đội ngũ pháp lý đã hỏi về thời điểm gia hạn hợp đồng.
+Đội ngũ pháp lý đã yêu cầu lại văn bản hợp đồng gốc.
+Đội pháp lý yêu cầu bạn ký hợp đồng.
+Đội pháp lý nói chữ ký đã bị mất.
+Đội pháp lý có nói rằng họ sẽ gửi bản sửa đổi trong hôm nay không?
+Vui lòng cập nhật lịch trình của bạn trên lịch.
+Vui lòng thông báo cho các thành viên của đội về lịch trình cập nhật.
+Vui lòng gửi báo cáo dưới dạng PDF.
+Vui lòng tóm tắt ngắn gọn báo cáo.
+Xin hãy chia sẻ báo cáo.
+Vui lòng gửi báo cáo vào cuối ngày hôm nay.
+Hãy viết báo cáo.
+Vui lòng viết báo cáo của bạn theo định dạng chuẩn.
+Vui lòng tuân thủ các quy tắc an ninh.
+Vui lòng tuân thủ các quy tắc an ninh.
+Nếu bạn bị mất mã thông báo bảo mật, vui lòng báo cáo ngay lập tức.
+Vui lòng thay đổi mật khẩu của bạn để bảo mật.
+Vui lòng mang theo thẻ an ninh.
+Đội an ninh khuyên chúng tôi nên thay đổi mật khẩu thường xuyên.
+Nhóm bảo mật có kế hoạch ngăn chặn việc chia sẻ liên kết bên ngoài.
+Nhóm bảo mật đã hạn chế việc sử dụng các thiết bị lưu trữ bên ngoài.
+Người quản lý đã chỉ đạo chúng tôi đáp ứng yêu cầu của khách hàng càng nhiều càng tốt.
+Người quản lý cũng yêu cầu bạn thảo luận với đội kia phải không?
+Người quản lý đã hướng dẫn chúng tôi thực hiện nó như một dự án thí điểm trước tiên.
+Người quản lý đã hướng dẫn chúng tôi đơn giản hóa hệ thống báo cáo.
+Người quản lý có yêu cầu bạn thay đổi định dạng của báo biểu không?
+Người quản lý bảo tôi cân nhắc chi phí so với lợi ích.
+Giám đốc đang kiểm tra lại ngân sách.
+Người quản lý đã yêu cầu bạn cắt giảm bao nhiêu ngân sách?
+Tại sao bạn lại hoãn cuộc họp?
+Giám đốc có cho phép bạn sử dụng một công ty bên ngoài không?
+Các bạn có hài lòng với màn trình diễn của tụi mình không?
+Anh quản lý có nghe ý kiến của nhóm mình không?
+Anh quản lý bảo chúng ta kết thúc khi nào vậy?
+Anh quản lý nói là hướng này ổn ạ?
+Người quản lý đã yêu cầu bạn nộp vấn đề này vào ngày mai chưa?
+Có phải người quản lý nói rằng ông sẽ quyết định vấn đề này hôm nay không?
+Người quản lý đã yêu cầu chia sẻ kế hoạch này với ai?
+Quản lý nói là lịch trình khá kín.
+Giám đốc hiện đang xem xét khả năng tuyển thêm nhân viên.
+Vui lòng xóa bất kỳ tệp không cần thiết nào.
+Vui lòng thay đổi mật khẩu của bạn.
+Vui lòng thay đổi mật khẩu của bạn thường xuyên.
+Vui lòng cập nhật thông tin liên lạc khẩn cấp của bạn.
+Vui lòng tính lại chi phí.
+Vui lòng sắp xếp và nộp biên lai chi phí của bạn.
+Lo các chi phí.
+Vui lòng cập nhật mã chi phí.
+Vui lòng đăng ký các vật tư cần thiết.
+Vui lòng nộp báo cáo về vụ việc.
+Đăng thông báo lên bảng thông báo của công ty.
+Vui lòng trả lời thông qua hệ thống tin nhắn nội bộ của chúng tôi.
+Xin hãy chắc chắn khóa cửa văn phòng.
+Vui lòng gửi cho tôi chi tiết sử dụng.
+Vui lòng trả lại thẻ nhân viên của bạn.
+Xin vui lòng cung cấp một giải thích chi tiết.
+Vui lòng đính kèm một bức ảnh.
+Vui lòng nộp báo cáo sau khi chết.
+Vui lòng cung cấp cho nhân viên mới các trang thiết bị cần thiết.
+Thử mẫu mới xem.
+Hãy nhìn vào hướng dẫn sử dụng công cụ mới.
+Hãy nhìn vào quy trình mới.
+Vui lòng sử dụng định dạng mới.
+Bạn có thể vui lòng cho tôi biết kết quả sàng lọc tài liệu vào cuối ngày hôm nay.
+Vui lòng kiểm tra lại các tài liệu.
+Vui lòng kiểm tra tài liệu.
+Các bạn hãy scan chữ ký của các bạn và đăng lên nhé.
+Vui lòng thêm chữ ký của bạn.
+Vui lòng ký tên và trả lại.
+Vui lòng kiểm tra trạng thái máy chủ.
+Vui lòng báo cáo kết quả kiểm tra máy chủ.
+Hãy viết thư giới thiệu và gửi cho mình nhé.
+Vui lòng phản ánh những thay đổi càng sớm càng tốt.
+Vui lòng gửi lại bản sửa đổi.
+Vui lòng gửi tài liệu slide trước khi cuộc họp bắt đầu.
+Sau khi được chấp thuận, vui lòng tiến hành hành hành động ngay lập tức.
+Vui lòng nộp nhật ký thời gian của bạn.
+Ai đang giám sát hệ thống?
+Hệ thống trên điện thoại di động có giống nhau không?
+Tại sao buổi sáng hệ thống luôn có vẻ chậm chạp?
+Có thể truy cập hệ thống từ bên ngoài không?
+Hệ thống sẽ tạm thời ngừng hoạt động trong quá trình bảo trì.
+Hệ thống dự kiến sẽ được nâng cấp vào cuối tuần.
+Hệ thống hiện đang hoạt động bình thường.
+Hệ thống vẫn trục trặc chứ?
+Vui lòng nộp bản dự thảo của bạn.
+Bạn có thể làm một video demo cho tôi trước được không?
+Bạn có thể cho cả nhóm xem video biểu diễn được không?
+Vui lòng tạo một tài khoản mới và cho tôi biết.
+Các nhân viên mới đã tham dự buổi giới thiệu công ty hôm nay.
+Bạn thích thiết kế nào nhất?
+Vui lòng giữ thông tin chi tiết cập nhật cho nhóm.
+Vui lòng ghi lại nhật ký làm việc.
+Vui lòng in hướng dẫn làm việc.
+Bạn có thể sắp xếp thời gian làm việc cho bạn được không?
+Bạn đã xem qua hướng dẫn dịch vụ khách hàng của chúng tôi chưa?
+Theo bạn, cách tốt nhất để xử lý thay đổi ca là gì?
+Bạn đã kiểm tra xem nó có đủ điều kiện để thay thế không?
+Anh nghĩ sao về quyết định đó?
+Bạn có thể chuẩn bị đúng giờ không?
+Hãy viết ra những mục tiêu mà các bạn đã quyết tâm đạt được.
+Bạn nghĩ ai sẽ là người cố vấn tốt?
+Hãy cập nhật cho chúng tôi mỗi sáng.
+Anh nhất định phải có mặt ở đó.
+Bạn đã chuẩn bị bài thuyết trình chưa?
+Anh đã kiểm tra đường dây cập nhật chưa?
+Bạn đã kiểm tra nội dung cập nhật chưa?
+Bạn đã kiểm tra bảng lương cập nhật chưa?
+Bạn nghĩ thị trường nào là đầu tiên?
+Theo bạn thì bao nhiêu là một số tiền hợp lý?
+Theo bạn thì loại nhiệm vụ nào là phù hợp với bạn?
+Theo bạn thì tiêu chí nào là tốt nhất để phân chia sự vật?
+Bạn muốn được giao cho loại nhiệm vụ nào?
+Theo bạn thì cần loại tự động hóa nào?
+Bạn thích sử dụng những công cụ nào?
+Anh có thể cắt bớt cái gì?
+Anh có để lại hồ sơ về công việc trên wiki không?
+Bạn có thể đến làm việc đúng giờ không?
+Bạn có hài lòng với tần suất các cuộc họp của chúng tôi không?
+Vui lòng xác nhận ngày có thể gia hạn.
+Vui lòng đính kèm biên lai của bạn.
+Đội ngũ bán hàng yêu cầu tôi cho họ xem một bản demo tại cuộc họp khách hàng.
+Đội ngũ bán hàng yêu cầu chúng tôi cung cấp tài liệu sự kiện trước cho sự kiện vào tháng tới.
+Nhóm bán hàng cho biết mục tiêu của tháng này hơi tham vọng.
+Đội ngũ bán hàng cũng yêu cầu thông báo việc làm.
+Vui lòng trả lời vào cuối ngày hôm nay.
+Vui lòng trả lời vào cuối ngày hôm nay.
+Vui lòng gửi lại phiên bản đã chỉnh sửa.
+Vui lòng chuẩn bị cho cuộc họp buổi chiều.
+Vui lòng cho tôi biết khi nào nó hoàn thành.
+Xin đừng chia sẻ bên ngoài nữa.
+Người đại diện của chúng tôi chỉ có mặt chiều nay.
+Bộ phận của chúng tôi cần cắt giảm chi phí vào tháng tới.
+Bộ phận của chúng ta sẽ tuyển thêm nhân viên vào tháng tới chứ?
+Bộ phận của chúng tôi sẽ di dời vào tháng tới.
+Trưởng bộ phận của chúng tôi muốn kết thúc tất cả các cuộc họp trong tuần này.
+Trưởng phòng của chúng tôi muốn nhận cập nhật hàng ngày về các nhiệm vụ đang chạy chậm tiến độ.
+Người quản lý của chúng tôi muốn nhận báo cáo về chuyến thăm của khách hàng.
+Người quản lý của chúng tôi đã đề nghị chúng tôi bắt đầu giảm công việc từ xa từ quý tới.
+Tụi mình nhất định sẽ thông báo cho tất cả các thành viên trong nhóm.
+Nhóm chúng tôi sẽ gửi phản hồi của chúng tôi vào ngày mai.
+Đội của chúng tôi sẽ bước vào giai đoạn thử nghiệm bắt đầu vào ngày mai.
+Ai sẽ phụ trách dịch vụ khách hàng cho đội của chúng tôi?
+Chúng tôi có thể nhận được sự giúp đỡ từ các bộ phận khác không?
+Đội của chúng tôi sẽ đến thăm khách hàng vào tuần tới.
+Đội của chúng ta có thể đáp ứng được thời hạn không?
+Nhóm của chúng tôi sẽ chuẩn hóa các quy ước đặt tên cho các tài liệu.
+Nếu có vấn đề gì xảy ra, chúng tôi sẽ đăng chúng lên group chat ngay.
+Phạm vi hoạt động của chúng ta là gì hoặc trong phạm vi trách nhiệm của chúng ta?
+Chúng tôi sẽ sắp xếp lại nhiệm vụ của nhóm.
+Tối nay chúng ta có phải làm thêm giờ không?
+Liệu đội của chúng ta có thể đưa ra kết quả trong hôm nay không?
+Đội của chúng tôi sẽ chỉ nhận các cuộc gọi tư vấn vào buổi sáng.
+Nhóm chúng tôi sẽ chỉ nhận email từ bên ngoài thông qua tài khoản này.
+Chúng tôi có thể sử dụng công ty bên ngoài cho đội của chúng tôi không?
+Bạn có nghĩ rằng việc đội của chúng ta thuê ngoài là một ý hay không?
+Nhóm chúng tôi có nên ưu tiên phát triển tính năng này không?
+Làm thế nào để chúng ta phân tích và giải quyết vấn đề này như một đội?
+Nhóm của chúng tôi sẽ ưu tiên hàng đầu trong việc giải quyết vấn đề này.
+Sẽ tốt hơn nếu đội của chúng ta có hai người làm việc cùng nhau?
+Đội của chúng tôi có thể chuẩn bị bản demo vào cuối tháng này không?
+Đội của chúng tôi đã vượt quá mục tiêu hàng quý.
+Chúng tôi có một bữa ăn tập thể vào thứ Sáu này.
+Tuần này chúng ta có làm việc muộn nữa không?
+Nhóm chúng tôi đã quyết định tổ chức một buổi trình diễn vào lần này.
+Đội của chúng tôi sẽ ghi lại sự tiến bộ của chúng tôi mỗi ngày.
+Chúng ta có nên tạo một báo cáo không?
+Nhóm chúng tôi sẽ ghi lại kết quả kiểm tra.
+Chúng tôi có thể đảm bảo thêm nhân viên kiểm tra cho đội của chúng tôi không?
+Sẽ tốt hơn nếu đội của chúng ta tổ chức các cuộc họp trực tuyến?
+Trưởng nhóm của chúng tôi đề nghị chúng tôi giảm bớt phản ứng của khách hàng một chút.
+Trưởng tổ của chúng tôi đề nghị rằng chúng tôi chỉ định một thành viên tổ chuyên trách cho từng khách hàng.
+Trưởng nhóm của chúng tôi đề nghị chúng tôi chuẩn hóa các tiêu đề tài liệu.
+Trưởng nhóm của chúng tôi nhấn mạnh tầm quan trọng của việc ghi lại mọi thứ.
+Trưởng tổ của chúng tôi đề nghị rằng chúng tôi ghép đôi người phát triển mới với người cố vấn.
+Trưởng nhóm của chúng tôi đề nghị chúng tôi thuê thêm thực tập sinh trong nửa cuối năm nay.
+Trưởng nhóm của chúng tôi đề nghị chúng tôi thăm lại và đặt mục tiêu mới cho năm nay.
+Trưởng phòng của chúng tôi đã yêu cầu chúng tôi nộp một video demo vào cuối tuần này.
+Trưởng nhóm của chúng tôi đề nghị chúng tôi họp mỗi tuần một lần thay vì thường xuyên hơn.
+Trưởng nhóm của chúng tôi đề nghị chúng tôi chuyển sang một công cụ hợp tác mới.
+Công ty chúng tôi có trang trải chi phí giáo dục không?
+Công ty chúng tôi đang chuẩn bị mở rộng đáng kể thị trường quốc tế vào năm tới.
+Từ ngày mai, công ty chúng tôi sẽ bắt đầu làm việc sớm hơn 30 phút.
+Công ty chúng tôi đã rút ngắn chu kỳ thay thế máy tính xách tay.
+Công ty chúng tôi sẽ tiến hành một buổi đào tạo cho các nhà phỏng vấn vào tháng tới.
+Công ty chúng tôi sẽ tiến hành cải tổ tổ tổ chức vào tháng tới.
+Công ty chúng tôi đã quyết định giao bài tập trong suốt cuộc phỏng vấn.
+Công ty chúng tôi có kế hoạch tiết lộ các tiêu chuẩn lương dựa trên hiệu suất làm việc của mình không?
+Công ty chúng tôi có trả tiền làm thêm giờ không?
+Năm nay, công ty chúng tôi đã thiết lập KPI mới.
+Năm nay công ty chúng ta có tuyển dụng thực tập sinh nữa không?
+Công ty chúng tôi sẽ sửa đổi chính sách làm việc từ xa của mình chứ?
+Chúng ta có đang xem xét việc áp dụng dự án này vào thị trường quốc tế không?
+Công ty chúng tôi dự kiến sẽ trải qua một cuộc kiểm toán bên ngoài trong tháng này.
+Công ty chúng tôi gần đây đã cải tổ lại hệ thống phúc lợi của mình.
+Công ty chúng tôi có chính sách làm việc từ xa không?
+Chúng ta cần chạy lại quy trình QA.
+Chúng ta có cần giải quyết khiếu nại của khách hàng trong vòng một ngày không?
+Chúng ta có nên giữ an toàn thông tin khách hàng không?
+Chúng tôi sẽ tổ chức các cuộc họp khách hàng trực tuyến.
+Chúng ta cần thu hẹp phạm vi mà khách hàng đang tìm kiếm.
+Chúng ta có thể đáp ứng thời hạn phát triển không?
+Chúng ta có thể điều chỉnh điều kiện đó không?
+Chúng ta có cần nộp bản dự thảo trước thứ sáu không?
+Chúng ta có cần nộp video demo vào ngày mai không?
+Chúng ta có thể phát hành phiên bản tiếp theo sớm hơn so với kế hoạch không?
+Chúng ta có đang chuẩn bị cho quá trình tuyển dụng quý tới không?
+Chúng ta có nên lường trước những rủi ro trước không?
+Chúng ta cần huấn luyện lại các giao thức an ninh.
+Chúng ta cần được chấp thuận về chi phí trước.
+Chúng ta có nên thu thập phản hồi của người dùng không?
+Chúng ta cần tuân theo luật mới.
+Tuần sau chúng tôi sẽ tiến hành đánh giá hiệu suất.
+Chúng ta có định giới thiệu một công cụ mới không?
+Chúng ta có thể điều chỉnh nó bao nhiêu?
+Chúng ta có nên chuẩn hóa quy trình làm việc của mình không?
+Chúng ta cần cắt giảm ngân sách một chút.
+Chúng tôi sẽ kết thúc buổi phỏng vấn cho các tân binh hôm nay.
+Chúng ta có cần đưa ra quyết định trong hôm nay không?
+Chúng ta cần thu thập ý kiến vào cuối ngày hôm nay.
+Chúng ta sẽ thảo luận sau khi cuộc họp bên ngoài kết thúc.
+Chúng ta có nên đưa ra phản hồi chính thức về vấn đề này không?
+Chúng ta cần thăm lại và điều chỉnh mục tiêu cho quý này.
+Tuần này chúng tôi sẽ tiến hành đánh giá mã.
+Chúng ta có nên xác định rõ vai trò của mình trong dự án này không?
+Chúng ta có nên điều tra nguyên nhân của sự chậm trễ không?
+Chúng ta có cần phải trình báo cáo tài chính của mình lên công chúng không?
+Chúng ta có tổ chức một cuộc họp đầy đủ hàng tháng không?
+Chúng tôi sẽ viết lại mô tả công việc.
+Chúng tôi sẽ công bố những ứng cử viên cuối cùng thành công vào tuần tới.
+Chúng ta sẽ kiểm tra mục tiêu của đội theo quý chứ?
+Chúng tôi sẽ chia sẻ kết quả đánh giá với tất cả nhân viên.
+Chúng ta đang thiếu nhân lực à?
+Chúng ta có rất ít chỗ để thương lượng.
+Chúng ta có thể chuyển sang một công cụ hợp tác khác không?
+Nhóm điều hành dự định thực hiện quy trình đăng nhập hai bước.
+Nhóm điều hành đang lên kế hoạch giới thiệu một công cụ giám sát mới.
+Nhóm điều hành đã chỉ đạo chúng tôi tạo tài khoản nhân viên mới trước một ngày.
+Nhóm điều hành đang tìm cách cải tổ quy trình ứng phó với sự cố của họ.
+Nhóm hoạt động đã cập nhật định dạng báo cáo sự cố.
+Xin đừng xóa tập tin gốc.
+Vui lòng nộp tài liệu gốc.
+Vui lòng gửi cho tôi tài liệu gốc.
+Vui lòng kiểm tra lại bản báo giá này.
+Hợp đồng này có cần sự chấp thuận của bạn không?
+Chúng ta có thể gia hạn thời hạn này không?
+Ai chịu trách nhiệm phê duyệt cuối cùng cho văn bản này?
+Tôi nên cho ai xem tài liệu này trước?
+Tài liệu này nên được lưu trong một thư mục an toàn.
+Bạn có cần tài liệu này bằng tiếng Anh không?
+Bạn có thể hoàn tất việc đọc tài liệu này vào cuối ngày hôm nay không?
+Tài liệu này không được phép mang ra nước ngoài.
+Tôi có nên chia sẻ tài liệu này với đội nhân sự không?
+Tài liệu này chỉ nên được sử dụng với phiên bản mới nhất.
+Hãy nhìn vào tài liệu này.
+Báo cáo này sẽ được gửi trực tiếp đến đội ngũ quản lý.
+Báo cáo sẽ được công bố vào sáng mai.
+Tôi có nên nộp báo cáo này trực tiếp cho trưởng bộ phận không?
+Báo cáo phải chính xác về số lượng.
+Bản báo cáo này chỉ cần những con số thôi sao?
+Báo cáo này có nên được cập nhật với các con số mới nhất không?
+Tôi có thể đính kèm nhiều tệp vào báo cáo này không?
+Tôi có nên gửi báo cáo này trước cuộc họp không?
+Tôi có thể tự lo được không?
+Lịch trình đã được thay đổi theo yêu cầu của khách hàng.
+Lịch trình này đã được thống nhất với khách hàng chưa?
+Lịch trình này được phối hợp với lịch trình của các sở khác.
+Các thành viên khác có biết lịch trình này không?
+Bất kỳ thay đổi nào đối với lịch trình này đều phải được công bố trước.
+Chúng ta có thể dời lịch này sang sáng mai không?
+Tôi có thể đổi lịch trình này sang buổi chiều được không?
+Lịch trình này có thể được thực hiện hoàn toàn trực tuyến không?
+Lịch trình này dành cho nhiều người tham dự hơn phải không?
+Chúng ta có thể tiến hành dự án này mà không cần sự chấp thuận của khách hàng không?
+Ai chịu trách nhiệm giám sát dự án này từ đầu đến cuối?
+Dự án này có yêu cầu trình bày không?
+Bộ phận nào chịu trách nhiệm cuối cùng trong việc đưa ra quyết định cuối cùng về dự án này?
+Liệu dự án này có phù hợp với ngân sách của chúng ta không?
+Tôi có thể nhận được tài trợ cho dự án này ở đâu?
+Dự án này mất nhiều thời gian hơn dự kiến.
+Việc kiểm thử dự án này sẽ được hoàn thành vào cuối ngày hôm nay.
+Làm gì mà lâu thế mới được phê duyệt dự án này?
+Chúng ta có thể khoán ngoài dự án này không?
+Chúng ta có nên cùng chịu trách nhiệm cho dự án này không?
+Những rủi ro hoặc rủi ro tiềm ẩn liên quan đến dự án này là gì?
+Dự án này cần được hoàn thành và thực hiện vào cuối tháng này.
+Có thay đổi gì nữa trong lịch trình dự án không?
+Dự án này yêu cầu thêm nhân viên kiểm tra.
+Gửi email ngay lập tức.
+Hãy xem các hình ảnh sau khi tải xuống.
+Hãy đặt lại những ưu tiên của chúng ta cho tuần này.
+Đội tái định cư đã hoàn tất bố trí chỗ ngồi chưa?
+Đăng ký vấn đề của bạn với thiết bị theo dõi ngay lập tức.
+Đội HR đã chia sẻ kế hoạch đào tạo của họ với bạn chưa?
+Đội nhân sự đã hoàn tất lịch phỏng vấn chưa?
+Nhóm nhân sự đã tạo ra một mẫu phản hồi mới cho người phỏng vấn.
+Đội HR đã cập nhật bảng lương.
+Đội HR có thể gửi thư đề nghị không?
+Đội ngũ nhân sự đang yêu cầu tình trạng hoàn thành khóa đào tạo năm nay.
+Đội ngũ nhân sự có thể điều chỉnh ngày bắt đầu tuyển dụng mới không?
+Tổ nhân sự có đề cập rằng họ cần thêm thông tin liên quan đến quy trình tuyển dụng không?
+Lịch tuyển dụng đã được hoàn tất chưa?
+Đội ngũ nhân sự đã gia hạn một đề nghị cho ứng cử viên cuối cùng.
+Đội HR đã nhận được tất cả các thông tin ứng cử viên chưa?
+Đội ngũ nhân sự yêu cầu tôi cung cấp đánh giá chi tiết về các ứng viên.
+Hãy cập nhật lịch trình của bạn.
+Vui lòng thêm lịch trình vào lịch của bạn.
+Nhóm quản lý đã đánh giá chỉ số đó như thế nào?
+Vui lòng nộp hồ sơ xin việc của bạn.
+Vui lòng gửi dữ liệu trong hôm nay.
+Thu thập dữ liệu của bạn vào một thư mục duy nhất.
+Anh có thể tự do đứng dậy khỏi chỗ ngồi.
+Vui lòng ghi lại giờ làm việc của bạn.
+Vui lòng đăng xuất khi bạn hoàn thành công việc của mình.
+Để thuê thiết bị, vui lòng đặt trước.
+Vui lòng kiểm tra thiết bị.
+Vui lòng kiểm tra số lượng hàng tồn kho.
+Đội ngũ tài chính yêu cầu tôi phê duyệt đến cấp độ thứ hai.
+Nhóm tài chính tuyên bố rằng mã chi phí không chính xác.
+Nhóm tài chính đã yêu cầu biên lai gốc.
+Đội ngũ tài chính đặc biệt hướng dẫn tôi lưu ý lý do cho việc vượt ngân sách.
+Nhóm tài chính đang yêu cầu thêm tài liệu để hỗ trợ các giao dịch thẻ.
+Vui lòng kiểm tra thông báo khởi động lại.
+Tôi dự định tiến hành phỏng vấn trực tuyến vòng đầu tiên.
+Tôi sẽ tạo thêm vụ án mà QA đã yêu cầu.
+Tôi đã tổng hợp tất cả phản hồi từ đội QA.
+Tôi đã sắp xếp quyền truy cập cho máy chủ phát triển.
+Tôi nghĩ lịch trình phát triển đang chạy chậm hơn lịch trình.
+Tôi đã xem lại bản báo giá một lần nữa.
+Tôi đã để lại câu trả lời cho câu hỏi của khách hàng.
+Tôi sẽ trả lời các câu hỏi của khách hàng ngay lập tức.
+Tôi sẽ tóm tắt kết quả cuộc họp khách hàng của chúng ta cho cả đội.
+Tôi sẽ xem xét và hoàn tất chương trình nghị sự cho cuộc họp khách hàng của chúng ta.
+Tôi sẽ tóm tắt những tâm sự của khách hàng và chia sẻ với bạn.
+Tôi đã biên soạn và đăng tải khiếu nại của khách hàng.
+Tôi sẽ thử liên lạc lại với khách hàng.
+Tôi muốn thảo luận về một hợp đồng dài hạn với khách hàng của chúng tôi.
+Tôi sẽ liên lạc với khách hàng ngay.
+Tôi đã biên soạn các mục bảo mật mà khách hàng yêu cầu.
+Tôi sẽ sớm chia sẻ bản thảo với nhóm.
+Tôi có thể cung cấp cho bạn tỷ lệ tham dự dưới dạng số liệu.
+Tôi đã tổng hợp tất cả các yêu cầu khẩn cấp tại một nơi.
+Tôi đã kiểm tra ngân sách còn lại.
+Lịch làm việc của tôi linh hoạt vào ngày mai.
+Tôi sẽ chuẩn bị bản báo giá vào ngày mai.
+Tôi sẽ cập nhật trường hợp kiểm tra vào ngày mai.
+Bắt đầu từ ngày mai, tôi sẽ ra khỏi văn phòng rất nhiều.
+Tôi đã chọn những tính năng sẽ được đưa vào phiên bản tiếp theo.
+Tôi muốn lấp đầy vị trí trong quý tới.
+Tôi sẽ tiến hành một cuộc phỏng vấn kỹ thuật với ứng cử viên vào thứ Tư tới.
+Tôi sẽ bắt đầu chuẩn bị cho chuyến đi của mình vào tuần tới.
+Tôi đã xin nghỉ phép cho tuần tới.
+Tôi có kế hoạch lấy kỳ nghỉ hàng năm của mình vào tuần tới.
+Tôi đã nhập tất cả các kế hoạch của tôi cho đến tháng tới.
+Tôi sẽ thay thế người phụ trách vào cuối ngày hôm nay.
+Tôi đã kiểm tra với người phụ trách để xác nhận.
+Tôi đang lên kế hoạch điều chỉnh một số cấu trúc cơ sở dữ liệu.
+Tôi đã hoàn thành lịch trình với đội thiết kế.
+Tôi đã phân tích các yếu tố rủi ro thành một bảng.
+Thật không may, do mâu thuẫn về lịch trình, chỉ một người có thể tham dự cuộc phỏng vấn.
+Tôi đã sắp xếp lịch phỏng vấn mâu thuẫn với nhau.
+Tôi đã lập một danh sách các câu hỏi cho cuộc phỏng vấn.
+Tôi đã định dạng tài liệu phù hợp với tiêu chuẩn của công ty chúng tôi.
+Tôi cũng đã viết tài liệu bằng tiếng Anh.
+Tôi đã làm một video để tái hiện lại vấn đề và gửi cho bạn.
+Tôi đã xác định được vấn đề và đang thực hiện các bước để giải quyết nó.
+Tôi đã gửi link họp cho tất cả mọi người.
+Tôi đã sắp xếp lại thứ tự trình bày.
+Tôi đã đưa logo công ty vào tài liệu thuyết trình.
+Tôi đã sắp xếp tài liệu thuyết trình theo cách dễ hiểu.
+Tôi vừa kiểm tra nhật ký máy chủ.
+Mình vừa mới up bản cập nhật lên.
+Tôi vừa tải lên tập tin đã được chỉnh sửa.
+Tôi đã chia sẻ danh sách kiểm tra trước khi triển khai với mọi người.
+Tôi muốn chuẩn hóa định dạng báo biểu.
+Tôi sẽ nộp báo cáo trước chiều nay.
+Tôi cũng đã chuẩn bị một email thông báo cho những bạn không đậu.
+Tôi đã đọc lại các quy tắc nội bộ của công ty.
+Tôi đã thông báo điều đó thông qua hệ thống tin nhắn nội bộ của công ty.
+Tôi đã yêu cầu truy cập vào hệ thống nội bộ của công ty.
+Tôi sẽ đăng chính sách mới bằng cả tiếng Hàn và tiếng Anh.
+Tôi đã giải thích công việc cho thực tập sinh mới.
+Tôi sẽ giải thích cấu trúc của đội cho các thành viên mới.
+Tôi đã chia sẻ lịch trình cập nhật với bộ phận.
+Tôi có thể cho bạn thấy kết quả kiểm tra hiệu suất bằng cách so sánh chúng.
+Tôi đã kết hợp tất cả các thay đổi.
+Tôi sẽ kiểm tra tính năng mới trước.
+Hiện tại tôi đang chuẩn bị một bài thuyết trình về dịch vụ mới của chúng tôi.
+Tôi đã viết một hướng dẫn chào đón các nhân viên mới.
+Tôi đã tạo một tài khoản cho nhân viên mới.
+Tôi muốn tham gia vào dự án mới.
+Tôi đã xác định được điểm mạnh của các thành viên mới.
+Tôi sẽ tái tạo nó trong một phiên bản thân thiện hơn với người hành nghề.
+Tôi đã gửi một email xin lỗi đến khách hàng ngày hôm qua.
+Hôm qua tôi đã làm việc đến tận khuya.
+Tôi đã kiểm tra tất cả các tài liệu bạn yêu cầu ngày hôm qua.
+Tôi được biết rằng công việc tôi yêu cầu ngày hôm qua vẫn chưa hoàn thành.
+Tôi đã sao lưu công việc tôi đã làm ngày hôm qua.
+Tôi đã ghi lại các ý tưởng từ cuộc họp ngày hôm qua.
+Tôi đã tiếp quản một công việc mới từ hôm qua.
+Tôi sẽ nộp báo cáo doanh thu hàng tuần.
+Tôi đã soạn xong các yêu cầu bán hàng.
+Tôi đã làm việc với đội ngũ bán hàng để điều chỉnh giá cả.
+Tôi đã cập nhật kế hoạch ngân sách.
+Tôi đã sao lưu dữ liệu cũ của tôi.
+Hôm nay tôi đã cập nhật hướng dẫn ứng phó của khách hàng.
+Hôm nay tôi sẽ xử lý bài thuyết trình về giáo dục.
+Hôm nay tôi cần nộp báo cáo của mình.
+Tôi muốn kết thúc chương trình nghị sự hôm nay.
+Tôi sẽ gửi tiền vào cuối ngày hôm nay.
+Tôi sẽ cho bạn biết kết quả vào cuối ngày hôm nay.
+Tôi sẽ đệ trình phê duyệt vào cuối ngày hôm nay.
+Hôm nay tôi đã đệ trình yêu cầu ngân sách của mình.
+Sáng nay tôi đi làm hơi muộn.
+Hôm nay tôi sẽ tập trung nghiên cứu dữ liệu.
+Hôm nay tôi làm việc ở nhà.
+Hôm nay tôi đã gửi hợp đồng cho khách hàng.
+Tôi đã đặt một bữa ăn trưa theo nhóm cho ngày hôm nay.
+Hôm nay tôi sẽ chủ trì cuộc họp nhóm.
+Tôi sẽ hoàn tất việc bàn giao công việc vào cuối ngày hôm nay.
+Tôi đã hoàn thành việc trả lời tất cả các email của tôi sáng nay.
+Tôi có hai cuộc họp vào buổi sáng.
+Tôi đã sửa tất cả các lỗi chính tả.
+Tôi sẽ liên lạc với đội phát triển chiều nay.
+Tôi muốn diễn tập bài thuyết trình dự kiến chiều nay.
+Tôi đã phân tích lịch trình lên máy bay theo ngày.
+Tôi đã chia sẻ trước lịch họp với bạn.
+Tôi đã so sánh các trích dẫn từ các công ty bên ngoài.
+Tôi đã biên soạn một báo cáo tóm tắt kết quả hoạt động của bộ phận chúng tôi.
+Tôi đã tóm tắt những ưu và nhược điểm của sản phẩm của chúng tôi.
+Mình sẽ thiết lập lại mục tiêu của đội.
+Tôi đã soạn ra một danh sách các kỹ năng mà đội của chúng ta cần.
+Tôi kết nối từ xa với hệ thống.
+Tôi muốn định nghĩa rõ ràng quyền ra quyết định của mình.
+Cuối cùng tôi đã chấp thuận hợp đồng này.
+Tôi nghĩ tốt nhất là nên triển khai tính năng này trước.
+Tôi sẽ chuyển vấn đề này cho bộ phận khác.
+Tôi nghĩ chúng ta cần giải quyết vấn đề này trước.
+Tôi thấy khó khăn khi tự mình xử lý công việc này.
+Tôi sẽ đánh giá lại các ưu tiên cho nhiệm vụ này.
+Tôi sẽ ưu tiên vấn đề này.
+Tôi sẽ nộp tài liệu này cho giám đốc.
+Tôi sẽ chia sẻ thông tin này với đội.
+Tôi rất mong được tham gia khóa đào tạo này.
+Tôi biết mục tiêu bán hàng tháng này.
+Tôi đã nộp đơn xin đào tạo trong tháng này.
+Tôi đã dự đoán doanh số bán hàng của chúng ta trong quý này.
+Tôi đã đưa cả bảng và biểu đồ vào kết quả phân tích.
+Tôi sẽ giải thích về chương trình nghị sự này tại cuộc họp ngày mai.
+Tôi sẽ chuyển chương trình nghị sự này sang cuộc họp tuần tới.
+Mình sẽ kết thúc vào cuối tuần này.
+Tôi có lịch đến thăm công ty khách hàng trong tuần này.
+Tôi muốn thực hiện một hoạt động xây dựng đội ngũ trong tuần này.
+Tôi đã gửi một email hỏi thăm tới đội nhân sự.
+Tôi đã soạn một danh sách các nhiệm vụ cho các thực tập sinh.
+Tôi sẽ triển khai nó với cài đặt mặc định ngay bây giờ.
+Tôi đã thận trọng với ngân sách của mình ngay từ đầu.
+Tôi đã tạo ra một lịch trình thực tế để bắt đầu.
+Tôi vừa gửi một lịch trình chia sẻ qua email.
+Tôi sẽ thông báo cho tất cả nhân viên về việc thay đổi lịch trình.
+Tôi đã gửi cho bạn một email với lịch trình cập nhật.
+Mình có rất nhiều việc phải làm, nên mình cần phải ưu tiên hàng đầu.
+Tôi có thể giải thích lý do cho sự chậm trễ trong lịch trình của chúng tôi.
+Tôi sẽ kiểm tra nó ngay khi tôi trở lại chỗ của mình.
+Lát nữa tôi sẽ đến phòng họp.
+Tôi đã sắp xếp các nhiệm vụ lâu dài của mình thành một danh sách.
+Tôi đã yêu cầu đội tài chính xử lý các chi phí.
+Tôi đã xử lý yêu cầu đã được chuyển cho tôi.
+Tôi biết hạn chót là ngày mai.
+Tôi đã phân loại các lỗi chính thành nhiều loại.
+Tôi hiện đang sắp xếp các yêu cầu của khách hàng.
+Tôi có thể tạo một bản demo với phiên bản hiện tại.
+Tôi đã giao vấn đề cho người có liên quan.
+Hiện tại mình đang đứng ở ngoài.
+Tôi hiện đang kiểm tra máy chủ thử nghiệm.
+Tôi đã tham dự một buổi đào tạo vào tuần trước và tóm tắt các điểm chính.
+Tôi đã làm cho bảng chỉ dẫn thân thiện hơn với người dùng.
+Tôi sẽ quản lý tài liệu cuối cùng dưới tên phiên bản của nó.
+Tôi đã sắp xếp một cuộc họp khách hàng vào 3 giờ chiều.
+Tôi đã soạn xong yêu cầu của khách hàng.
+Tôi đã biên soạn lại lịch sử giao tiếp cho mỗi khách hàng.
+Tôi đã chia sẻ kết quả kiểm tra trên bảng tính.
+Tôi đã tạo ra kết quả kiểm tra trên Excel.
+Tôi vừa thiết lập một máy chủ thử nghiệm mới.
+Tôi sẽ kiểm tra nó trước trong môi trường thử nghiệm.
+Mình sẽ đăng kết quả lên trước khi đi.
+Tôi sẽ trả lại thiết bị trước khi về nhà.
+Tôi đã theo dõi hoạt động của đội chúng tôi hàng tháng.
+Tôi sẽ biên soạn báo cáo sử dụng ngân sách của đội.
+Tôi đã cung cấp mô tả chi tiết hơn về vị trí đó.
+Tôi sẽ tóm tắt các yếu tố rủi ro của dự án và đăng chúng lên.
+Tôi sẽ viết báo cáo hoàn thành dự án.
+Tôi đã sắp xếp lại cấu trúc hồ sơ dự án.
+Tôi cần đồng bộ lịch trình của tôi với văn phòng nước ngoài.
+Tôi đã yêu cầu công ty đối tác gia hạn hợp đồng.
+Tôi sẽ liên lạc lại với công ty đối tác.
+Tôi sẽ sử dụng máy tính xách tay của công ty cho đến ngày mai.
+Tôi đã xem xét lại chính sách của công ty một lần nữa.
+Tôi đã cập nhật hồ sơ của công ty lên phiên bản mới nhất.
+Tôi sẽ tóm tắt các chi phí cho bữa tiệc công ty và nộp chúng cho đội tài chính.
+Tôi đã chia chương trình họp thành ba điểm chính.
+Tôi không muốn chủ đề cuộc họp quá phức tạp.
+Tôi đã cập nhật danh sách người tham dự cuộc họp.
+Tôi đã cố gắng giữ biên bản ngắn gọn nhất có thể.
+Tôi đã đặt phòng hội nghị trong một giờ.
+Tôi biết là chúng ta thiếu phòng họp.
+Tôi cũng soạn biên bản cuộc họp bằng tiếng Anh.
+Tôi đã xem lại hồ sơ của ứng cử viên.
+Tôi đã đăng danh sách những người đang đi nghỉ.
+Xin hãy trả lời điện thoại.
+Vui lòng yêu cầu truy cập.
+Vui lòng lên lịch kiểm tra bảo dưỡng định kỳ.
+Vui lòng kiểm tra quy tắc tiêu đề.
+Dọn dẹp các tập tin trùng lặp.
+Các bạn hãy đăng thông báo quan trọng lên kênh của nhóm nha.
+Hãy làm nổi bật những điểm chính.
+Vui lòng tải lên các tài liệu hỗ trợ.
+Vui lòng báo cáo nếu có sự chậm trễ.
+Vui lòng xử lý các yêu cầu hiện tại trước.
+Xin hãy yêu cầu giúp đỡ.
+Vui lòng tải lên danh mục đầu tư của bạn.
+Anh đã nghiên cứu về công ty chúng tôi chưa?
+Vai trò của bạn trong công ty trước đây là gì?
+Nhóm hỗ trợ muốn sửa đổi giao thức phản hồi ban đêm.
+Đội hỗ trợ đang làm việc để tăng tốc độ xử lý vé.
+Hãy ghi lại quá trình tiến hành của bạn.
+Xin hãy chia sẻ tiến độ của bạn với tôi mỗi ngày.
+Bạn có thể vui lòng cho tôi biết nếu bạn có thể tham dự.
+Vui lòng gửi danh sách người tham dự cuối cùng.
+Bạn có thể vui lòng cho tôi biết kết quả của quá trình xử lý.
+Xin vui lòng nộp hồ sơ điểm danh.
+Vui lòng kiểm tra hồ sơ điểm danh của bạn.
+Vui lòng giữ cho tin nhắn của bạn mở ngay khi bạn đến nơi làm việc.
+Vui lòng đăng bản in lên bảng thông báo.
+Nếu bạn cần bất kỳ tài liệu in nào, vui lòng ghé qua văn phòng bất cứ lúc nào.
+Vui lòng nộp báo cáo du lịch của bạn.
+Hãy đặt mua lịch của chúng tôi.
+Vui lòng gửi email hoàn thành cho khách hàng.
+Vui lòng ghi lại kết quả kiểm tra.
+Thêm nhiều trường hợp kiểm tra vào hỗn hợp.
+Thêm một trường hợp kiểm tra.
+Vui lòng xác minh trường hợp thử nghiệm.
+Vui lòng chạy lại bài kiểm tra.
+Các thành viên trong nhóm có hiểu chính sách này không?
+Các thành viên trong nhóm có đồng ý với lịch trình thay đổi không?
+Vui lòng chia sẻ thông tin tương tự với các thành viên trong nhóm của bạn.
+Trưởng nhóm đang chờ kết quả được báo cáo.
+Trưởng nhóm hướng dẫn chúng tôi kết hợp phản hồi của khách hàng ngay lập tức.
+Trưởng nhóm đã nói chuyện với khách hàng chưa?
+Bạn sẽ liên lạc trực tiếp với khách hàng chứ?
+Trưởng nhóm sẽ có mặt vào ngày mai phải không?
+Trưởng nhóm sẽ đi công tác vào ngày mai.
+Trưởng nhóm đề nghị chúng tôi đơn giản hóa thiết kế.
+Ông thích hình thức nào hơn, thưa ông?
+Trưởng nhóm đã kiểm tra tất cả các email ngày hôm qua.
+Trưởng nhóm nói rằng chiều nay ông ấy chỉ có thể tham khảo ý kiến.
+Bạn có thể cho tôi biết tại sao lịch trình bị trì hoãn không?
+Bạn đã có cơ hội xem lại báo cáo của chúng tôi chưa?
+Các bạn đã xem lịch trình của tụi mình chưa?
+Trưởng nhóm có kế hoạch mở rộng đội của chúng ta không?
+Trưởng nhóm đang đợi chúng ta thực hiện bước đầu tiên và đưa ra đề xuất.
+Trưởng nhóm sẽ đệ trình báo cáo này lên CEO.
+Trưởng nhóm đang mong đợi kết quả ở cấp độ này.
+Trưởng nhóm đã thông qua chương trình nghị sự này.
+Ngài sẽ giao nhiệm vụ này cho ai?
+Trưởng nhóm có hỏi lịch trình này có khả thi không?
+Trưởng nhóm có yêu cầu dữ liệu này bằng tiếng Anh không?
+Hôm nay trưởng nhóm sẽ xem dữ liệu này chứ?
+Trưởng nhóm muốn tôi xử lý vấn đề này.
+Trưởng nhóm đã ra lệnh cho chúng tôi kết thúc vụ này càng nhanh càng tốt.
+Trưởng nhóm đã lên kế hoạch cho ba cuộc họp trong tuần này.
+Trưởng nhóm đang xem xét kỹ dự án này.
+Trưởng nhóm có thể thêm một người vào nhóm.
+Trưởng phòng không muốn thay đổi lịch trình.
+Trưởng nhóm yêu cầu tôi đơn giản hóa dữ liệu.
+Trưởng nhóm có thể nói chuyện ngay bây giờ không?
+Vui lòng đổi tên tệp để phù hợp với quy tắc.
+Vui lòng đổi tên tệp để phù hợp với quy ước đặt tên.
+Vui lòng tải tệp lên thư mục chia sẻ.
+Tải tệp lên thư mục chia sẻ.
+Vui lòng tải lại tệp và kiểm tra lại.
+Vui lòng đính kèm tệp tin.
+Vui lòng kiểm tra tệp tin.
+Xin đừng chia sẻ mật khẩu với bất cứ ai bên ngoài.
+Vui lòng tạo một tập tin áp phích và gửi cho tôi.
+Bạn có thể xem qua bài thuyết trình không?
+Vui lòng ghi lại quy trình trong hướng dẫn sử dụng.
+Vui lòng cập nhật kế hoạch dự án lên phiên bản mới nhất.
+Hãy cập nhật kế hoạch dự án.
+Hãy cập nhật lịch trình dự án.
+Vui lòng cập nhật trạng thái dự án hàng ngày.
+Vui lòng sắp xếp lại hồ sơ dự án của bạn.
+Vui lòng cập nhật hồ sơ của bạn lên phiên bản mới nhất.
+Vui lòng in ra tài liệu và mang đến cuộc họp.
+Cứ tự nhiên liên lạc với tôi qua người đưa tin nếu anh cần gì.
+Nếu cần, hãy điều chỉnh các ưu tiên trước.
+Vui lòng tạo và phân phối tài liệu sự kiện.
+Vui lòng đăng báo cáo tình trạng.
+Giữ cho bảng tình trạng của bạn được cập nhật.
+Nếu bạn cần bất kỳ sự giúp đỡ hoặc hỗ trợ nào, xin đừng ngần ngại yêu cầu.
+Hãy bắt đầu với cuộc họp video.
+Vui lòng để lại phản hồi của bạn sau khi xem xét.
+Đội kế toán đã thông báo cho chúng tôi rằng biên lai đã bị mất.
+Vui lòng gửi cho tôi bản kê khai phí thành viên.
+Xin hãy chắc chắn đáp ứng đúng thời hạn cho câu trả lời của bạn.
+Bạn có thể gửi lại liên kết cuộc họp không?
+Vui lòng gửi cho tôi chương trình nghị sự trước.
+Chúng ta có thể sắp xếp lại cuộc họp không?
+Vui lòng thêm lịch họp vào lịch của bạn.
+Vui lòng gửi các mục hành động sau cuộc họp.
+Vui lòng xem lại biên bản cuộc họp.
+Xin vui lòng chia sẻ biên bản cuộc họp.
+Xin hãy nghỉ ngơi một chút.
+Chia sẻ biên bản cuộc họp trên kênh nhóm.
+Hãy bắt đầu với cuộc họp.
+Vui lòng đặt phòng hội nghị trước.
+Vui lòng đặt phòng hội nghị trước.
+Vui lòng đặt phòng họp.
+Ứng cử viên có yêu cầu một cuộc họp để thảo luận về cách điều trị không?
